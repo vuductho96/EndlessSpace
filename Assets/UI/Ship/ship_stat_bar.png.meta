@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: eab68eb59aafa5c48b684ab576c25000
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7914693004782137363
+    second: ship_stat_bar_0
+  - first:
+      213: -6163805662151683831
+    second: ship_stat_bar_1
+  - first:
+      213: -2822934379037993710
+    second: ship_stat_bar_2
+  - first:
+      213: 5852719717143498195
+    second: ship_stat_bar_3
+  - first:
+      213: -753625920028885348
+    second: ship_stat_bar_4
+  - first:
+      213: -2364502654900891427
+    second: ship_stat_bar_5
+  - first:
+      213: 3250473782178961361
+    second: ship_stat_bar_6
+  - first:
+      213: 4873929911459798855
+    second: ship_stat_bar_7
+  - first:
+      213: -5017845193893695211
+    second: ship_stat_bar_8
+  - first:
+      213: -2212846231834077696
+    second: ship_stat_bar_9
+  - first:
+      213: 8983939321841189704
+    second: ship_stat_bar_10
+  - first:
+      213: -3350875692382452648
+    second: ship_stat_bar_11
+  - first:
+      213: 7023466797224781017
+    second: ship_stat_bar_12
+  - first:
+      213: 4176891196794513331
+    second: ship_stat_bar_13
+  - first:
+      213: -2437513870664126464
+    second: ship_stat_bar_14
+  - first:
+      213: 4221003431888782726
+    second: ship_stat_bar_15
+  - first:
+      213: 4510828246101920943
+    second: ship_stat_bar_16
+  - first:
+      213: 1200618436449781340
+    second: ship_stat_bar_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ship_stat_bar_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310fe40aa53a6dd60800000000000000
+      internalID: 7914693004782137363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90158e25863c57aa0800000000000000
+      internalID: -6163805662151683831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d339832ce2d8d0800000000000000
+      internalID: -2822934379037993710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd434ed299093150800000000000000
+      internalID: 5852719717143498195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb627f7359a85f0800000000000000
+      internalID: -753625920028885348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01a20fc599f2fd0800000000000000
+      internalID: -2364502654900891427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75f72eea00c1d20800000000000000
+      internalID: 3250473782178961361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f56b86e6da3a340800000000000000
+      internalID: 4873929911459798855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511b010c1680d5ab0800000000000000
+      internalID: -5017845193893695211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d7f883146a41e0800000000000000
+      internalID: -2212846231834077696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843020ad63d5dac70800000000000000
+      internalID: 8983939321841189704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548d0dbf4c4f71d0800000000000000
+      internalID: -3350875692382452648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4655417dd587160800000000000000
+      internalID: 7023466797224781017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7a462d96c47f930800000000000000
+      internalID: 4176891196794513331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0003af39c063c2ed0800000000000000
+      internalID: -2437513870664126464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6858f69e144049a30800000000000000
+      internalID: 4221003431888782726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac04b3f36ea99e30800000000000000
+      internalID: 4510828246101920943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_stat_bar_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56cf575b1479a010800000000000000
+      internalID: 1200618436449781340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ship_stat_bar_0: 7914693004782137363
+      ship_stat_bar_1: -6163805662151683831
+      ship_stat_bar_10: 8983939321841189704
+      ship_stat_bar_11: -3350875692382452648
+      ship_stat_bar_12: 7023466797224781017
+      ship_stat_bar_13: 4176891196794513331
+      ship_stat_bar_14: -2437513870664126464
+      ship_stat_bar_15: 4221003431888782726
+      ship_stat_bar_16: 4510828246101920943
+      ship_stat_bar_17: 1200618436449781340
+      ship_stat_bar_2: -2822934379037993710
+      ship_stat_bar_3: 5852719717143498195
+      ship_stat_bar_4: -753625920028885348
+      ship_stat_bar_5: -2364502654900891427
+      ship_stat_bar_6: 3250473782178961361
+      ship_stat_bar_7: 4873929911459798855
+      ship_stat_bar_8: -5017845193893695211
+      ship_stat_bar_9: -2212846231834077696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

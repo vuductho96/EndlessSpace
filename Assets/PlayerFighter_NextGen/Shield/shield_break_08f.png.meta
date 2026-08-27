@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: 7c753014412618143baa0ab75950c5b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4045501951378533346
+    second: shield_break_08f_0
+  - first:
+      213: -6495840569082811670
+    second: shield_break_08f_1
+  - first:
+      213: 2845400139203691387
+    second: shield_break_08f_2
+  - first:
+      213: 8886057204882431655
+    second: shield_break_08f_3
+  - first:
+      213: -767473583854173136
+    second: shield_break_08f_4
+  - first:
+      213: 1214990104714278829
+    second: shield_break_08f_5
+  - first:
+      213: -8557713923030584306
+    second: shield_break_08f_6
+  - first:
+      213: -8641147194039553148
+    second: shield_break_08f_7
+  - first:
+      213: 3096508737428231703
+    second: shield_break_08f_8
+  - first:
+      213: 4266921773187434839
+    second: shield_break_08f_9
+  - first:
+      213: 9076116257822651954
+    second: shield_break_08f_10
+  - first:
+      213: -3021334119893584428
+    second: shield_break_08f_11
+  - first:
+      213: -8297231685803837753
+    second: shield_break_08f_12
+  - first:
+      213: 4910190827472692411
+    second: shield_break_08f_13
+  - first:
+      213: -5410561598416840610
+    second: shield_break_08f_14
+  - first:
+      213: 5386241511281708731
+    second: shield_break_08f_15
+  - first:
+      213: -5023964429376315600
+    second: shield_break_08f_16
+  - first:
+      213: -2512561136335725181
+    second: shield_break_08f_17
+  - first:
+      213: -7483166325338092004
+    second: shield_break_08f_18
+  - first:
+      213: -2684911074144095724
+    second: shield_break_08f_19
+  - first:
+      213: 3269488047926394437
+    second: shield_break_08f_20
+  - first:
+      213: -763417107172008862
+    second: shield_break_08f_21
+  - first:
+      213: -5103053204119052096
+    second: shield_break_08f_22
+  - first:
+      213: -882525403793498935
+    second: shield_break_08f_23
+  - first:
+      213: 5547593407084399563
+    second: shield_break_08f_24
+  - first:
+      213: 509570302902888429
+    second: shield_break_08f_25
+  - first:
+      213: -5665017142139452954
+    second: shield_break_08f_26
+  - first:
+      213: -1493847430272435583
+    second: shield_break_08f_27
+  - first:
+      213: 4211342350282410434
+    second: shield_break_08f_28
+  - first:
+      213: 3356467017359254822
+    second: shield_break_08f_29
+  - first:
+      213: 4125485255769512744
+    second: shield_break_08f_30
+  - first:
+      213: 2997665379999478332
+    second: shield_break_08f_31
+  - first:
+      213: 5415902926519260655
+    second: shield_break_08f_32
+  - first:
+      213: -7466782307750681675
+    second: shield_break_08f_33
+  - first:
+      213: -8535282557773156575
+    second: shield_break_08f_34
+  - first:
+      213: -7423138106507990676
+    second: shield_break_08f_35
+  - first:
+      213: -3462876265024174102
+    second: shield_break_08f_36
+  - first:
+      213: -2423110839325882048
+    second: shield_break_08f_37
+  - first:
+      213: 8061019671756129842
+    second: shield_break_08f_38
+  - first:
+      213: 426834014452182891
+    second: shield_break_08f_39
+  - first:
+      213: 4576025661086225701
+    second: shield_break_08f_40
+  - first:
+      213: 84379374037076646
+    second: shield_break_08f_41
+  - first:
+      213: 2879180807658725303
+    second: shield_break_08f_42
+  - first:
+      213: -7067327219198786445
+    second: shield_break_08f_43
+  - first:
+      213: 7484741244883992054
+    second: shield_break_08f_44
+  - first:
+      213: -2345072498910925570
+    second: shield_break_08f_45
+  - first:
+      213: -4971853221664367079
+    second: shield_break_08f_46
+  - first:
+      213: -2239767352676687873
+    second: shield_break_08f_47
+  - first:
+      213: -6661664820345434862
+    second: shield_break_08f_48
+  - first:
+      213: -4904993847691646139
+    second: shield_break_08f_49
+  - first:
+      213: 8915046041553229351
+    second: shield_break_08f_50
+  - first:
+      213: 915230054582169918
+    second: shield_break_08f_51
+  - first:
+      213: -4972344648063831149
+    second: shield_break_08f_52
+  - first:
+      213: 3076036742597933418
+    second: shield_break_08f_53
+  - first:
+      213: 837008297600933838
+    second: shield_break_08f_54
+  - first:
+      213: 4473374577273011594
+    second: shield_break_08f_55
+  - first:
+      213: 6109771201862382362
+    second: shield_break_08f_56
+  - first:
+      213: 1698361499627418977
+    second: shield_break_08f_57
+  - first:
+      213: -8788344134555066859
+    second: shield_break_08f_58
+  - first:
+      213: 7939820609779728044
+    second: shield_break_08f_59
+  - first:
+      213: -5136756285814519857
+    second: shield_break_08f_60
+  - first:
+      213: -289912910634697600
+    second: shield_break_08f_61
+  - first:
+      213: 7631552713235672814
+    second: shield_break_08f_62
+  - first:
+      213: -4688026508119821361
+    second: shield_break_08f_63
+  - first:
+      213: 1973479447024249071
+    second: shield_break_08f_64
+  - first:
+      213: 952753320120860235
+    second: shield_break_08f_65
+  - first:
+      213: 1108879184314633661
+    second: shield_break_08f_66
+  - first:
+      213: -5110366791288253882
+    second: shield_break_08f_67
+  - first:
+      213: -2369740101992552519
+    second: shield_break_08f_68
+  - first:
+      213: -523197687958904209
+    second: shield_break_08f_69
+  - first:
+      213: -8153760383962031010
+    second: shield_break_08f_70
+  - first:
+      213: 3612076505124504326
+    second: shield_break_08f_71
+  - first:
+      213: -1633392494344256870
+    second: shield_break_08f_72
+  - first:
+      213: 8089294252192142923
+    second: shield_break_08f_73
+  - first:
+      213: 1736481881843715826
+    second: shield_break_08f_74
+  - first:
+      213: 6952385734267302719
+    second: shield_break_08f_75
+  - first:
+      213: 12654912680106521
+    second: shield_break_08f_76
+  - first:
+      213: -9069672241885840658
+    second: shield_break_08f_77
+  - first:
+      213: 3740180379151302589
+    second: shield_break_08f_78
+  - first:
+      213: 2167006054832840353
+    second: shield_break_08f_79
+  - first:
+      213: -2238477084178998163
+    second: shield_break_08f_80
+  - first:
+      213: 3695691260139405609
+    second: shield_break_08f_81
+  - first:
+      213: 6799499100688341457
+    second: shield_break_08f_82
+  - first:
+      213: -610741011813526306
+    second: shield_break_08f_83
+  - first:
+      213: 3908865225468276033
+    second: shield_break_08f_84
+  - first:
+      213: 5965315061037781726
+    second: shield_break_08f_85
+  - first:
+      213: -3578801129538073641
+    second: shield_break_08f_86
+  - first:
+      213: -5056712391660807639
+    second: shield_break_08f_87
+  - first:
+      213: -4850388058613202663
+    second: shield_break_08f_88
+  - first:
+      213: 5698256480463640119
+    second: shield_break_08f_89
+  - first:
+      213: -8641716014086854351
+    second: shield_break_08f_90
+  - first:
+      213: 5683046771696031637
+    second: shield_break_08f_91
+  - first:
+      213: 3059415115070838048
+    second: shield_break_08f_92
+  - first:
+      213: 7903503149335409156
+    second: shield_break_08f_93
+  - first:
+      213: -8044679588551233959
+    second: shield_break_08f_94
+  - first:
+      213: -4078138555953674013
+    second: shield_break_08f_95
+  - first:
+      213: -3068030858487728724
+    second: shield_break_08f_96
+  - first:
+      213: -4664324418345664411
+    second: shield_break_08f_97
+  - first:
+      213: -3297281609237886226
+    second: shield_break_08f_98
+  - first:
+      213: 4069508309488440810
+    second: shield_break_08f_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield_break_08f_0
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 924
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb211e3792842830800000000000000
+      internalID: 4045501951378533346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_1
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 929
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6f3a3b632ad5a0800000000000000
+      internalID: -6495840569082811670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_2
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 938
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73451dd954ec7720800000000000000
+      internalID: 2845400139203691387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_3
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 929
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae51de82fd915b70800000000000000
+      internalID: 8886057204882431655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 894
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03440eb77d26955f0800000000000000
+      internalID: -767473583854173136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 902
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7fb1d10138cd010800000000000000
+      internalID: 1214990104714278829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 909
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04f8581784ec3980800000000000000
+      internalID: -8557713923030584306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 902
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b867e86a741880800000000000000
+      internalID: -8641147194039553148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 916
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7169d4a6a4209fa20800000000000000
+      internalID: 3096508737428231703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_9
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 916
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759873fdeb6273b30800000000000000
+      internalID: 4266921773187434839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_10
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 904
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236baaf26a7d4fd70800000000000000
+      internalID: 9076116257822651954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_11
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 904
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b9fb20a01216d0800000000000000
+      internalID: -3021334119893584428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 868
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6fb8c0ebf4adc80800000000000000
+      internalID: -8297231685803837753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 888
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb424e2da80842440800000000000000
+      internalID: 4910190827472692411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 888
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e589ef284e2d9e4b0800000000000000
+      internalID: -5410561598416840610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 868
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbec862fd16cfba40800000000000000
+      internalID: 5386241511281708731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 880
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f93d638fa474ab0800000000000000
+      internalID: -5023964429376315600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 880
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dd14865f6912dd0800000000000000
+      internalID: -2512561136335725181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_18
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 893
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ece07efd3762890800000000000000
+      internalID: -7483166325338092004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 893
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412f0247a974dbad0800000000000000
+      internalID: -2684911074144095724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 837
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb90e9e0e8f5d20800000000000000
+      internalID: 3269488047926394437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 837
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c5e8f8f2cc765f0800000000000000
+      internalID: -763417107172008862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_22
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 846
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0a092e5205e29b0800000000000000
+      internalID: -5103053204119052096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 846
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc51a132d3a0c3f0800000000000000
+      internalID: -882525403793498935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_24
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 856
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb8093bfc20dfc40800000000000000
+      internalID: 5547593407084399563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_25
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 856
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76d9c9d7b521700800000000000000
+      internalID: 509570302902888429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_26
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 864
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1874c7ce0d161b0800000000000000
+      internalID: -5665017142139452954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_27
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 864
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3bf94da9c44be0800000000000000
+      internalID: -1493847430272435583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 798
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c944201e81b17a30800000000000000
+      internalID: 4211342350282410434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 798
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625630e08f0949e20800000000000000
+      internalID: 3356467017359254822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_30
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 804
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bd04c7bfaa04930800000000000000
+      internalID: 4125485255769512744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_31
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 804
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32fa52e7c8d99920800000000000000
+      internalID: 2997665379999478332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_32
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 810
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5dd295407292b40800000000000000
+      internalID: 5415902926519260655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_33
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 810
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b369534d09a06890800000000000000
+      internalID: -7466782307750681675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_34
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 815
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe75e4cb59c8980800000000000000
+      internalID: -8535282557773156575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_35
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 815
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69eceab837bbf890800000000000000
+      internalID: -7423138106507990676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 754
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74a12526461ffc0800000000000000
+      internalID: -3462876265024174102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 754
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0490592a7816f5ed0800000000000000
+      internalID: -2423110839325882048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_38
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 756
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236c57eaeae7edf60800000000000000
+      internalID: 8061019671756129842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_39
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 756
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fe971564b6ce500800000000000000
+      internalID: 426834014452182891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_40
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 758
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525dd1c081f418f30800000000000000
+      internalID: 4576025661086225701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_41
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 758
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa89d7f796cb2100800000000000000
+      internalID: 84379374037076646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_42
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 759
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfde94a0b7e4f720800000000000000
+      internalID: 2879180807658725303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_43
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 759
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740534a65fcbed90800000000000000
+      internalID: -7067327219198786445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_44
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 711
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd7601a1842fd760800000000000000
+      internalID: 7484741244883992054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 711
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc60e9acf0a47fd0800000000000000
+      internalID: -2345072498910925570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_46
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 709
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e505f36dd600bb0800000000000000
+      internalID: -4971853221664367079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_47
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 709
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5034a57fbae0e0800000000000000
+      internalID: -2239767352676687873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_48
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 707
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d089214230d83a0800000000000000
+      internalID: -6661664820345434862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_49
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 707
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54becd25516fdebb0800000000000000
+      internalID: -4904993847691646139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_50
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 704
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726580f042b98bb70800000000000000
+      internalID: 8915046041553229351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_51
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 704
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b123b2ec83bc00800000000000000
+      internalID: 915230054582169918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 672
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393375f13eeaefab0800000000000000
+      internalID: -4972344648063831149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_53
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 672
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69799eae1740ba20800000000000000
+      internalID: 3076036742597933418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_54
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 667
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfde8cac96ad9b00800000000000000
+      internalID: 837008297600933838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_55
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 667
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dfe912a7e941e30800000000000000
+      internalID: 4473374577273011594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_56
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 661
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133be189844ac450800000000000000
+      internalID: 6109771201862382362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_57
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 661
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165fd7d19cac19710800000000000000
+      internalID: 1698361499627418977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_58
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 655
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e15ff7297890680800000000000000
+      internalID: -8788344134555066859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_59
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 655
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caefe3217c8ef2e60800000000000000
+      internalID: 7939820609779728044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 641
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7454eaf5396b8b0800000000000000
+      internalID: -5136756285814519857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 621
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cb1d96eb50afbf0800000000000000
+      internalID: -289912910634697600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 614
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea41d42c8b8e960800000000000000
+      internalID: 7631552713235672814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 621
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc337e5aab8c0feb0800000000000000
+      internalID: -4688026508119821361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_64
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 641
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe82a63e915336b10800000000000000
+      internalID: 1973479447024249071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_65
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 633
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb064c81cd83d00800000000000000
+      internalID: 952753320120860235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_66
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 633
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd06e73eb7836f00800000000000000
+      internalID: 1108879184314633661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_67
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 624
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6429f4daa745419b0800000000000000
+      internalID: -5110366791288253882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_68
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 624
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76cb2ceedfc1fd0800000000000000
+      internalID: -2369740101992552519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 49
+        width: 416
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6267ed897a3db8f0800000000000000
+      internalID: -523197687958904209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_70
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 611
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5a4a912608de80800000000000000
+      internalID: -8153760383962031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_71
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 611
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6030b7d917ca02230800000000000000
+      internalID: 3612076505124504326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_72
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 601
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9242d33e260559e0800000000000000
+      internalID: -1633392494344256870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_73
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 601
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4695817342f24070800000000000000
+      internalID: 8089294252192142923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_74
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 615
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe423e3219391810800000000000000
+      internalID: 1736481881843715826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_75
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 615
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33fe707df5db7060800000000000000
+      internalID: 6952385734267302719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_76
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 593
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a16f67395fc2000800000000000000
+      internalID: 12654912680106521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_77
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 590
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7c21362d022280800000000000000
+      internalID: -9069672241885840658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_78
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 581
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff23f0d3ac7e330800000000000000
+      internalID: 3740180379151302589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_79
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 590
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9e6c8680c21e10800000000000000
+      internalID: 2167006054832840353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 432
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c98afa3f45fe0e0800000000000000
+      internalID: -2238477084178998163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_81
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 441
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9210028de9bb94330800000000000000
+      internalID: 3695691260139405609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 432
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9dd13286cac5e50800000000000000
+      internalID: 6799499100688341457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 404
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4971d19463687f0800000000000000
+      internalID: -610741011813526306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_84
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 404
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14de9e666341f3630800000000000000
+      internalID: 3908865225468276033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 362
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d172417e09c250800000000000000
+      internalID: 5965315061037781726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_86
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 362
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbcd10855b855ec0800000000000000
+      internalID: -3578801129538073641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 309
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92addb31fd2f2d9b0800000000000000
+      internalID: -5056712391660807639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 309
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911409752c5ffacb0800000000000000
+      internalID: -4850388058613202663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_89
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 249
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7365a1d0416441f40800000000000000
+      internalID: 5698256480463640119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_90
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 249
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1396c8a2215721880800000000000000
+      internalID: -8641716014086854351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5975fd4cdec3ede40800000000000000
+      internalID: 5683046771696031637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_92
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025124276d9357a20800000000000000
+      internalID: 3059415115070838048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40271516d32eead60800000000000000
+      internalID: 7903503149335409156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_94
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e6198698e8b5090800000000000000
+      internalID: -8044679588551233959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88e8b179a8767c0800000000000000
+      internalID: -4078138555953674013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_96
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5f6e7703a2c65d0800000000000000
+      internalID: -3068030858487728724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_97
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560835777adf44fb0800000000000000
+      internalID: -4664324418345664411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_98
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 58
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea82fc98d3bd32d0800000000000000
+      internalID: -3297281609237886226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_break_08f_99
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae51f8d0f3cc97830800000000000000
+      internalID: 4069508309488440810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shield_break_08f_0: 4045501951378533346
+      shield_break_08f_1: -6495840569082811670
+      shield_break_08f_10: 9076116257822651954
+      shield_break_08f_11: -3021334119893584428
+      shield_break_08f_12: -8297231685803837753
+      shield_break_08f_13: 4910190827472692411
+      shield_break_08f_14: -5410561598416840610
+      shield_break_08f_15: 5386241511281708731
+      shield_break_08f_16: -5023964429376315600
+      shield_break_08f_17: -2512561136335725181
+      shield_break_08f_18: -7483166325338092004
+      shield_break_08f_19: -2684911074144095724
+      shield_break_08f_2: 2845400139203691387
+      shield_break_08f_20: 3269488047926394437
+      shield_break_08f_21: -763417107172008862
+      shield_break_08f_22: -5103053204119052096
+      shield_break_08f_23: -882525403793498935
+      shield_break_08f_24: 5547593407084399563
+      shield_break_08f_25: 509570302902888429
+      shield_break_08f_26: -5665017142139452954
+      shield_break_08f_27: -1493847430272435583
+      shield_break_08f_28: 4211342350282410434
+      shield_break_08f_29: 3356467017359254822
+      shield_break_08f_3: 8886057204882431655
+      shield_break_08f_30: 4125485255769512744
+      shield_break_08f_31: 2997665379999478332
+      shield_break_08f_32: 5415902926519260655
+      shield_break_08f_33: -7466782307750681675
+      shield_break_08f_34: -8535282557773156575
+      shield_break_08f_35: -7423138106507990676
+      shield_break_08f_36: -3462876265024174102
+      shield_break_08f_37: -2423110839325882048
+      shield_break_08f_38: 8061019671756129842
+      shield_break_08f_39: 426834014452182891
+      shield_break_08f_4: -767473583854173136
+      shield_break_08f_40: 4576025661086225701
+      shield_break_08f_41: 84379374037076646
+      shield_break_08f_42: 2879180807658725303
+      shield_break_08f_43: -7067327219198786445
+      shield_break_08f_44: 7484741244883992054
+      shield_break_08f_45: -2345072498910925570
+      shield_break_08f_46: -4971853221664367079
+      shield_break_08f_47: -2239767352676687873
+      shield_break_08f_48: -6661664820345434862
+      shield_break_08f_49: -4904993847691646139
+      shield_break_08f_5: 1214990104714278829
+      shield_break_08f_50: 8915046041553229351
+      shield_break_08f_51: 915230054582169918
+      shield_break_08f_52: -4972344648063831149
+      shield_break_08f_53: 3076036742597933418
+      shield_break_08f_54: 837008297600933838
+      shield_break_08f_55: 4473374577273011594
+      shield_break_08f_56: 6109771201862382362
+      shield_break_08f_57: 1698361499627418977
+      shield_break_08f_58: -8788344134555066859
+      shield_break_08f_59: 7939820609779728044
+      shield_break_08f_6: -8557713923030584306
+      shield_break_08f_60: -5136756285814519857
+      shield_break_08f_61: -289912910634697600
+      shield_break_08f_62: 7631552713235672814
+      shield_break_08f_63: -4688026508119821361
+      shield_break_08f_64: 1973479447024249071
+      shield_break_08f_65: 952753320120860235
+      shield_break_08f_66: 1108879184314633661
+      shield_break_08f_67: -5110366791288253882
+      shield_break_08f_68: -2369740101992552519
+      shield_break_08f_69: -523197687958904209
+      shield_break_08f_7: -8641147194039553148
+      shield_break_08f_70: -8153760383962031010
+      shield_break_08f_71: 3612076505124504326
+      shield_break_08f_72: -1633392494344256870
+      shield_break_08f_73: 8089294252192142923
+      shield_break_08f_74: 1736481881843715826
+      shield_break_08f_75: 6952385734267302719
+      shield_break_08f_76: 12654912680106521
+      shield_break_08f_77: -9069672241885840658
+      shield_break_08f_78: 3740180379151302589
+      shield_break_08f_79: 2167006054832840353
+      shield_break_08f_8: 3096508737428231703
+      shield_break_08f_80: -2238477084178998163
+      shield_break_08f_81: 3695691260139405609
+      shield_break_08f_82: 6799499100688341457
+      shield_break_08f_83: -610741011813526306
+      shield_break_08f_84: 3908865225468276033
+      shield_break_08f_85: 5965315061037781726
+      shield_break_08f_86: -3578801129538073641
+      shield_break_08f_87: -5056712391660807639
+      shield_break_08f_88: -4850388058613202663
+      shield_break_08f_89: 5698256480463640119
+      shield_break_08f_9: 4266921773187434839
+      shield_break_08f_90: -8641716014086854351
+      shield_break_08f_91: 5683046771696031637
+      shield_break_08f_92: 3059415115070838048
+      shield_break_08f_93: 7903503149335409156
+      shield_break_08f_94: -8044679588551233959
+      shield_break_08f_95: -4078138555953674013
+      shield_break_08f_96: -3068030858487728724
+      shield_break_08f_97: -4664324418345664411
+      shield_break_08f_98: -3297281609237886226
+      shield_break_08f_99: 4069508309488440810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 14fef5889e8b42848a305c7ef0f8aa04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3741827309171967754
+    second: anomaly_to_normal_16f_0
+  - first:
+      213: 3908493512395992366
+    second: anomaly_to_normal_16f_1
+  - first:
+      213: -2887226343091274577
+    second: anomaly_to_normal_16f_2
+  - first:
+      213: 7897923166141121947
+    second: anomaly_to_normal_16f_3
+  - first:
+      213: 9175600263126794453
+    second: anomaly_to_normal_16f_4
+  - first:
+      213: -8992916313208935441
+    second: anomaly_to_normal_16f_5
+  - first:
+      213: -4026078145571284183
+    second: anomaly_to_normal_16f_6
+  - first:
+      213: 5076284608201821092
+    second: anomaly_to_normal_16f_7
+  - first:
+      213: 7672410032289493874
+    second: anomaly_to_normal_16f_8
+  - first:
+      213: -763919028688751190
+    second: anomaly_to_normal_16f_9
+  - first:
+      213: 1057889832026267434
+    second: anomaly_to_normal_16f_10
+  - first:
+      213: 282166831500026818
+    second: anomaly_to_normal_16f_11
+  - first:
+      213: -1785313575617770577
+    second: anomaly_to_normal_16f_12
+  - first:
+      213: 5003478210819715335
+    second: anomaly_to_normal_16f_13
+  - first:
+      213: 3533386206394284149
+    second: anomaly_to_normal_16f_14
+  - first:
+      213: 9062088420920437356
+    second: anomaly_to_normal_16f_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1543
+        width: 497
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a070d06dc14ade330800000000000000
+      internalID: 3741827309171967754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1542
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d28453422cd3630800000000000000
+      internalID: 3908493512395992366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1542
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf4e920f28ee7d0800000000000000
+      internalID: -2887226343091274577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1542
+        width: 501
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b958b2d464f0b9d60800000000000000
+      internalID: 7897923166141121947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1029
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d047ac23d7465f70800000000000000
+      internalID: 9175600263126794453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1029
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febad58724eb23380800000000000000
+      internalID: -8992916313208935441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_6
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1029
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9247f14f7028c0800000000000000
+      internalID: -4026078145571284183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1029
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab07a2b4f5927640800000000000000
+      internalID: 5076284608201821092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27332c13640e97a60800000000000000
+      internalID: 7672410032289493874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa578d9d0b30665f0800000000000000
+      internalID: -763919028688751190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_10
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5c6182316eae00800000000000000
+      internalID: 1057889832026267434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_11
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e4fefc357ae300800000000000000
+      internalID: 282166831500026818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 501
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabce9013ca4937e0800000000000000
+      internalID: -1785313575617770577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f0555cecef6540800000000000000
+      internalID: 5003478210819715335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 6
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5787566b80c190130800000000000000
+      internalID: 3533386206394284149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_to_normal_16f_15
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 7
+        width: 497
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aa424e76103cd70800000000000000
+      internalID: 9062088420920437356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anomaly_to_normal_16f_0: 3741827309171967754
+      anomaly_to_normal_16f_1: 3908493512395992366
+      anomaly_to_normal_16f_10: 1057889832026267434
+      anomaly_to_normal_16f_11: 282166831500026818
+      anomaly_to_normal_16f_12: -1785313575617770577
+      anomaly_to_normal_16f_13: 5003478210819715335
+      anomaly_to_normal_16f_14: 3533386206394284149
+      anomaly_to_normal_16f_15: 9062088420920437356
+      anomaly_to_normal_16f_2: -2887226343091274577
+      anomaly_to_normal_16f_3: 7897923166141121947
+      anomaly_to_normal_16f_4: 9175600263126794453
+      anomaly_to_normal_16f_5: -8992916313208935441
+      anomaly_to_normal_16f_6: -4026078145571284183
+      anomaly_to_normal_16f_7: 5076284608201821092
+      anomaly_to_normal_16f_8: 7672410032289493874
+      anomaly_to_normal_16f_9: -763919028688751190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

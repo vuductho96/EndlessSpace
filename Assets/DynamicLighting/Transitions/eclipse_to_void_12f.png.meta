@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 53cb2dd87c9255847b4f044b30b11949
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4596551137591325437
+    second: eclipse_to_void_12f_0
+  - first:
+      213: -8529246247100909887
+    second: eclipse_to_void_12f_1
+  - first:
+      213: 6639785911953249253
+    second: eclipse_to_void_12f_2
+  - first:
+      213: -5837539211954412693
+    second: eclipse_to_void_12f_3
+  - first:
+      213: -2388852953897927563
+    second: eclipse_to_void_12f_4
+  - first:
+      213: 2587702030773094124
+    second: eclipse_to_void_12f_5
+  - first:
+      213: 819049199199993101
+    second: eclipse_to_void_12f_6
+  - first:
+      213: 1795282185520610252
+    second: eclipse_to_void_12f_7
+  - first:
+      213: 916690751747762072
+    second: eclipse_to_void_12f_8
+  - first:
+      213: -6351576772802782196
+    second: eclipse_to_void_12f_9
+  - first:
+      213: -5003286453689423441
+    second: eclipse_to_void_12f_10
+  - first:
+      213: -964385011406479412
+    second: eclipse_to_void_12f_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1031
+        width: 497
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d83fb0815c530c0800000000000000
+      internalID: -4596551137591325437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1030
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c677b76ab702a980800000000000000
+      internalID: -8529246247100909887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1030
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3dd9a9b12452c50800000000000000
+      internalID: 6639785911953249253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1029
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b632b0de305ecfea0800000000000000
+      internalID: -5837539211954412693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c754625e619ded0800000000000000
+      internalID: -2388852953897927563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce689c8694d59e320800000000000000
+      internalID: 2587702030773094124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_6
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d32eb38e8dd5b00800000000000000
+      internalID: 819049199199993101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfa8bc2af1ae810800000000000000
+      internalID: 1795282185520610252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897afc2c16db8bc00800000000000000
+      internalID: 916690751747762072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cd775c39aaad7a0800000000000000
+      internalID: -6351576772802782196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_10
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 6
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9615a9a71c09ab0800000000000000
+      internalID: -5003286453689423441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_to_void_12f_11
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 7
+        width: 497
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd76011f0dd92f0800000000000000
+      internalID: -964385011406479412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eclipse_to_void_12f_0: -4596551137591325437
+      eclipse_to_void_12f_1: -8529246247100909887
+      eclipse_to_void_12f_10: -5003286453689423441
+      eclipse_to_void_12f_11: -964385011406479412
+      eclipse_to_void_12f_2: 6639785911953249253
+      eclipse_to_void_12f_3: -5837539211954412693
+      eclipse_to_void_12f_4: -2388852953897927563
+      eclipse_to_void_12f_5: 2587702030773094124
+      eclipse_to_void_12f_6: 819049199199993101
+      eclipse_to_void_12f_7: 1795282185520610252
+      eclipse_to_void_12f_8: 916690751747762072
+      eclipse_to_void_12f_9: -6351576772802782196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

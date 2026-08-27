@@ -1,0 +1,6175 @@
+fileFormatVersion: 2
+guid: b80bf6781a7232042a6359ad50666912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5688706764666151285
+    second: nanite_repair_08f_0
+  - first:
+      213: -8931829585613528313
+    second: nanite_repair_08f_1
+  - first:
+      213: 2997096237872314779
+    second: nanite_repair_08f_2
+  - first:
+      213: -5652950540638260021
+    second: nanite_repair_08f_3
+  - first:
+      213: -4912012620722163378
+    second: nanite_repair_08f_4
+  - first:
+      213: 3419689758455784049
+    second: nanite_repair_08f_5
+  - first:
+      213: 2106946236042021550
+    second: nanite_repair_08f_6
+  - first:
+      213: -5045308595261089500
+    second: nanite_repair_08f_7
+  - first:
+      213: 5143837280865175376
+    second: nanite_repair_08f_8
+  - first:
+      213: 1198772809730463279
+    second: nanite_repair_08f_9
+  - first:
+      213: -8725363972794399941
+    second: nanite_repair_08f_10
+  - first:
+      213: 8648975662423810577
+    second: nanite_repair_08f_11
+  - first:
+      213: -6048927621868828582
+    second: nanite_repair_08f_12
+  - first:
+      213: -3015388749658328256
+    second: nanite_repair_08f_13
+  - first:
+      213: -3919163030410192983
+    second: nanite_repair_08f_14
+  - first:
+      213: -7427636473457749852
+    second: nanite_repair_08f_15
+  - first:
+      213: -1028852429429877
+    second: nanite_repair_08f_16
+  - first:
+      213: 6642931512826621541
+    second: nanite_repair_08f_17
+  - first:
+      213: -2756589629819380618
+    second: nanite_repair_08f_18
+  - first:
+      213: 5135437473599488452
+    second: nanite_repair_08f_19
+  - first:
+      213: 8636086140830926977
+    second: nanite_repair_08f_20
+  - first:
+      213: 8541122695928827986
+    second: nanite_repair_08f_21
+  - first:
+      213: -8937749795481997429
+    second: nanite_repair_08f_22
+  - first:
+      213: -7316173287327712309
+    second: nanite_repair_08f_23
+  - first:
+      213: -7926965648771374767
+    second: nanite_repair_08f_24
+  - first:
+      213: -1587239610598722352
+    second: nanite_repair_08f_25
+  - first:
+      213: -2858910201387709924
+    second: nanite_repair_08f_26
+  - first:
+      213: 7233659499677081239
+    second: nanite_repair_08f_27
+  - first:
+      213: 6685709018906339371
+    second: nanite_repair_08f_28
+  - first:
+      213: 8183028748986713123
+    second: nanite_repair_08f_29
+  - first:
+      213: 2799018505199766325
+    second: nanite_repair_08f_30
+  - first:
+      213: 8911925001211801077
+    second: nanite_repair_08f_31
+  - first:
+      213: -1302403753592558632
+    second: nanite_repair_08f_32
+  - first:
+      213: 9027768375132373949
+    second: nanite_repair_08f_33
+  - first:
+      213: 6744854943268045310
+    second: nanite_repair_08f_34
+  - first:
+      213: -442327116816432513
+    second: nanite_repair_08f_35
+  - first:
+      213: 6817979290933837796
+    second: nanite_repair_08f_36
+  - first:
+      213: -7332263200873117802
+    second: nanite_repair_08f_37
+  - first:
+      213: -4929847831277121581
+    second: nanite_repair_08f_38
+  - first:
+      213: 4204242792147697152
+    second: nanite_repair_08f_39
+  - first:
+      213: -6012018946330908576
+    second: nanite_repair_08f_40
+  - first:
+      213: 8625433273871933787
+    second: nanite_repair_08f_41
+  - first:
+      213: -200660374470473008
+    second: nanite_repair_08f_42
+  - first:
+      213: 2188400494026189843
+    second: nanite_repair_08f_43
+  - first:
+      213: 6334351145576658927
+    second: nanite_repair_08f_44
+  - first:
+      213: -6593477490291616673
+    second: nanite_repair_08f_45
+  - first:
+      213: 1739956107021141019
+    second: nanite_repair_08f_46
+  - first:
+      213: 9191213503014215503
+    second: nanite_repair_08f_47
+  - first:
+      213: 756258645603979068
+    second: nanite_repair_08f_48
+  - first:
+      213: -3840968825904509229
+    second: nanite_repair_08f_49
+  - first:
+      213: 8522310384339842775
+    second: nanite_repair_08f_50
+  - first:
+      213: -7866479863022769243
+    second: nanite_repair_08f_51
+  - first:
+      213: 4642273484172664919
+    second: nanite_repair_08f_52
+  - first:
+      213: -2419035584213341379
+    second: nanite_repair_08f_53
+  - first:
+      213: 5147484077618218048
+    second: nanite_repair_08f_54
+  - first:
+      213: 4475386489737401497
+    second: nanite_repair_08f_55
+  - first:
+      213: 4255277345652274333
+    second: nanite_repair_08f_56
+  - first:
+      213: -2262990019270100199
+    second: nanite_repair_08f_57
+  - first:
+      213: -8497357990999855454
+    second: nanite_repair_08f_58
+  - first:
+      213: 7469938483093541832
+    second: nanite_repair_08f_59
+  - first:
+      213: -5899312729144800617
+    second: nanite_repair_08f_60
+  - first:
+      213: -9091341845498551832
+    second: nanite_repair_08f_61
+  - first:
+      213: 3317114755431483132
+    second: nanite_repair_08f_62
+  - first:
+      213: 6613361615514313853
+    second: nanite_repair_08f_63
+  - first:
+      213: -6503275179319144098
+    second: nanite_repair_08f_64
+  - first:
+      213: -5588511908155359413
+    second: nanite_repair_08f_65
+  - first:
+      213: -1120985352505102261
+    second: nanite_repair_08f_66
+  - first:
+      213: -434809456136034882
+    second: nanite_repair_08f_67
+  - first:
+      213: -5188770916371241858
+    second: nanite_repair_08f_68
+  - first:
+      213: -5080580883479212983
+    second: nanite_repair_08f_69
+  - first:
+      213: -9094501178203566427
+    second: nanite_repair_08f_70
+  - first:
+      213: -7144951598248397831
+    second: nanite_repair_08f_71
+  - first:
+      213: -4507059959995017535
+    second: nanite_repair_08f_72
+  - first:
+      213: 6653052903799876882
+    second: nanite_repair_08f_73
+  - first:
+      213: -5218766087586280178
+    second: nanite_repair_08f_74
+  - first:
+      213: 3943393516963168105
+    second: nanite_repair_08f_75
+  - first:
+      213: 4768277053470830805
+    second: nanite_repair_08f_76
+  - first:
+      213: 1711129983261355937
+    second: nanite_repair_08f_77
+  - first:
+      213: 9124444168082331742
+    second: nanite_repair_08f_78
+  - first:
+      213: -177154325349810989
+    second: nanite_repair_08f_79
+  - first:
+      213: 6086169081418187622
+    second: nanite_repair_08f_80
+  - first:
+      213: 5093046311185338534
+    second: nanite_repair_08f_81
+  - first:
+      213: 7771946004666869115
+    second: nanite_repair_08f_82
+  - first:
+      213: -5004264508844233720
+    second: nanite_repair_08f_83
+  - first:
+      213: 2218685827726041819
+    second: nanite_repair_08f_84
+  - first:
+      213: 859961204479990389
+    second: nanite_repair_08f_85
+  - first:
+      213: 8583457057874423848
+    second: nanite_repair_08f_86
+  - first:
+      213: 4383259894817689319
+    second: nanite_repair_08f_87
+  - first:
+      213: 6990280841904580235
+    second: nanite_repair_08f_88
+  - first:
+      213: -1182160629561729938
+    second: nanite_repair_08f_89
+  - first:
+      213: 1931648120329933500
+    second: nanite_repair_08f_90
+  - first:
+      213: 3282471043670997472
+    second: nanite_repair_08f_91
+  - first:
+      213: 5802345938579605007
+    second: nanite_repair_08f_92
+  - first:
+      213: 4607773630847163894
+    second: nanite_repair_08f_93
+  - first:
+      213: -1712981409603582265
+    second: nanite_repair_08f_94
+  - first:
+      213: 5854997336770656549
+    second: nanite_repair_08f_95
+  - first:
+      213: -4558824815283066483
+    second: nanite_repair_08f_96
+  - first:
+      213: -1743649559224369491
+    second: nanite_repair_08f_97
+  - first:
+      213: -5079134399096239520
+    second: nanite_repair_08f_98
+  - first:
+      213: 4682739001753318707
+    second: nanite_repair_08f_99
+  - first:
+      213: -4201555819100458881
+    second: nanite_repair_08f_100
+  - first:
+      213: -4226142880539878919
+    second: nanite_repair_08f_101
+  - first:
+      213: -5988971262741869001
+    second: nanite_repair_08f_102
+  - first:
+      213: 1682157518471602124
+    second: nanite_repair_08f_103
+  - first:
+      213: 3282150507104051293
+    second: nanite_repair_08f_104
+  - first:
+      213: 3835759704957341858
+    second: nanite_repair_08f_105
+  - first:
+      213: 1607713961139057960
+    second: nanite_repair_08f_106
+  - first:
+      213: 7952461852317986801
+    second: nanite_repair_08f_107
+  - first:
+      213: -5133487992374355044
+    second: nanite_repair_08f_108
+  - first:
+      213: -1590381779448420075
+    second: nanite_repair_08f_109
+  - first:
+      213: -8767677537284173364
+    second: nanite_repair_08f_110
+  - first:
+      213: 8332129556217284073
+    second: nanite_repair_08f_111
+  - first:
+      213: 7230236917019224704
+    second: nanite_repair_08f_112
+  - first:
+      213: -8873985491914262946
+    second: nanite_repair_08f_113
+  - first:
+      213: -2713471371503811663
+    second: nanite_repair_08f_114
+  - first:
+      213: 5947590319859389742
+    second: nanite_repair_08f_115
+  - first:
+      213: 3031825470153648878
+    second: nanite_repair_08f_116
+  - first:
+      213: 1746779168525300636
+    second: nanite_repair_08f_117
+  - first:
+      213: -8194369900587195304
+    second: nanite_repair_08f_118
+  - first:
+      213: 8935647500146982148
+    second: nanite_repair_08f_119
+  - first:
+      213: 8893745714842571349
+    second: nanite_repair_08f_120
+  - first:
+      213: -2112575663367179643
+    second: nanite_repair_08f_121
+  - first:
+      213: -4102869137489427665
+    second: nanite_repair_08f_122
+  - first:
+      213: 2441285322578394364
+    second: nanite_repair_08f_123
+  - first:
+      213: 4616171918580503454
+    second: nanite_repair_08f_124
+  - first:
+      213: -5587631421990227261
+    second: nanite_repair_08f_125
+  - first:
+      213: 7293381243396690603
+    second: nanite_repair_08f_126
+  - first:
+      213: -8361421960610432970
+    second: nanite_repair_08f_127
+  - first:
+      213: 1140075589366832060
+    second: nanite_repair_08f_128
+  - first:
+      213: 603131072564912639
+    second: nanite_repair_08f_129
+  - first:
+      213: 2271770936385246579
+    second: nanite_repair_08f_130
+  - first:
+      213: 8460536736979851510
+    second: nanite_repair_08f_131
+  - first:
+      213: -859801873106746028
+    second: nanite_repair_08f_132
+  - first:
+      213: 6744641961125406003
+    second: nanite_repair_08f_133
+  - first:
+      213: -7101634680251621491
+    second: nanite_repair_08f_134
+  - first:
+      213: -4369702167420885104
+    second: nanite_repair_08f_135
+  - first:
+      213: -2860210407228758149
+    second: nanite_repair_08f_136
+  - first:
+      213: 8635081930936348963
+    second: nanite_repair_08f_137
+  - first:
+      213: 1519066220814484235
+    second: nanite_repair_08f_138
+  - first:
+      213: -1585088789797166070
+    second: nanite_repair_08f_139
+  - first:
+      213: 7822777736092495608
+    second: nanite_repair_08f_140
+  - first:
+      213: -7862731106592615718
+    second: nanite_repair_08f_141
+  - first:
+      213: -7427006165507138357
+    second: nanite_repair_08f_142
+  - first:
+      213: -2611380656832491590
+    second: nanite_repair_08f_143
+  - first:
+      213: 811065847916250515
+    second: nanite_repair_08f_144
+  - first:
+      213: 1138339842461214606
+    second: nanite_repair_08f_145
+  - first:
+      213: 327842537979937362
+    second: nanite_repair_08f_146
+  - first:
+      213: -8367821132290655608
+    second: nanite_repair_08f_147
+  - first:
+      213: -3015341770494568869
+    second: nanite_repair_08f_148
+  - first:
+      213: 7292907352077092924
+    second: nanite_repair_08f_149
+  - first:
+      213: 7780375603070839566
+    second: nanite_repair_08f_150
+  - first:
+      213: -6608903846646390483
+    second: nanite_repair_08f_151
+  - first:
+      213: 6892708720899678061
+    second: nanite_repair_08f_152
+  - first:
+      213: -2425800052487704279
+    second: nanite_repair_08f_153
+  - first:
+      213: -8526175615193990352
+    second: nanite_repair_08f_154
+  - first:
+      213: 1103713477012637792
+    second: nanite_repair_08f_155
+  - first:
+      213: 4910360258717364267
+    second: nanite_repair_08f_156
+  - first:
+      213: -2854671886361596151
+    second: nanite_repair_08f_157
+  - first:
+      213: -1603706241415540470
+    second: nanite_repair_08f_158
+  - first:
+      213: -7375494941266760436
+    second: nanite_repair_08f_159
+  - first:
+      213: -6977211894879188111
+    second: nanite_repair_08f_160
+  - first:
+      213: -1322406233293183882
+    second: nanite_repair_08f_161
+  - first:
+      213: -6568549826697812731
+    second: nanite_repair_08f_162
+  - first:
+      213: 4366616982905711489
+    second: nanite_repair_08f_163
+  - first:
+      213: 4346309760057780280
+    second: nanite_repair_08f_164
+  - first:
+      213: 4902529335606871800
+    second: nanite_repair_08f_165
+  - first:
+      213: -4744071463768676372
+    second: nanite_repair_08f_166
+  - first:
+      213: 3363887387922591778
+    second: nanite_repair_08f_167
+  - first:
+      213: -8631679627227621459
+    second: nanite_repair_08f_168
+  - first:
+      213: 8173355332310065170
+    second: nanite_repair_08f_169
+  - first:
+      213: -2671430782960881830
+    second: nanite_repair_08f_170
+  - first:
+      213: -9095438073839280447
+    second: nanite_repair_08f_171
+  - first:
+      213: -8018778275917109018
+    second: nanite_repair_08f_172
+  - first:
+      213: 7291688042416136772
+    second: nanite_repair_08f_173
+  - first:
+      213: -4377746198146881489
+    second: nanite_repair_08f_174
+  - first:
+      213: -7512774622548638115
+    second: nanite_repair_08f_175
+  - first:
+      213: 6072689448930215939
+    second: nanite_repair_08f_176
+  - first:
+      213: -2849159628944066755
+    second: nanite_repair_08f_177
+  - first:
+      213: 3546028941959649724
+    second: nanite_repair_08f_178
+  - first:
+      213: -6700177656235843703
+    second: nanite_repair_08f_179
+  - first:
+      213: 2043062968818395199
+    second: nanite_repair_08f_180
+  - first:
+      213: 4410164001378526544
+    second: nanite_repair_08f_181
+  - first:
+      213: -8252834186183713396
+    second: nanite_repair_08f_182
+  - first:
+      213: -2915955940638742194
+    second: nanite_repair_08f_183
+  - first:
+      213: -453668146844957603
+    second: nanite_repair_08f_184
+  - first:
+      213: -6989592842263485741
+    second: nanite_repair_08f_185
+  - first:
+      213: -8513605235277782608
+    second: nanite_repair_08f_186
+  - first:
+      213: -3859882163643579828
+    second: nanite_repair_08f_187
+  - first:
+      213: 8592325417857215086
+    second: nanite_repair_08f_188
+  - first:
+      213: -6462751535915123350
+    second: nanite_repair_08f_189
+  - first:
+      213: -4907134339180915113
+    second: nanite_repair_08f_190
+  - first:
+      213: -6977749931652331605
+    second: nanite_repair_08f_191
+  - first:
+      213: 8834255699386222015
+    second: nanite_repair_08f_192
+  - first:
+      213: -4247225725082794077
+    second: nanite_repair_08f_193
+  - first:
+      213: 393538201244535779
+    second: nanite_repair_08f_194
+  - first:
+      213: 5263737964272405927
+    second: nanite_repair_08f_195
+  - first:
+      213: 3591991302382093771
+    second: nanite_repair_08f_196
+  - first:
+      213: 656364443968546513
+    second: nanite_repair_08f_197
+  - first:
+      213: 1663025967136020587
+    second: nanite_repair_08f_198
+  - first:
+      213: -6062197587121358031
+    second: nanite_repair_08f_199
+  - first:
+      213: 8055097351627033282
+    second: nanite_repair_08f_200
+  - first:
+      213: 6842205041249464863
+    second: nanite_repair_08f_201
+  - first:
+      213: -7273187482975715457
+    second: nanite_repair_08f_202
+  - first:
+      213: -1675997704653587039
+    second: nanite_repair_08f_203
+  - first:
+      213: 2349710121799674305
+    second: nanite_repair_08f_204
+  - first:
+      213: -1472015664403066134
+    second: nanite_repair_08f_205
+  - first:
+      213: 3998797909104610954
+    second: nanite_repair_08f_206
+  - first:
+      213: 4312258050176092304
+    second: nanite_repair_08f_207
+  - first:
+      213: 8787276737532901559
+    second: nanite_repair_08f_208
+  - first:
+      213: 6809768424643070156
+    second: nanite_repair_08f_209
+  - first:
+      213: -1325693358631423197
+    second: nanite_repair_08f_210
+  - first:
+      213: 5365901178185847212
+    second: nanite_repair_08f_211
+  - first:
+      213: -6290117246959916041
+    second: nanite_repair_08f_212
+  - first:
+      213: -4276975144243359796
+    second: nanite_repair_08f_213
+  - first:
+      213: -726339532347269562
+    second: nanite_repair_08f_214
+  - first:
+      213: 2612926282436793809
+    second: nanite_repair_08f_215
+  - first:
+      213: -7255060468515307854
+    second: nanite_repair_08f_216
+  - first:
+      213: 638788906086769360
+    second: nanite_repair_08f_217
+  - first:
+      213: -1333840749081972278
+    second: nanite_repair_08f_218
+  - first:
+      213: 6918164487393638827
+    second: nanite_repair_08f_219
+  - first:
+      213: 610577451350073830
+    second: nanite_repair_08f_220
+  - first:
+      213: -8657523025625898287
+    second: nanite_repair_08f_221
+  - first:
+      213: -4557545244188288157
+    second: nanite_repair_08f_222
+  - first:
+      213: 3432408449388266635
+    second: nanite_repair_08f_223
+  - first:
+      213: 6293066217577438725
+    second: nanite_repair_08f_224
+  - first:
+      213: 4398625186497427325
+    second: nanite_repair_08f_225
+  - first:
+      213: 6007686453097091899
+    second: nanite_repair_08f_226
+  - first:
+      213: -5344255171935390929
+    second: nanite_repair_08f_227
+  - first:
+      213: -4834877930752758737
+    second: nanite_repair_08f_228
+  - first:
+      213: 7229235960940505006
+    second: nanite_repair_08f_229
+  - first:
+      213: 8106791488633883145
+    second: nanite_repair_08f_230
+  - first:
+      213: -5148783631955053396
+    second: nanite_repair_08f_231
+  - first:
+      213: 3213859409949434961
+    second: nanite_repair_08f_232
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nanite_repair_08f_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a94399a852fe40800000000000000
+      internalID: 5688706764666151285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7036e239054cb0480800000000000000
+      internalID: -8931829585613528313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_2
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 885
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f9082623d79920800000000000000
+      internalID: 2997096237872314779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 871
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc477641f6fac81b0800000000000000
+      internalID: -5652950540638260021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_4
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 872
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41be91eb8605dbb0800000000000000
+      internalID: -4912012620722163378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_5
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 880
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1726cce87bd257f20800000000000000
+      internalID: 3419689758455784049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_6
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 877
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa812840706d3d10800000000000000
+      internalID: 2106946236042021550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 871
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429dc3550967bf9b0800000000000000
+      internalID: -5045308595261089500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_8
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 879
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574164f0c4926740800000000000000
+      internalID: 5143837280865175376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_9
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 877
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f269162e485e2a010800000000000000
+      internalID: 1198772809730463279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_10
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 852
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33499912b749e680800000000000000
+      internalID: -8725363972794399941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 858
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11225cd6a85570870800000000000000
+      internalID: 8648975662423810577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_12
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 861
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c5726064ed0ca0800000000000000
+      internalID: -6048927621868828582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 851
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043f7ec88ef2726d0800000000000000
+      internalID: -3015388749658328256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_14
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 850
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79e8b0df55c99c0800000000000000
+      internalID: -3919163030410192983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 838
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0d0de0bfbbbe890800000000000000
+      internalID: -7427636473457749852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 845
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83ea60a3485cfff0800000000000000
+      internalID: -1028852429429877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 847
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6741e30f603c50800000000000000
+      internalID: 6642931512826621541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_18
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 843
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c17133650aeb9d0800000000000000
+      internalID: -2756589629819380618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_19
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 844
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1802c6c2db44740800000000000000
+      internalID: 5135437473599488452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 830
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188c6e1d69a89d770800000000000000
+      internalID: 8636086140830926977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 835
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2505dd1d6d9288670800000000000000
+      internalID: 8541122695928827986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_22
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 824
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa9fc4aebb6f380800000000000000
+      internalID: -8937749795481997429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_23
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 833
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb31ad682bb77a90800000000000000
+      internalID: -7316173287327712309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_24
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 829
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1512246cdb2cdf190800000000000000
+      internalID: -7926965648771374767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 823
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d475d4dbfdf8f9e0800000000000000
+      internalID: -1587239610598722352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 823
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8b89a15c1358d0800000000000000
+      internalID: -2858910201387709924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 813
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ed1684dfe136460800000000000000
+      internalID: 7233659499677081239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_28
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 820
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a9872ee868cc50800000000000000
+      internalID: 6685709018906339371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_29
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 817
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324892aaa45ff8170800000000000000
+      internalID: 8183028748986713123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_30
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 813
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b4d2a208c18d620800000000000000
+      internalID: 2799018505199766325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 802
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fde62a32948dab70800000000000000
+      internalID: 8911925001211801077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 800
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbeaf0cfaeecede0800000000000000
+      internalID: -1302403753592558632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 807
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3454a8183194d70800000000000000
+      internalID: 9027768375132373949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_34
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 806
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1870bc5d98a9d50800000000000000
+      internalID: 6744854943268045310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_35
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 798
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7242afa4d98cd9f0800000000000000
+      internalID: -442327116816432513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_36
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 810
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb41aba045e9e50800000000000000
+      internalID: 6817979290933837796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 798
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970a4087719e3a90800000000000000
+      internalID: -7332263200873117802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_38
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 797
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4ff35489a59bb0800000000000000
+      internalID: -4929847831277121581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_39
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 788
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb57f5b88785a30800000000000000
+      internalID: 4204242792147697152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_40
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 790
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06827011f94019ca0800000000000000
+      internalID: -6012018946330908576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_41
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 788
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51a8f2fcd1b3b770800000000000000
+      internalID: 8625433273871933787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_42
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 794
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dac03bd37c173df0800000000000000
+      internalID: -200660374470473008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_43
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 789
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c68b897a2ce5e10800000000000000
+      internalID: 2188400494026189843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_44
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 797
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77faa5ec228e750800000000000000
+      internalID: 6334351145576658927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_45
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 792
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5452a408234f74a0800000000000000
+      internalID: -6593477490291616673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_46
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 791
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1444c35cd0952810800000000000000
+      internalID: 1739956107021141019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_47
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 794
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f9feddbffbd8f70800000000000000
+      internalID: 9191213503014215503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 778
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f0b893b35ce7a00800000000000000
+      internalID: 756258645603979068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 770
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3decc92043322bac0800000000000000
+      internalID: -3840968825904509229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 780
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6f2343424554670800000000000000
+      internalID: 8522310384339842775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 785
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba3c33e36a4d290800000000000000
+      internalID: -7866479863022769243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 774
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a356532bac6040800000000000000
+      internalID: 4642273484172664919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_53
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 786
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2fe7e3fbdd6ed0800000000000000
+      internalID: -2419035584213341379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_54
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 777
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c96dfe798f6740800000000000000
+      internalID: 5147484077618218048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_55
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 786
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99451610d44cb1e30800000000000000
+      internalID: 4475386489737401497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_56
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 775
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94fe505338cd0b30800000000000000
+      internalID: 4255277345652274333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_57
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 779
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb62b319e3890e0800000000000000
+      internalID: -2262990019270100199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_58
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 784
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae60299de1531a80800000000000000
+      internalID: -8497357990999855454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_59
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 784
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39fc2197d8aa760800000000000000
+      internalID: 7469938483093541832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_60
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 784
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4268245e612ea0800000000000000
+      internalID: -5899312729144800617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_61
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 784
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e12a6f62c015d180800000000000000
+      internalID: -9091341845498551832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_62
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 777
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf643b49b42c80e20800000000000000
+      internalID: 3317114755431483132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_63
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 773
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742fe7a95167cb50800000000000000
+      internalID: 6613361615514313853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 774
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5151142ea9bfb5a0800000000000000
+      internalID: -6503275179319144098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 768
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffb5b570e9172b0800000000000000
+      internalID: -5588511908155359413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_66
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 764
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b407489d2c57170f0800000000000000
+      internalID: -1120985352505102261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_67
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 764
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e7067a1f37f9f0800000000000000
+      internalID: -434809456136034882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_68
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 764
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7460d4c758cdf7b0800000000000000
+      internalID: -5188770916371241858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_69
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 766
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc493ca962e79b0800000000000000
+      internalID: -5080580883479212983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_70
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 764
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae0ec7fc57d9c180800000000000000
+      internalID: -9094501178203566427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_71
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 771
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f37b01806808dc90800000000000000
+      internalID: -7144951598248397831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_72
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 765
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c65c1788d4b371c0800000000000000
+      internalID: -4507059959995017535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_73
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 774
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6fdadd54645c50800000000000000
+      internalID: 6653052903799876882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_74
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 760
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d809fb4e73397b0800000000000000
+      internalID: -5218766087586280178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_75
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 749
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ffa2cb28fb9b630800000000000000
+      internalID: 3943393516963168105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_76
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 750
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d076ca77b25c2240800000000000000
+      internalID: 4768277053470830805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_77
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 749
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af20d067a72fb710800000000000000
+      internalID: 1711129983261355937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_78
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 756
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e589e63a0a980ae70800000000000000
+      internalID: 9124444168082331742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_79
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 757
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb917641f9a8df0800000000000000
+      internalID: -177154325349810989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 740
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66385ec988a667450800000000000000
+      internalID: 6086169081418187622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_81
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 741
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0d0dac2a22ea640800000000000000
+      internalID: 5093046311185338534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_82
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 746
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b756fa5b6bf7bdb60800000000000000
+      internalID: 7771946004666869115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_83
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 742
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cae3461f74d8ab0800000000000000
+      internalID: -5004264508844233720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_84
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 739
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2edc5510b5ace10800000000000000
+      internalID: 2218685827726041819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_85
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 740
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a95a1c8223feb00800000000000000
+      internalID: 859961204479990389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_86
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 737
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820bc6f87b09e1770800000000000000
+      internalID: 8583457057874423848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_87
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 743
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee03dc96a774dc30800000000000000
+      internalID: 4383259894817689319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_88
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 740
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e0fdb367720160800000000000000
+      internalID: 6990280841904580235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_89
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 748
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c5587bb2f189fe0800000000000000
+      internalID: -1182160629561729938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_90
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 744
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2115b2bb79eca10800000000000000
+      internalID: 1931648120329933500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_91
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 731
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f38fd50ead8d20800000000000000
+      internalID: 3282471043670997472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_92
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 723
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06c7f493e2168050800000000000000
+      internalID: 5802345938579605007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_93
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 731
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd9e0844b912ff30800000000000000
+      internalID: 4607773630847163894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_94
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 723
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c60bb5db744a38e0800000000000000
+      internalID: -1712981409603582265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_95
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 733
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529b2138e01214150800000000000000
+      internalID: 5854997336770656549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 718
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8921d3fbfccbb0c0800000000000000
+      internalID: -4558824815283066483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 716
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3aa1d6ff4dc7e0800000000000000
+      internalID: -1743649559224369491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_98
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 707
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ac667ac2a4389b0800000000000000
+      internalID: -5079134399096239520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_99
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 719
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335bf57df4e6cf040800000000000000
+      internalID: 4682739001753318707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_100
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 718
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ba8a4e3311b5c0800000000000000
+      internalID: -4201555819100458881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_101
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 708
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9df53f079b955c0800000000000000
+      internalID: -4226142880539878919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_102
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 709
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8f321e56e2eca0800000000000000
+      internalID: -5988971262741869001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_103
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 698
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf90c0c959385710800000000000000
+      internalID: 1682157518471602124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_104
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 704
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d502e432f7a8c8d20800000000000000
+      internalID: 3282150507104051293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_105
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 701
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05db1012b5b3530800000000000000
+      internalID: 3835759704957341858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_106
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 702
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8253122645fbf4610800000000000000
+      internalID: 1607713961139057960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_107
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 685
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2245bbe1dc5e60800000000000000
+      internalID: 7952461852317986801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_108
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 691
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b1bcb8edf22c8b0800000000000000
+      internalID: -5133487992374355044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_109
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 689
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51929b2a234dde9e0800000000000000
+      internalID: -1590381779448420075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_110
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 688
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc15105abb3f25680800000000000000
+      internalID: -8767677537284173364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_111
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 683
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e54dd49faba1a370800000000000000
+      internalID: 8332129556217284073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_112
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 661
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa8d82b26f65460800000000000000
+      internalID: 7230236917019224704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_113
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 667
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56fa74263549d480800000000000000
+      internalID: -8873985491914262946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_114
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 657
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c2590a20d75ad0800000000000000
+      internalID: -2713471371503811663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 652
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2555cc52e51a8250800000000000000
+      internalID: 5947590319859389742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_116
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 649
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea6d79a335331a20800000000000000
+      internalID: 3031825470153648878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_117
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 643
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b001266ecd3810800000000000000
+      internalID: 1746779168525300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_118
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 633
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e855bdffb74e80800000000000000
+      internalID: -8194369900587195304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_119
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 640
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d3e5cee0cc10c70800000000000000
+      internalID: 8935647500146982148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_120
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 634
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55218d74b9eec6b70800000000000000
+      internalID: 8893745714842571349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_121
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 640
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823dd780af9ea2e0800000000000000
+      internalID: -2112575663367179643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 614
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f238704e14eaf07c0800000000000000
+      internalID: -4102869137489427665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_123
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 610
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf8aff01031e120800000000000000
+      internalID: 2441285322578394364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 611
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93df1507efef0040800000000000000
+      internalID: 4616171918580503454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_125
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 358
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2367483deb472b0800000000000000
+      internalID: -5587631421990227261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_126
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 344
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba21820599b473560800000000000000
+      internalID: 7293381243396690603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_127
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 336
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6383aac070346fb80800000000000000
+      internalID: -8361421960610432970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_128
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 329
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbdd4945bc52df00800000000000000
+      internalID: 1140075589366832060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_129
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 329
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff16b35d380ce5800800000000000000
+      internalID: 603131072564912639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_130
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 326
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3759c4a51a3f68f10800000000000000
+      internalID: 2271770936385246579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_131
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f893d0265dd96570800000000000000
+      internalID: 8460536736979851510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_132
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 307
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c14870ce5114f0800000000000000
+      internalID: -859801873106746028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_133
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 312
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e2160128c99d50800000000000000
+      internalID: 6744641961125406003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_134
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 307
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fd10762ece17d90800000000000000
+      internalID: -7101634680251621491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_135
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 317
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097af98c703bb53c0800000000000000
+      internalID: -4369702167420885104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_136
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 313
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b772146e9cd7e48d0800000000000000
+      internalID: -2860210407228758149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_137
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 300
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fadbf349f5d770800000000000000
+      internalID: 8635081930936348963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_138
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 299
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0341f1fdaec41510800000000000000
+      internalID: 1519066220814484235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_139
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 302
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04afa2d422a00ae0800000000000000
+      internalID: -1585088789797166070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_140
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 299
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea0a477e6109c60800000000000000
+      internalID: 7822777736092495608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_141
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 301
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2122397b7f1e290800000000000000
+      internalID: -7862731106592615718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_142
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 306
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc9f401e39fde890800000000000000
+      internalID: -7427006165507138357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_143
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 283
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4c28d02382cbd0800000000000000
+      internalID: -2611380656832491590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_144
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 285
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395cf7a671c714b00800000000000000
+      internalID: 811065847916250515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_145
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 271
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8723973e023ccf00800000000000000
+      internalID: 1138339842461214606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_146
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 287
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2528e822d0bbc8400800000000000000
+      internalID: 327842537979937362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_147
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 290
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88afec9c3078fdb80800000000000000
+      internalID: -8367821132290655608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_148
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 277
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56164db2aa5726d0800000000000000
+      internalID: -3015341770494568869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_149
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 283
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c364e89c953560800000000000000
+      internalID: 7292907352077092924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_150
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 282
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2728836279fb60800000000000000
+      internalID: 7780375603070839566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_151
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 285
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ede987f47844a0800000000000000
+      internalID: -6608903846646390483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_152
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 286
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f56710012d7af50800000000000000
+      internalID: 6892708720899678061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 270
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b85764b3d55ed0800000000000000
+      internalID: -2425800052487704279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_154
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 269
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb3cb9370fca980800000000000000
+      internalID: -8526175615193990352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_155
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06846234f8d215f00800000000000000
+      internalID: 1103713477012637792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_156
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b203b0c93aa152440800000000000000
+      internalID: 4910360258717364267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_157
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6f174b0b2268d0800000000000000
+      internalID: -2854671886361596151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_158
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 277
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0199549bad7eb9e0800000000000000
+      internalID: -1603706241415540470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_159
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 266
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0daa1f8d6af4a990800000000000000
+      internalID: -7375494941266760436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_160
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 270
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b881b9fb6fb2f90800000000000000
+      internalID: -6977211894879188111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_161
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 268
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6742cc7898ed5ade0800000000000000
+      internalID: -1322406233293183882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_162
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 269
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505293afbb2d7d4a0800000000000000
+      internalID: -6568549826697812731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6848b207599c30800000000000000
+      internalID: 4366616982905711489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838ae04f2b1315c30800000000000000
+      internalID: 4346309760057780280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_165
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f687cdb478490440800000000000000
+      internalID: 4902529335606871800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_166
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7200d832ca92eb0800000000000000
+      internalID: -4744071463768676372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_167
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 258
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220fa85b1cdeeae20800000000000000
+      internalID: 3363887387922591778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_168
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 254
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71f149c1d163880800000000000000
+      internalID: -8631679627227621459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_169
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210e265de579d6170800000000000000
+      internalID: 8173355332310065170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_170
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 253
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa2935bdb2dead0800000000000000
+      internalID: -2671430782960881830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_171
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce1f34f24386c180800000000000000
+      internalID: -9095438073839280447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_172
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e86753b4a397b090800000000000000
+      internalID: -8018778275917109018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_173
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 251
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4426d2d34a7413560800000000000000
+      internalID: 7291688042416136772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_174
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 252
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2863aee60f1f33c0800000000000000
+      internalID: -4377746198146881489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_175
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 247
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d564b6109434db790800000000000000
+      internalID: -7512774622548638115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_176
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 245
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088fba11e6864450800000000000000
+      internalID: 6072689448930215939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_177
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 245
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b768b960c578d0800000000000000
+      internalID: -2849159628944066755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_178
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 251
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb952c8f886063130800000000000000
+      internalID: 3546028941959649724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_179
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 242
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f9d04bbef2403a0800000000000000
+      internalID: -6700177656235843703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_180
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 252
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ec2e02fa6a5c10800000000000000
+      internalID: 2043062968818395199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_181
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 243
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e16f0bcc043d30800000000000000
+      internalID: 4410164001378526544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_182
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 241
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dd156780b087d80800000000000000
+      internalID: -8252834186183713396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_183
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 244
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49a98975817887d0800000000000000
+      internalID: -2915955940638742194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_184
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 217
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54856d593f34b9f0800000000000000
+      internalID: -453668146844957603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_185
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 235
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2a548a75afffe90800000000000000
+      internalID: -6989592842263485741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 234
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ac51452999d980800000000000000
+      internalID: -8513605235277782608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_187
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 230
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4288296f91fe6ac0800000000000000
+      internalID: -3859882163643579828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_188
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a60f581721e3770800000000000000
+      internalID: 8592325417857215086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_189
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 229
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3b2e18b1bf46a0800000000000000
+      internalID: -6462751535915123350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_190
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7561000515b56ebb0800000000000000
+      internalID: -4907134339180915113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_191
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 231
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba74b58286d0a2f90800000000000000
+      internalID: -6977749931652331605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_192
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 235
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c2e0b0c4999a70800000000000000
+      internalID: 8834255699386222015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_193
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 233
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a70a8fa4b2de05c0800000000000000
+      internalID: -4247225725082794077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_194
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 231
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb0ab2b8e0267500800000000000000
+      internalID: 393538201244535779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_195
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 229
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adc13f3acd8c0940800000000000000
+      internalID: 5263737964272405927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_196
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 233
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc507ceee0159d130800000000000000
+      internalID: 3591991302382093771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_197
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 238
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d621f5fbffdb1900800000000000000
+      internalID: 656364443968546513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_198
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 236
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6894675e41441710800000000000000
+      internalID: 1663025967136020587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_199
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 238
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bb665d96fbedba0800000000000000
+      internalID: -6062197587121358031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_200
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca4be21d5479cf60800000000000000
+      internalID: 8055097351627033282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_201
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 228
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12bf04cb3564fe50800000000000000
+      internalID: 6842205041249464863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_202
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 222
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f3a6ce482701b90800000000000000
+      internalID: -7273187482975715457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_203
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb0c9a7f8adb8e0800000000000000
+      internalID: -1675997704653587039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_204
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9620f08e8db9020800000000000000
+      internalID: 2349710121799674305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_205
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 220
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d1736d89529be0800000000000000
+      internalID: -1472015664403066134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_206
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 224
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e41c403859e7730800000000000000
+      internalID: 3998797909104610954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_207
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 227
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098809c69d738db30800000000000000
+      internalID: 4312258050176092304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_208
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 208
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8b3b3c2ada2f970800000000000000
+      internalID: 8787276737532901559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_209
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 214
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc885817d48218e50800000000000000
+      internalID: 6809768424643070156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_210
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323fda50ae03a9de0800000000000000
+      internalID: -1325693358631423197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_211
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11e9911b2877a40800000000000000
+      internalID: 5365901178185847212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_212
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 211
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb656bb0b305b8a0800000000000000
+      internalID: -6290117246959916041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_213
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 215
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf033644c125a4c0800000000000000
+      internalID: -4276975144243359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_214
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e1e1c2b068be5f0800000000000000
+      internalID: -726339532347269562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_215
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 209
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d55de82c9af24420800000000000000
+      internalID: 2612926282436793809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_216
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be7a2e51f8d05b90800000000000000
+      internalID: -7255060468515307854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_217
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 204
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d223c9202f6dd800800000000000000
+      internalID: 638788906086769360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_218
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 198
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1370cd7ee3d7de0800000000000000
+      internalID: -1333840749081972278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_219
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 198
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f1d082f1420060800000000000000
+      internalID: 6918164487393638827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_220
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 196
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a59ff4f4397800800000000000000
+      internalID: 610577451350073830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_221
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 203
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2adce7dac4ad780800000000000000
+      internalID: -8657523025625898287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_222
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 185
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bd2605fb850c0c0800000000000000
+      internalID: -4557545244188288157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_223
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 186
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8446dd8c4d52af20800000000000000
+      internalID: 3432408449388266635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_224
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 192
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed6bef166755750800000000000000
+      internalID: 6293066217577438725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_225
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77f34d5d4e0b0d30800000000000000
+      internalID: 4398625186497427325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_226
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3357cebff69f5350800000000000000
+      internalID: 6007686453097091899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_227
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233fb77c3465d5b0800000000000000
+      internalID: -5344255171935390929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_228
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 171
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c2b15632017ecb0800000000000000
+      internalID: -4834877930752758737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_229
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a659edc7635460800000000000000
+      internalID: 7229235960940505006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_230
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 166
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ace2448eb118070800000000000000
+      internalID: 8106791488633883145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_231
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca439ffe098db88b0800000000000000
+      internalID: -5148783631955053396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanite_repair_08f_232
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 141
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15425180b1ce99c20800000000000000
+      internalID: 3213859409949434961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nanite_repair_08f_0: 5688706764666151285
+      nanite_repair_08f_1: -8931829585613528313
+      nanite_repair_08f_10: -8725363972794399941
+      nanite_repair_08f_100: -4201555819100458881
+      nanite_repair_08f_101: -4226142880539878919
+      nanite_repair_08f_102: -5988971262741869001
+      nanite_repair_08f_103: 1682157518471602124
+      nanite_repair_08f_104: 3282150507104051293
+      nanite_repair_08f_105: 3835759704957341858
+      nanite_repair_08f_106: 1607713961139057960
+      nanite_repair_08f_107: 7952461852317986801
+      nanite_repair_08f_108: -5133487992374355044
+      nanite_repair_08f_109: -1590381779448420075
+      nanite_repair_08f_11: 8648975662423810577
+      nanite_repair_08f_110: -8767677537284173364
+      nanite_repair_08f_111: 8332129556217284073
+      nanite_repair_08f_112: 7230236917019224704
+      nanite_repair_08f_113: -8873985491914262946
+      nanite_repair_08f_114: -2713471371503811663
+      nanite_repair_08f_115: 5947590319859389742
+      nanite_repair_08f_116: 3031825470153648878
+      nanite_repair_08f_117: 1746779168525300636
+      nanite_repair_08f_118: -8194369900587195304
+      nanite_repair_08f_119: 8935647500146982148
+      nanite_repair_08f_12: -6048927621868828582
+      nanite_repair_08f_120: 8893745714842571349
+      nanite_repair_08f_121: -2112575663367179643
+      nanite_repair_08f_122: -4102869137489427665
+      nanite_repair_08f_123: 2441285322578394364
+      nanite_repair_08f_124: 4616171918580503454
+      nanite_repair_08f_125: -5587631421990227261
+      nanite_repair_08f_126: 7293381243396690603
+      nanite_repair_08f_127: -8361421960610432970
+      nanite_repair_08f_128: 1140075589366832060
+      nanite_repair_08f_129: 603131072564912639
+      nanite_repair_08f_13: -3015388749658328256
+      nanite_repair_08f_130: 2271770936385246579
+      nanite_repair_08f_131: 8460536736979851510
+      nanite_repair_08f_132: -859801873106746028
+      nanite_repair_08f_133: 6744641961125406003
+      nanite_repair_08f_134: -7101634680251621491
+      nanite_repair_08f_135: -4369702167420885104
+      nanite_repair_08f_136: -2860210407228758149
+      nanite_repair_08f_137: 8635081930936348963
+      nanite_repair_08f_138: 1519066220814484235
+      nanite_repair_08f_139: -1585088789797166070
+      nanite_repair_08f_14: -3919163030410192983
+      nanite_repair_08f_140: 7822777736092495608
+      nanite_repair_08f_141: -7862731106592615718
+      nanite_repair_08f_142: -7427006165507138357
+      nanite_repair_08f_143: -2611380656832491590
+      nanite_repair_08f_144: 811065847916250515
+      nanite_repair_08f_145: 1138339842461214606
+      nanite_repair_08f_146: 327842537979937362
+      nanite_repair_08f_147: -8367821132290655608
+      nanite_repair_08f_148: -3015341770494568869
+      nanite_repair_08f_149: 7292907352077092924
+      nanite_repair_08f_15: -7427636473457749852
+      nanite_repair_08f_150: 7780375603070839566
+      nanite_repair_08f_151: -6608903846646390483
+      nanite_repair_08f_152: 6892708720899678061
+      nanite_repair_08f_153: -2425800052487704279
+      nanite_repair_08f_154: -8526175615193990352
+      nanite_repair_08f_155: 1103713477012637792
+      nanite_repair_08f_156: 4910360258717364267
+      nanite_repair_08f_157: -2854671886361596151
+      nanite_repair_08f_158: -1603706241415540470
+      nanite_repair_08f_159: -7375494941266760436
+      nanite_repair_08f_16: -1028852429429877
+      nanite_repair_08f_160: -6977211894879188111
+      nanite_repair_08f_161: -1322406233293183882
+      nanite_repair_08f_162: -6568549826697812731
+      nanite_repair_08f_163: 4366616982905711489
+      nanite_repair_08f_164: 4346309760057780280
+      nanite_repair_08f_165: 4902529335606871800
+      nanite_repair_08f_166: -4744071463768676372
+      nanite_repair_08f_167: 3363887387922591778
+      nanite_repair_08f_168: -8631679627227621459
+      nanite_repair_08f_169: 8173355332310065170
+      nanite_repair_08f_17: 6642931512826621541
+      nanite_repair_08f_170: -2671430782960881830
+      nanite_repair_08f_171: -9095438073839280447
+      nanite_repair_08f_172: -8018778275917109018
+      nanite_repair_08f_173: 7291688042416136772
+      nanite_repair_08f_174: -4377746198146881489
+      nanite_repair_08f_175: -7512774622548638115
+      nanite_repair_08f_176: 6072689448930215939
+      nanite_repair_08f_177: -2849159628944066755
+      nanite_repair_08f_178: 3546028941959649724
+      nanite_repair_08f_179: -6700177656235843703
+      nanite_repair_08f_18: -2756589629819380618
+      nanite_repair_08f_180: 2043062968818395199
+      nanite_repair_08f_181: 4410164001378526544
+      nanite_repair_08f_182: -8252834186183713396
+      nanite_repair_08f_183: -2915955940638742194
+      nanite_repair_08f_184: -453668146844957603
+      nanite_repair_08f_185: -6989592842263485741
+      nanite_repair_08f_186: -8513605235277782608
+      nanite_repair_08f_187: -3859882163643579828
+      nanite_repair_08f_188: 8592325417857215086
+      nanite_repair_08f_189: -6462751535915123350
+      nanite_repair_08f_19: 5135437473599488452
+      nanite_repair_08f_190: -4907134339180915113
+      nanite_repair_08f_191: -6977749931652331605
+      nanite_repair_08f_192: 8834255699386222015
+      nanite_repair_08f_193: -4247225725082794077
+      nanite_repair_08f_194: 393538201244535779
+      nanite_repair_08f_195: 5263737964272405927
+      nanite_repair_08f_196: 3591991302382093771
+      nanite_repair_08f_197: 656364443968546513
+      nanite_repair_08f_198: 1663025967136020587
+      nanite_repair_08f_199: -6062197587121358031
+      nanite_repair_08f_2: 2997096237872314779
+      nanite_repair_08f_20: 8636086140830926977
+      nanite_repair_08f_200: 8055097351627033282
+      nanite_repair_08f_201: 6842205041249464863
+      nanite_repair_08f_202: -7273187482975715457
+      nanite_repair_08f_203: -1675997704653587039
+      nanite_repair_08f_204: 2349710121799674305
+      nanite_repair_08f_205: -1472015664403066134
+      nanite_repair_08f_206: 3998797909104610954
+      nanite_repair_08f_207: 4312258050176092304
+      nanite_repair_08f_208: 8787276737532901559
+      nanite_repair_08f_209: 6809768424643070156
+      nanite_repair_08f_21: 8541122695928827986
+      nanite_repair_08f_210: -1325693358631423197
+      nanite_repair_08f_211: 5365901178185847212
+      nanite_repair_08f_212: -6290117246959916041
+      nanite_repair_08f_213: -4276975144243359796
+      nanite_repair_08f_214: -726339532347269562
+      nanite_repair_08f_215: 2612926282436793809
+      nanite_repair_08f_216: -7255060468515307854
+      nanite_repair_08f_217: 638788906086769360
+      nanite_repair_08f_218: -1333840749081972278
+      nanite_repair_08f_219: 6918164487393638827
+      nanite_repair_08f_22: -8937749795481997429
+      nanite_repair_08f_220: 610577451350073830
+      nanite_repair_08f_221: -8657523025625898287
+      nanite_repair_08f_222: -4557545244188288157
+      nanite_repair_08f_223: 3432408449388266635
+      nanite_repair_08f_224: 6293066217577438725
+      nanite_repair_08f_225: 4398625186497427325
+      nanite_repair_08f_226: 6007686453097091899
+      nanite_repair_08f_227: -5344255171935390929
+      nanite_repair_08f_228: -4834877930752758737
+      nanite_repair_08f_229: 7229235960940505006
+      nanite_repair_08f_23: -7316173287327712309
+      nanite_repair_08f_230: 8106791488633883145
+      nanite_repair_08f_231: -5148783631955053396
+      nanite_repair_08f_232: 3213859409949434961
+      nanite_repair_08f_24: -7926965648771374767
+      nanite_repair_08f_25: -1587239610598722352
+      nanite_repair_08f_26: -2858910201387709924
+      nanite_repair_08f_27: 7233659499677081239
+      nanite_repair_08f_28: 6685709018906339371
+      nanite_repair_08f_29: 8183028748986713123
+      nanite_repair_08f_3: -5652950540638260021
+      nanite_repair_08f_30: 2799018505199766325
+      nanite_repair_08f_31: 8911925001211801077
+      nanite_repair_08f_32: -1302403753592558632
+      nanite_repair_08f_33: 9027768375132373949
+      nanite_repair_08f_34: 6744854943268045310
+      nanite_repair_08f_35: -442327116816432513
+      nanite_repair_08f_36: 6817979290933837796
+      nanite_repair_08f_37: -7332263200873117802
+      nanite_repair_08f_38: -4929847831277121581
+      nanite_repair_08f_39: 4204242792147697152
+      nanite_repair_08f_4: -4912012620722163378
+      nanite_repair_08f_40: -6012018946330908576
+      nanite_repair_08f_41: 8625433273871933787
+      nanite_repair_08f_42: -200660374470473008
+      nanite_repair_08f_43: 2188400494026189843
+      nanite_repair_08f_44: 6334351145576658927
+      nanite_repair_08f_45: -6593477490291616673
+      nanite_repair_08f_46: 1739956107021141019
+      nanite_repair_08f_47: 9191213503014215503
+      nanite_repair_08f_48: 756258645603979068
+      nanite_repair_08f_49: -3840968825904509229
+      nanite_repair_08f_5: 3419689758455784049
+      nanite_repair_08f_50: 8522310384339842775
+      nanite_repair_08f_51: -7866479863022769243
+      nanite_repair_08f_52: 4642273484172664919
+      nanite_repair_08f_53: -2419035584213341379
+      nanite_repair_08f_54: 5147484077618218048
+      nanite_repair_08f_55: 4475386489737401497
+      nanite_repair_08f_56: 4255277345652274333
+      nanite_repair_08f_57: -2262990019270100199
+      nanite_repair_08f_58: -8497357990999855454
+      nanite_repair_08f_59: 7469938483093541832
+      nanite_repair_08f_6: 2106946236042021550
+      nanite_repair_08f_60: -5899312729144800617
+      nanite_repair_08f_61: -9091341845498551832
+      nanite_repair_08f_62: 3317114755431483132
+      nanite_repair_08f_63: 6613361615514313853
+      nanite_repair_08f_64: -6503275179319144098
+      nanite_repair_08f_65: -5588511908155359413
+      nanite_repair_08f_66: -1120985352505102261
+      nanite_repair_08f_67: -434809456136034882
+      nanite_repair_08f_68: -5188770916371241858
+      nanite_repair_08f_69: -5080580883479212983
+      nanite_repair_08f_7: -5045308595261089500
+      nanite_repair_08f_70: -9094501178203566427
+      nanite_repair_08f_71: -7144951598248397831
+      nanite_repair_08f_72: -4507059959995017535
+      nanite_repair_08f_73: 6653052903799876882
+      nanite_repair_08f_74: -5218766087586280178
+      nanite_repair_08f_75: 3943393516963168105
+      nanite_repair_08f_76: 4768277053470830805
+      nanite_repair_08f_77: 1711129983261355937
+      nanite_repair_08f_78: 9124444168082331742
+      nanite_repair_08f_79: -177154325349810989
+      nanite_repair_08f_8: 5143837280865175376
+      nanite_repair_08f_80: 6086169081418187622
+      nanite_repair_08f_81: 5093046311185338534
+      nanite_repair_08f_82: 7771946004666869115
+      nanite_repair_08f_83: -5004264508844233720
+      nanite_repair_08f_84: 2218685827726041819
+      nanite_repair_08f_85: 859961204479990389
+      nanite_repair_08f_86: 8583457057874423848
+      nanite_repair_08f_87: 4383259894817689319
+      nanite_repair_08f_88: 6990280841904580235
+      nanite_repair_08f_89: -1182160629561729938
+      nanite_repair_08f_9: 1198772809730463279
+      nanite_repair_08f_90: 1931648120329933500
+      nanite_repair_08f_91: 3282471043670997472
+      nanite_repair_08f_92: 5802345938579605007
+      nanite_repair_08f_93: 4607773630847163894
+      nanite_repair_08f_94: -1712981409603582265
+      nanite_repair_08f_95: 5854997336770656549
+      nanite_repair_08f_96: -4558824815283066483
+      nanite_repair_08f_97: -1743649559224369491
+      nanite_repair_08f_98: -5079134399096239520
+      nanite_repair_08f_99: 4682739001753318707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

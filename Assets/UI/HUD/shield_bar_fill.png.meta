@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: c8394069a32138145a640a3561ffbdbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7687277228082217020
+    second: shield_bar_fill_0
+  - first:
+      213: 2882358285314781419
+    second: shield_bar_fill_1
+  - first:
+      213: -4013557462425517424
+    second: shield_bar_fill_2
+  - first:
+      213: -3925842195022638848
+    second: shield_bar_fill_3
+  - first:
+      213: 4744115936774363523
+    second: shield_bar_fill_4
+  - first:
+      213: -9155218786013642741
+    second: shield_bar_fill_5
+  - first:
+      213: 9085993219615586196
+    second: shield_bar_fill_6
+  - first:
+      213: -7681294933875522506
+    second: shield_bar_fill_7
+  - first:
+      213: -4900114333868690357
+    second: shield_bar_fill_8
+  - first:
+      213: -2811533012314633129
+    second: shield_bar_fill_9
+  - first:
+      213: -336862353304089824
+    second: shield_bar_fill_10
+  - first:
+      213: 1814940105029955247
+    second: shield_bar_fill_11
+  - first:
+      213: -7749305891295167266
+    second: shield_bar_fill_12
+  - first:
+      213: 1212859198791400795
+    second: shield_bar_fill_13
+  - first:
+      213: 4362144609874362242
+    second: shield_bar_fill_14
+  - first:
+      213: -2278730480955267300
+    second: shield_bar_fill_15
+  - first:
+      213: -2006172578140291781
+    second: shield_bar_fill_16
+  - first:
+      213: 1792882774451755028
+    second: shield_bar_fill_17
+  - first:
+      213: -7909878695229689241
+    second: shield_bar_fill_18
+  - first:
+      213: -815851199545978175
+    second: shield_bar_fill_19
+  - first:
+      213: -6223381193839498087
+    second: shield_bar_fill_20
+  - first:
+      213: -8125293655909339686
+    second: shield_bar_fill_21
+  - first:
+      213: -1543734538617550128
+    second: shield_bar_fill_22
+  - first:
+      213: -8206650547172460908
+    second: shield_bar_fill_23
+  - first:
+      213: -8672053100455291798
+    second: shield_bar_fill_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield_bar_fill_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfb53a071e415590800000000000000
+      internalID: -7687277228082217020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0779fc691300820800000000000000
+      internalID: 2882358285314781419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092428ea0cafc48c0800000000000000
+      internalID: -4013557462425517424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0019f69d25b9489c0800000000000000
+      internalID: -3925842195022638848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38994b02f4c76d140800000000000000
+      internalID: 4744115936774363523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b008ca2450122f080800000000000000
+      internalID: -9155218786013642741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977bce81bee71e70800000000000000
+      internalID: 9085993219615586196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634875374fe866590800000000000000
+      internalID: -7681294933875522506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44f4faa9fb4ffbb0800000000000000
+      internalID: -4900114333868690357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cc3b61f9d6bf8d0800000000000000
+      internalID: -2811533012314633129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b8b157979335bf0800000000000000
+      internalID: -336862353304089824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeabe8d866ff2910800000000000000
+      internalID: 1814940105029955247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc7285795fe47490800000000000000
+      internalID: -7749305891295167266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5db68ae301f4d010800000000000000
+      internalID: 1212859198791400795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f327a3963798c30800000000000000
+      internalID: 4362144609874362242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c176ec763b25060e0800000000000000
+      internalID: -2278730480955267300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d71d95ba4a824e0800000000000000
+      internalID: -2006172578140291781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181d1f526991e810800000000000000
+      internalID: 1792882774451755028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762776a2c377a3290800000000000000
+      internalID: -7909878695229689241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c25c7518a38da4f0800000000000000
+      internalID: -815851199545978175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca95fe6cb12a9a0800000000000000
+      internalID: -6223381193839498087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adde9c738782d3f80800000000000000
+      internalID: -8125293655909339686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da033ebd9d839ae0800000000000000
+      internalID: -1543734538617550128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496350cdece1c1e80800000000000000
+      internalID: -8206650547172460908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield_bar_fill_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649902d6ada6a780800000000000000
+      internalID: -8672053100455291798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shield_bar_fill_0: -7687277228082217020
+      shield_bar_fill_1: 2882358285314781419
+      shield_bar_fill_10: -336862353304089824
+      shield_bar_fill_11: 1814940105029955247
+      shield_bar_fill_12: -7749305891295167266
+      shield_bar_fill_13: 1212859198791400795
+      shield_bar_fill_14: 4362144609874362242
+      shield_bar_fill_15: -2278730480955267300
+      shield_bar_fill_16: -2006172578140291781
+      shield_bar_fill_17: 1792882774451755028
+      shield_bar_fill_18: -7909878695229689241
+      shield_bar_fill_19: -815851199545978175
+      shield_bar_fill_2: -4013557462425517424
+      shield_bar_fill_20: -6223381193839498087
+      shield_bar_fill_21: -8125293655909339686
+      shield_bar_fill_22: -1543734538617550128
+      shield_bar_fill_23: -8206650547172460908
+      shield_bar_fill_24: -8672053100455291798
+      shield_bar_fill_3: -3925842195022638848
+      shield_bar_fill_4: 4744115936774363523
+      shield_bar_fill_5: -9155218786013642741
+      shield_bar_fill_6: 9085993219615586196
+      shield_bar_fill_7: -7681294933875522506
+      shield_bar_fill_8: -4900114333868690357
+      shield_bar_fill_9: -2811533012314633129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

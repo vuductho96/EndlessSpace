@@ -1,0 +1,5681 @@
+fileFormatVersion: 2
+guid: f8a77b0fa35618b46b19abcfa5433034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3187170288817231348
+    second: nebula_radiation_08f_0
+  - first:
+      213: 8273555472654337910
+    second: nebula_radiation_08f_1
+  - first:
+      213: 9222413758225661961
+    second: nebula_radiation_08f_2
+  - first:
+      213: 3150855207364194622
+    second: nebula_radiation_08f_3
+  - first:
+      213: -6657104531227747745
+    second: nebula_radiation_08f_4
+  - first:
+      213: -2345166016249534728
+    second: nebula_radiation_08f_5
+  - first:
+      213: -8603658539767021098
+    second: nebula_radiation_08f_6
+  - first:
+      213: -9047527646323199916
+    second: nebula_radiation_08f_7
+  - first:
+      213: 2582027841559871084
+    second: nebula_radiation_08f_8
+  - first:
+      213: 2319867092504655097
+    second: nebula_radiation_08f_9
+  - first:
+      213: -5875357604087347615
+    second: nebula_radiation_08f_10
+  - first:
+      213: -5281461575893936730
+    second: nebula_radiation_08f_11
+  - first:
+      213: -3144465191384865635
+    second: nebula_radiation_08f_12
+  - first:
+      213: 8191285657475204943
+    second: nebula_radiation_08f_13
+  - first:
+      213: 8629694098319180141
+    second: nebula_radiation_08f_14
+  - first:
+      213: -6527188349643519368
+    second: nebula_radiation_08f_15
+  - first:
+      213: -6229967375158619034
+    second: nebula_radiation_08f_16
+  - first:
+      213: 1177509976682295256
+    second: nebula_radiation_08f_17
+  - first:
+      213: -7274872746265139076
+    second: nebula_radiation_08f_18
+  - first:
+      213: 592677269927966886
+    second: nebula_radiation_08f_19
+  - first:
+      213: -8380905083544157781
+    second: nebula_radiation_08f_20
+  - first:
+      213: 6918308159795749157
+    second: nebula_radiation_08f_21
+  - first:
+      213: 7577250578244046971
+    second: nebula_radiation_08f_22
+  - first:
+      213: 6227788125957650989
+    second: nebula_radiation_08f_23
+  - first:
+      213: 3265705191269796872
+    second: nebula_radiation_08f_24
+  - first:
+      213: 509946652698821252
+    second: nebula_radiation_08f_25
+  - first:
+      213: 2263215122466960701
+    second: nebula_radiation_08f_26
+  - first:
+      213: -2182316684619716344
+    second: nebula_radiation_08f_27
+  - first:
+      213: 4280833246225795117
+    second: nebula_radiation_08f_28
+  - first:
+      213: -6512792805933612664
+    second: nebula_radiation_08f_29
+  - first:
+      213: -7705281443375599743
+    second: nebula_radiation_08f_30
+  - first:
+      213: -1884307297468809300
+    second: nebula_radiation_08f_31
+  - first:
+      213: 2775072257831339364
+    second: nebula_radiation_08f_32
+  - first:
+      213: -1154740379998561056
+    second: nebula_radiation_08f_33
+  - first:
+      213: -1126118045365725787
+    second: nebula_radiation_08f_34
+  - first:
+      213: -2250372447263076712
+    second: nebula_radiation_08f_35
+  - first:
+      213: 4719945263565786382
+    second: nebula_radiation_08f_36
+  - first:
+      213: 2037094951361447263
+    second: nebula_radiation_08f_37
+  - first:
+      213: -590686086760473159
+    second: nebula_radiation_08f_38
+  - first:
+      213: 682392541701198218
+    second: nebula_radiation_08f_39
+  - first:
+      213: 237988818194486193
+    second: nebula_radiation_08f_40
+  - first:
+      213: 6606374133619825141
+    second: nebula_radiation_08f_41
+  - first:
+      213: -7698207443459310035
+    second: nebula_radiation_08f_42
+  - first:
+      213: 143043926804234098
+    second: nebula_radiation_08f_43
+  - first:
+      213: -1646032910863829181
+    second: nebula_radiation_08f_44
+  - first:
+      213: -6221350557946583496
+    second: nebula_radiation_08f_45
+  - first:
+      213: 8107717281546234393
+    second: nebula_radiation_08f_46
+  - first:
+      213: 1512375939456453175
+    second: nebula_radiation_08f_47
+  - first:
+      213: -1459106413708411297
+    second: nebula_radiation_08f_48
+  - first:
+      213: -5026558886164699610
+    second: nebula_radiation_08f_49
+  - first:
+      213: -8552935729601085829
+    second: nebula_radiation_08f_50
+  - first:
+      213: -2464826512242953443
+    second: nebula_radiation_08f_51
+  - first:
+      213: 413665387222924556
+    second: nebula_radiation_08f_52
+  - first:
+      213: 5142879844135996352
+    second: nebula_radiation_08f_53
+  - first:
+      213: 3148067239824626020
+    second: nebula_radiation_08f_54
+  - first:
+      213: 3863093240551916553
+    second: nebula_radiation_08f_55
+  - first:
+      213: 3045660546130769714
+    second: nebula_radiation_08f_56
+  - first:
+      213: 2386099854767146649
+    second: nebula_radiation_08f_57
+  - first:
+      213: -6300404504525760982
+    second: nebula_radiation_08f_58
+  - first:
+      213: 3249589417606300792
+    second: nebula_radiation_08f_59
+  - first:
+      213: -8963208853452213405
+    second: nebula_radiation_08f_60
+  - first:
+      213: -8777501281556362661
+    second: nebula_radiation_08f_61
+  - first:
+      213: -7327475732260300034
+    second: nebula_radiation_08f_62
+  - first:
+      213: -714930075898191353
+    second: nebula_radiation_08f_63
+  - first:
+      213: 4694147757841660743
+    second: nebula_radiation_08f_64
+  - first:
+      213: 4857248980777351329
+    second: nebula_radiation_08f_65
+  - first:
+      213: -1583136643978730058
+    second: nebula_radiation_08f_66
+  - first:
+      213: 2000751257069249740
+    second: nebula_radiation_08f_67
+  - first:
+      213: -8718445510677520639
+    second: nebula_radiation_08f_68
+  - first:
+      213: -3601634600124151046
+    second: nebula_radiation_08f_69
+  - first:
+      213: 5077067026560752956
+    second: nebula_radiation_08f_70
+  - first:
+      213: -5661497618174928704
+    second: nebula_radiation_08f_71
+  - first:
+      213: 6606133552624280746
+    second: nebula_radiation_08f_72
+  - first:
+      213: -6029119035859936751
+    second: nebula_radiation_08f_73
+  - first:
+      213: -6480075319183227846
+    second: nebula_radiation_08f_74
+  - first:
+      213: -4503083416812199745
+    second: nebula_radiation_08f_75
+  - first:
+      213: 1381995359985735477
+    second: nebula_radiation_08f_76
+  - first:
+      213: 947064373445039311
+    second: nebula_radiation_08f_77
+  - first:
+      213: -4358620330840850069
+    second: nebula_radiation_08f_78
+  - first:
+      213: 7836948874409547106
+    second: nebula_radiation_08f_79
+  - first:
+      213: 2979978376960116271
+    second: nebula_radiation_08f_80
+  - first:
+      213: 2260382397440699566
+    second: nebula_radiation_08f_81
+  - first:
+      213: 1937399503005601464
+    second: nebula_radiation_08f_82
+  - first:
+      213: -64395404292067767
+    second: nebula_radiation_08f_83
+  - first:
+      213: 3612909470999915308
+    second: nebula_radiation_08f_84
+  - first:
+      213: -2458815964084623099
+    second: nebula_radiation_08f_85
+  - first:
+      213: 6533839010460344552
+    second: nebula_radiation_08f_86
+  - first:
+      213: 597378963579353799
+    second: nebula_radiation_08f_87
+  - first:
+      213: 6332609502604144753
+    second: nebula_radiation_08f_88
+  - first:
+      213: -4782723592671033803
+    second: nebula_radiation_08f_89
+  - first:
+      213: 8310644563297681613
+    second: nebula_radiation_08f_90
+  - first:
+      213: 8597774694922514302
+    second: nebula_radiation_08f_91
+  - first:
+      213: -1128429285020352612
+    second: nebula_radiation_08f_92
+  - first:
+      213: 2664226205087337121
+    second: nebula_radiation_08f_93
+  - first:
+      213: -1434556002880255820
+    second: nebula_radiation_08f_94
+  - first:
+      213: -7556063068227275617
+    second: nebula_radiation_08f_95
+  - first:
+      213: 6762452236051617518
+    second: nebula_radiation_08f_96
+  - first:
+      213: 1428931983190944518
+    second: nebula_radiation_08f_97
+  - first:
+      213: -3788708843053239275
+    second: nebula_radiation_08f_98
+  - first:
+      213: 6170677763023657067
+    second: nebula_radiation_08f_99
+  - first:
+      213: 8104902959568767643
+    second: nebula_radiation_08f_100
+  - first:
+      213: 6664276482289746193
+    second: nebula_radiation_08f_101
+  - first:
+      213: 8833789895915644366
+    second: nebula_radiation_08f_102
+  - first:
+      213: -4457247870674991022
+    second: nebula_radiation_08f_103
+  - first:
+      213: -7406996885373073008
+    second: nebula_radiation_08f_104
+  - first:
+      213: 4095936270654271658
+    second: nebula_radiation_08f_105
+  - first:
+      213: -4840796422943727773
+    second: nebula_radiation_08f_106
+  - first:
+      213: 5111296641511216842
+    second: nebula_radiation_08f_107
+  - first:
+      213: 3452371882600153656
+    second: nebula_radiation_08f_108
+  - first:
+      213: 8636238339564747850
+    second: nebula_radiation_08f_109
+  - first:
+      213: 7775512040580039636
+    second: nebula_radiation_08f_110
+  - first:
+      213: -1410909823611047773
+    second: nebula_radiation_08f_111
+  - first:
+      213: 1172520915041412756
+    second: nebula_radiation_08f_112
+  - first:
+      213: 3281647834986501789
+    second: nebula_radiation_08f_113
+  - first:
+      213: 799052908213764442
+    second: nebula_radiation_08f_114
+  - first:
+      213: -1835438221992074347
+    second: nebula_radiation_08f_115
+  - first:
+      213: 6868601989580434608
+    second: nebula_radiation_08f_116
+  - first:
+      213: 2879465465786098637
+    second: nebula_radiation_08f_117
+  - first:
+      213: -632734569371071545
+    second: nebula_radiation_08f_118
+  - first:
+      213: -5598776608279119650
+    second: nebula_radiation_08f_119
+  - first:
+      213: 9019044906901185833
+    second: nebula_radiation_08f_120
+  - first:
+      213: 3150003606489285375
+    second: nebula_radiation_08f_121
+  - first:
+      213: -4336093642142553853
+    second: nebula_radiation_08f_122
+  - first:
+      213: -6728672898425385371
+    second: nebula_radiation_08f_123
+  - first:
+      213: -2874340392265460395
+    second: nebula_radiation_08f_124
+  - first:
+      213: -6160159459310998697
+    second: nebula_radiation_08f_125
+  - first:
+      213: -4564203301333306889
+    second: nebula_radiation_08f_126
+  - first:
+      213: 1756157976090344959
+    second: nebula_radiation_08f_127
+  - first:
+      213: -8962429433822467546
+    second: nebula_radiation_08f_128
+  - first:
+      213: -3132481366693208447
+    second: nebula_radiation_08f_129
+  - first:
+      213: 1639455339644277748
+    second: nebula_radiation_08f_130
+  - first:
+      213: 1732196487520966336
+    second: nebula_radiation_08f_131
+  - first:
+      213: 5951422392216920869
+    second: nebula_radiation_08f_132
+  - first:
+      213: 5706369071334948104
+    second: nebula_radiation_08f_133
+  - first:
+      213: 5452153043743170120
+    second: nebula_radiation_08f_134
+  - first:
+      213: 803134553985103481
+    second: nebula_radiation_08f_135
+  - first:
+      213: -5969418574785540352
+    second: nebula_radiation_08f_136
+  - first:
+      213: -6644137530346297145
+    second: nebula_radiation_08f_137
+  - first:
+      213: -3409024571135335808
+    second: nebula_radiation_08f_138
+  - first:
+      213: -6065922597774610314
+    second: nebula_radiation_08f_139
+  - first:
+      213: 1871242449998902617
+    second: nebula_radiation_08f_140
+  - first:
+      213: 5816412918237689086
+    second: nebula_radiation_08f_141
+  - first:
+      213: -2517828174021592055
+    second: nebula_radiation_08f_142
+  - first:
+      213: 1335667809519902399
+    second: nebula_radiation_08f_143
+  - first:
+      213: -4855893718777917717
+    second: nebula_radiation_08f_144
+  - first:
+      213: -1853940435862592557
+    second: nebula_radiation_08f_145
+  - first:
+      213: -8101536010325119362
+    second: nebula_radiation_08f_146
+  - first:
+      213: -4361495605851390784
+    second: nebula_radiation_08f_147
+  - first:
+      213: -3731439237692370075
+    second: nebula_radiation_08f_148
+  - first:
+      213: 8170894334661780247
+    second: nebula_radiation_08f_149
+  - first:
+      213: 5315741603750210331
+    second: nebula_radiation_08f_150
+  - first:
+      213: -6152379046558254245
+    second: nebula_radiation_08f_151
+  - first:
+      213: 3077914988692425370
+    second: nebula_radiation_08f_152
+  - first:
+      213: 4114353409077618668
+    second: nebula_radiation_08f_153
+  - first:
+      213: 178560254904865243
+    second: nebula_radiation_08f_154
+  - first:
+      213: 8079713435084340434
+    second: nebula_radiation_08f_155
+  - first:
+      213: 403604659801396295
+    second: nebula_radiation_08f_156
+  - first:
+      213: -4779127848568914269
+    second: nebula_radiation_08f_157
+  - first:
+      213: 4513732461652374174
+    second: nebula_radiation_08f_158
+  - first:
+      213: 7929118184424180206
+    second: nebula_radiation_08f_159
+  - first:
+      213: 3884147840656959165
+    second: nebula_radiation_08f_160
+  - first:
+      213: 3777982491010336447
+    second: nebula_radiation_08f_161
+  - first:
+      213: -8016522925729342551
+    second: nebula_radiation_08f_162
+  - first:
+      213: 3404770377976608397
+    second: nebula_radiation_08f_163
+  - first:
+      213: -5637940744355525017
+    second: nebula_radiation_08f_164
+  - first:
+      213: 3594927557880272248
+    second: nebula_radiation_08f_165
+  - first:
+      213: 7112784671515338319
+    second: nebula_radiation_08f_166
+  - first:
+      213: -2635930706060536261
+    second: nebula_radiation_08f_167
+  - first:
+      213: 1958570649776263436
+    second: nebula_radiation_08f_168
+  - first:
+      213: 5911051426424661866
+    second: nebula_radiation_08f_169
+  - first:
+      213: -8402694624386818240
+    second: nebula_radiation_08f_170
+  - first:
+      213: 7814570873950182413
+    second: nebula_radiation_08f_171
+  - first:
+      213: 7353007584257606119
+    second: nebula_radiation_08f_172
+  - first:
+      213: 5864773857508661478
+    second: nebula_radiation_08f_173
+  - first:
+      213: 2059526103357745595
+    second: nebula_radiation_08f_174
+  - first:
+      213: 8830159024486622232
+    second: nebula_radiation_08f_175
+  - first:
+      213: -8732147897714136282
+    second: nebula_radiation_08f_176
+  - first:
+      213: 6376908154152100487
+    second: nebula_radiation_08f_177
+  - first:
+      213: -2299123385254691013
+    second: nebula_radiation_08f_178
+  - first:
+      213: 483114473996795153
+    second: nebula_radiation_08f_179
+  - first:
+      213: 5361841341786399555
+    second: nebula_radiation_08f_180
+  - first:
+      213: 8451401202650353894
+    second: nebula_radiation_08f_181
+  - first:
+      213: -6039985502081980088
+    second: nebula_radiation_08f_182
+  - first:
+      213: 1391804079606223580
+    second: nebula_radiation_08f_183
+  - first:
+      213: -2680205967108245798
+    second: nebula_radiation_08f_184
+  - first:
+      213: 3181050529923961186
+    second: nebula_radiation_08f_185
+  - first:
+      213: -7082075636868692071
+    second: nebula_radiation_08f_186
+  - first:
+      213: 1800020396635886225
+    second: nebula_radiation_08f_187
+  - first:
+      213: 8738022452375381499
+    second: nebula_radiation_08f_188
+  - first:
+      213: 5565572259520573972
+    second: nebula_radiation_08f_189
+  - first:
+      213: -5229811366242180608
+    second: nebula_radiation_08f_190
+  - first:
+      213: 1328356219155142760
+    second: nebula_radiation_08f_191
+  - first:
+      213: -5613530187840852139
+    second: nebula_radiation_08f_192
+  - first:
+      213: 4520314935864849953
+    second: nebula_radiation_08f_193
+  - first:
+      213: -4051381573513252838
+    second: nebula_radiation_08f_194
+  - first:
+      213: 257475817711087075
+    second: nebula_radiation_08f_195
+  - first:
+      213: -9145749388100153987
+    second: nebula_radiation_08f_196
+  - first:
+      213: -7629785374558529527
+    second: nebula_radiation_08f_197
+  - first:
+      213: -8339247118884645591
+    second: nebula_radiation_08f_198
+  - first:
+      213: 8573763709375145931
+    second: nebula_radiation_08f_199
+  - first:
+      213: -3842507030530790560
+    second: nebula_radiation_08f_200
+  - first:
+      213: 7683516702434102474
+    second: nebula_radiation_08f_201
+  - first:
+      213: -3473583495201276231
+    second: nebula_radiation_08f_202
+  - first:
+      213: 6911164234426410584
+    second: nebula_radiation_08f_203
+  - first:
+      213: 1304787755287536867
+    second: nebula_radiation_08f_204
+  - first:
+      213: 2115374348953636013
+    second: nebula_radiation_08f_205
+  - first:
+      213: 1232631185695278561
+    second: nebula_radiation_08f_206
+  - first:
+      213: -5501334952967128226
+    second: nebula_radiation_08f_207
+  - first:
+      213: -359827173111983481
+    second: nebula_radiation_08f_208
+  - first:
+      213: -1743191307806817881
+    second: nebula_radiation_08f_209
+  - first:
+      213: 2734307990585411895
+    second: nebula_radiation_08f_210
+  - first:
+      213: -3074779480145565656
+    second: nebula_radiation_08f_211
+  - first:
+      213: 1280927579927879049
+    second: nebula_radiation_08f_212
+  - first:
+      213: 3200426405974663337
+    second: nebula_radiation_08f_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nebula_radiation_08f_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 970
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f551a7cd7a1b3c20800000000000000
+      internalID: 3187170288817231348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 942
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770d010ed291d270800000000000000
+      internalID: 8273555472654337910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 943
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90047be53789cff70800000000000000
+      internalID: 9222413758225661961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 954
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31f1adfd161abb20800000000000000
+      internalID: 3150855207364194622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 970
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad68f13b63d93a0800000000000000
+      internalID: -6657104531227747745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 924
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e026feeb447fd0800000000000000
+      internalID: -2345166016249534728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 947
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d14e68642aa99880800000000000000
+      internalID: -8603658539767021098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 936
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503161aa89b07280800000000000000
+      internalID: -9047527646323199916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_8
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 935
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e385844a435d320800000000000000
+      internalID: 2582027841559871084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_9
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 921
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4bbd654d2d13020800000000000000
+      internalID: 2319867092504655097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_10
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 923
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166cbf75369867ea0800000000000000
+      internalID: -5875357604087347615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_11
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 947
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a597f9ddaa74b6b0800000000000000
+      internalID: -5281461575893936730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 919
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94acea819d9c54d0800000000000000
+      internalID: -3144465191384865635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 917
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47cf8bf7ea4da170800000000000000
+      internalID: 8191285657475204943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_14
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 921
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6189927f05d2c770800000000000000
+      internalID: 8629694098319180141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_15
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 931
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0e6d47c4ca65a0800000000000000
+      internalID: -6527188349643519368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 879
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d5691ea5ba89a0800000000000000
+      internalID: -6229967375158619034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 868
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df60a7c51b575010800000000000000
+      internalID: 1177509976682295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 895
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7822bcf7c57a0b90800000000000000
+      internalID: -7274872746265139076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_19
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 896
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8318c36dc993800800000000000000
+      internalID: 592677269927966886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_20
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 896
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c51ffa3b01bb80800000000000000
+      internalID: -8380905083544157781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 900
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ef47dd94c20060800000000000000
+      internalID: 6918308159795749157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_22
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 892
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b701c52414dc72960800000000000000
+      internalID: 7577250578244046971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 859
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af918ed4c8d6650800000000000000
+      internalID: 6227788125957650989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 873
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c09caa19d125d20800000000000000
+      internalID: 3265705191269796872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_25
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 856
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482438067c1b31700800000000000000
+      internalID: 509946652698821252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_26
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 855
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357fe0b92e886f10800000000000000
+      internalID: 2263215122466960701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_27
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 871
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80965d9a98ad6b1e0800000000000000
+      internalID: -2182316684619716344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 840
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2888f71823986b30800000000000000
+      internalID: 4280833246225795117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_29
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 853
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8818b920379ed95a0800000000000000
+      internalID: -6512792805933612664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_30
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 833
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f20310a57511590800000000000000
+      internalID: -7705281443375599743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_31
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 835
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff1b61f7899d5e0800000000000000
+      internalID: -1884307297468809300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_32
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 839
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465041af389038620800000000000000
+      internalID: 2775072257831339364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 799
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecd2621eb989ffe0800000000000000
+      internalID: -1154740379998561056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_34
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 811
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a591daaa993f50f0800000000000000
+      internalID: -1126118045365725787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_35
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 806
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ece84ae2215c0e0800000000000000
+      internalID: -2250372447263076712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_36
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 810
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d402ab53d908140800000000000000
+      internalID: 4719945263565786382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_37
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 819
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5504a5b017354c10800000000000000
+      internalID: 2037094951361447263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_38
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 822
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd50e832267dc7f0800000000000000
+      internalID: -590686086760473159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 792
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d975b668587900800000000000000
+      internalID: 682392541701198218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 773
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35ff8b1918d4300800000000000000
+      internalID: 237988818194486193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_41
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 788
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f91dbfb54e8eab50800000000000000
+      internalID: 6606374133619825141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_42
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 781
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef655fd197a2590800000000000000
+      internalID: -7698207443459310035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_43
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 782
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f717c81b13cf100800000000000000
+      internalID: 143043926804234098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_44
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 781
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347fb53e9cd1829e0800000000000000
+      internalID: -1646032910863829181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_45
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 777
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8366a6231a259a9a0800000000000000
+      internalID: -6221350557946583496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_46
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 789
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aebd939e5648070800000000000000
+      internalID: 8107717281546234393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 766
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a462e67e90df410800000000000000
+      internalID: 1512375939456453175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_48
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 751
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e7a69827630cbe0800000000000000
+      internalID: -1459106413708411297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_49
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 778
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626e19b23531e3ab0800000000000000
+      internalID: -5026558886164699610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_50
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 739
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7162f44edd4980800000000000000
+      internalID: -8552935729601085829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_51
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 727
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d133bc8a85d2bcdd0800000000000000
+      internalID: -2464826512242953443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_52
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 746
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dfb4d5a72adb500800000000000000
+      internalID: 413665387222924556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_53
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 727
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb0e3858fd2f5740800000000000000
+      internalID: 5142879844135996352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_54
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 734
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4619ac6b97e20bb20800000000000000
+      internalID: 3148067239824626020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_55
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 721
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044f41b5d67c9530800000000000000
+      internalID: 3863093240551916553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_56
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 727
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237fb8e412c544a20800000000000000
+      internalID: 3045660546130769714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_57
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 731
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996c1020d212d1120800000000000000
+      internalID: 2386099854767146649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 722
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26987eeb777098a0800000000000000
+      internalID: -6300404504525760982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_59
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 702
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874ca46bb5cd81d20800000000000000
+      internalID: 3249589417606300792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_60
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 710
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363385279094c9380800000000000000
+      internalID: -8963208853452213405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_61
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 720
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0c41f61d003680800000000000000
+      internalID: -8777501281556362661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 669
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa5456e4a39f4a90800000000000000
+      internalID: -7327475732260300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_63
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 670
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70268d242ee0416f0800000000000000
+      internalID: -714930075898191353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_64
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 689
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b395dd386f42140800000000000000
+      internalID: 4694147757841660743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_65
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 697
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8bcd4963a686340800000000000000
+      internalID: 4857248980777351329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_66
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 686
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56eb03c91970ae0800000000000000
+      internalID: -1583136643978730058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 651
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc46789faa814cb10800000000000000
+      internalID: 2000751257069249740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 659
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f9776100cd10780800000000000000
+      internalID: -8718445510677520639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_69
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 669
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa08d8d96c640ec0800000000000000
+      internalID: -3601634600124151046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_70
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 671
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d900baf8d557640800000000000000
+      internalID: 5077067026560752956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_71
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 659
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c896f389e15e61b0800000000000000
+      internalID: -5661497618174928704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_72
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 657
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a5fe1773bdab50800000000000000
+      internalID: 6606133552624280746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_73
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 663
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad5073e24445ca0800000000000000
+      internalID: -6029119035859936751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_74
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 674
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ce4284d52216a0800000000000000
+      internalID: -6480075319183227846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_75
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 655
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e4f2ad75d181c0800000000000000
+      internalID: -4503083416812199745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 653
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53710313575dd2310800000000000000
+      internalID: 1381995359985735477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_77
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 655
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc49e96a706a42d00800000000000000
+      internalID: 947064373445039311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_78
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 647
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b618f6de6e11383c0800000000000000
+      internalID: -4358620330840850069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_79
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 653
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2651416ba7f62cc60800000000000000
+      internalID: 7836948874409547106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_80
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 638
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f268d059b820b5920800000000000000
+      internalID: 2979978376960116271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 631
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacafff70dd7e5f10800000000000000
+      internalID: 2260382397440699566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_82
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 625
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8becaac459603ea10800000000000000
+      internalID: 1937399503005601464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_83
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 617
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ee00298b83b1ff0800000000000000
+      internalID: -64395404292067767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_84
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 597
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b28989502a32230800000000000000
+      internalID: 3612909470999915308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_85
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 630
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092da478e780edd0800000000000000
+      internalID: -2458815964084623099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_86
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 620
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0241656fbdcaa50800000000000000
+      internalID: 6533839010460344552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 580
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca307890015a4800800000000000000
+      internalID: 597378963579353799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_88
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 591
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170bbff7ac2f1e750800000000000000
+      internalID: 6332609502604144753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_89
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 571
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53686ff7b3a50adb0800000000000000
+      internalID: -4782723592671033803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 588
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c3e9d237555370800000000000000
+      internalID: 8310644563297681613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_91
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 588
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe2b5388e615770800000000000000
+      internalID: 8597774694922514302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_92
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 583
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fb6304b830750f0800000000000000
+      internalID: -1128429285020352612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_93
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 590
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa848b2e9b39f420800000000000000
+      internalID: 2664226205087337121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_94
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 588
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80bed7aee671ce0800000000000000
+      internalID: -1434556002880255820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_95
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 574
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f947dd55ca8732790800000000000000
+      internalID: -7556063068227275617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_96
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 588
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6176cca7e09dd50800000000000000
+      internalID: 6762452236051617518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_97
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 584
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b6a42611694d310800000000000000
+      internalID: 1428931983190944518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_98
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 580
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143e64716dcb6bc0800000000000000
+      internalID: -3788708843053239275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_99
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 573
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b685d685bb6a2a550800000000000000
+      internalID: 6170677763023657067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_100
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 548
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9acb14dc466a7070800000000000000
+      internalID: 8104902959568767643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_101
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 549
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111cedbd6244c7c50800000000000000
+      internalID: 6664276482289746193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_102
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 555
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ac7e5b1de79a70800000000000000
+      internalID: 8833789895915644366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_103
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 455
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580d885daca422c0800000000000000
+      internalID: -4457247870674991022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_104
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 450
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c9e2a39f053990800000000000000
+      internalID: -7406996885373073008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_105
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 451
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa07cf24650b7d830800000000000000
+      internalID: 4095936270654271658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_106
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 461
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f157c0d4902dcb0800000000000000
+      internalID: -4840796422943727773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_107
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac65ce2f639fee640800000000000000
+      internalID: 5111296641511216842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_108
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 427
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832cdee8fe949ef20800000000000000
+      internalID: 3452371882600153656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_109
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 442
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cbd5953051ad770800000000000000
+      internalID: 8636238339564747850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_110
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 418
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3cb85210b28eb60800000000000000
+      internalID: 7775512040580039636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_111
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 435
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0fd81adf07b6ce0800000000000000
+      internalID: -1410909823611047773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_112
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 417
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49662c85f81a54010800000000000000
+      internalID: 1172520915041412756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_113
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 433
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96dc4aa151ca8d20800000000000000
+      internalID: 3281647834986501789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_114
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 435
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5103dee26ec61b00800000000000000
+      internalID: 799052908213764442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_115
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 416
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ecf269a63786e0800000000000000
+      internalID: -1835438221992074347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_116
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 410
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcab7c3e1d225f50800000000000000
+      internalID: 6868601989580434608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_117
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 417
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc36f27c59ae5f720800000000000000
+      internalID: 2879465465786098637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_118
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 413
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0783f2431837f0800000000000000
+      internalID: -632734569371071545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_119
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 414
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b1ce96562d42b0800000000000000
+      internalID: -5598776608279119650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_120
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 379
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252421de851a2d70800000000000000
+      internalID: 9019044906901185833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 388
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff24ef5379f07bb20800000000000000
+      internalID: 3150003606489285375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 387
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309634b5ec913d3c0800000000000000
+      internalID: -4336093642142553853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_123
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 388
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e8e8f16a3fe92a0800000000000000
+      internalID: -6728672898425385371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_124
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555d57364aa4c18d0800000000000000
+      internalID: -2874340392265460395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_125
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 399
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b61041c97b28aa0800000000000000
+      internalID: -6160159459310998697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_126
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 383
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fc559741b8a0c0800000000000000
+      internalID: -4564203301333306889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_127
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 357
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd755eef502f5810800000000000000
+      internalID: 1756157976090344959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_128
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 369
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aa1883aed0f9380800000000000000
+      internalID: -8962429433822467546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_129
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 379
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e98b82bc03784d0800000000000000
+      internalID: -3132481366693208447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_130
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 374
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f35d98f1f380c610800000000000000
+      internalID: 1639455339644277748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_131
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 379
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6dddf178ff90810800000000000000
+      internalID: 1732196487520966336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_132
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523256c3223b79250800000000000000
+      internalID: 5951422392216920869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_133
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 329
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df13ecf68113f40800000000000000
+      internalID: 5706369071334948104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_134
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 313
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e50697e40f9ab40800000000000000
+      internalID: 5452153043743170120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_135
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 354
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976bf152f9e452b00800000000000000
+      internalID: 803134553985103481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_136
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 344
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f0a4efe6d582da0800000000000000
+      internalID: -5969418574785540352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_137
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 348
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c82ed84e184bc3a0800000000000000
+      internalID: -6644137530346297145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_138
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 353
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08266eed636b0b0d0800000000000000
+      internalID: -3409024571135335808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_139
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 315
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67031a4398381dba0800000000000000
+      internalID: -6065922597774610314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_140
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 334
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955f0d0181df7f910800000000000000
+      internalID: 1871242449998902617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_141
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 324
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4fc828bbc08b050800000000000000
+      internalID: 5816412918237689086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_142
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 327
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf8f1ad90ee0dd0800000000000000
+      internalID: -2517828174021592055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_143
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe9b5ccbce398210800000000000000
+      internalID: 1335667809519902399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_144
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 315
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee0131f3666c9cb0800000000000000
+      internalID: -4855893718777917717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_145
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 305
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36da50ffa7546e0800000000000000
+      internalID: -1853940435862592557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_146
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 308
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e29812cef819f80800000000000000
+      internalID: -8101536010325119362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_147
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccfccbcadad873c0800000000000000
+      internalID: -4361495605851390784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_148
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 287
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563546888c3473cc0800000000000000
+      internalID: -3731439237692370075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_149
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 283
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71364ca2b19d46170800000000000000
+      internalID: 8170894334661780247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_150
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 284
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1beb4913de45c940800000000000000
+      internalID: 5315741603750210331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_151
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 288
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb6569adb5e9aa0800000000000000
+      internalID: -6152379046558254245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_152
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 265
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9accddef53f6ba20800000000000000
+      internalID: 3077914988692425370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_153
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 263
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce72d7470ae191930800000000000000
+      internalID: 4114353409077618668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_154
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 270
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19b941b9f5a7200800000000000000
+      internalID: 178560254904865243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_155
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 263
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc3721af88e02070800000000000000
+      internalID: 8079713435084340434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_156
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 261
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7449729bc44e99500800000000000000
+      internalID: 403604659801396295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_157
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 244
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae7fd9ea802dadb0800000000000000
+      internalID: -4779127848568914269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_158
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 243
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9270f352cff3ae30800000000000000
+      internalID: 4513732461652374174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_159
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 241
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee981bc7af2e90e60800000000000000
+      internalID: 7929118184424180206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_160
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66579c1e347e530800000000000000
+      internalID: 3884147840656959165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_161
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 253
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb601581f071e6430800000000000000
+      internalID: 3777982491010336447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 233
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab90265fd69fb090800000000000000
+      internalID: -8016522925729342551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_163
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8671199e9c204f20800000000000000
+      internalID: 3404770377976608397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_164
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 223
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eccfb93c202c1b0800000000000000
+      internalID: -5637940744355525017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_165
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 219
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87557b0319fb3e130800000000000000
+      internalID: 3594927557880272248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_166
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e38d39ffa5b260800000000000000
+      internalID: 7112784671515338319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_167
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3697b41dfa4b6bd0800000000000000
+      internalID: -2635930706060536261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_168
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 216
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019b6701ad3e2b10800000000000000
+      internalID: 1958570649776263436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_169
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 213
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ab1944f5480250800000000000000
+      internalID: 5911051426424661866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd65d22c1a36b80800000000000000
+      internalID: -8402694624386818240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_171
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 184
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1ae57ecee27c60800000000000000
+      internalID: 7814570873950182413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_172
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18d62a0712b0660800000000000000
+      internalID: 7353007584257606119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_173
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 193
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e81dc020ccd36150800000000000000
+      internalID: 5864773857508661478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_174
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 197
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb968444418e49c10800000000000000
+      internalID: 2059526103357745595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_175
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 191
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8142cbc39d60b8a70800000000000000
+      internalID: 8830159024486622232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_176
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 196
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b239e70cd21d680800000000000000
+      internalID: -8732147897714136282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_177
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 187
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782278d0e245f7850800000000000000
+      internalID: 6376908154152100487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_178
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fb91f567fd710e0800000000000000
+      internalID: -2299123385254691013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_179
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 172
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dbd60fd0e54b600800000000000000
+      internalID: 483114473996795153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_180
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 164
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ae27ca46196a40800000000000000
+      internalID: 5361841341786399555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_181
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 167
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0984acd98694570800000000000000
+      internalID: 8451401202650353894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_182
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 181
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849e4e3ef29ad2ca0800000000000000
+      internalID: -6039985502081980088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_183
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25ed1bf6ea05310800000000000000
+      internalID: 1391804079606223580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_184
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 131
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad671ad8fdefdcad0800000000000000
+      internalID: -2680205967108245798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_185
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 144
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619fa06a9c552c20800000000000000
+      internalID: 3181050529923961186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_186
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974eff0bb967bd90800000000000000
+      internalID: -7082075636868692071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_187
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 153
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19290f98305faf810800000000000000
+      internalID: 1800020396635886225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_188
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 121
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5e839df11b34970800000000000000
+      internalID: 8738022452375381499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_189
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 117
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412fd7c7b72ec3d40800000000000000
+      internalID: 5565572259520573972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_190
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 117
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002a5d8654afb67b0800000000000000
+      internalID: -5229811366242180608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_191
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 94
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8685ce181f44f6210800000000000000
+      internalID: 1328356219155142760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_192
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 121
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f60d1390cb812b0800000000000000
+      internalID: -5613530187840852139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_193
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 118
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126fd190c726bbe30800000000000000
+      internalID: 4520314935864849953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10fd2d8ce996c7c0800000000000000
+      internalID: -4051381573513252838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_195
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed2cec54ecb29300800000000000000
+      internalID: 257475817711087075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_196
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 90
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4b854365c31180800000000000000
+      internalID: -9145749388100153987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_197
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908d7fc40ae8d1690800000000000000
+      internalID: -7629785374558529527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_198
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 96
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255ea8bdea054c80800000000000000
+      internalID: -8339247118884645591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_199
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 57
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e07dfaa02cf670800000000000000
+      internalID: 8573763709375145931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_200
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6546d63cacaac0800000000000000
+      internalID: -3842507030530790560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_201
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 48
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc8d5a5bb551aa60800000000000000
+      internalID: 7683516702434102474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_202
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 53
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3ed6073a5bcfc0800000000000000
+      internalID: -3473583495201276231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_203
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 61
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ee59114369ef50800000000000000
+      internalID: 6911164234426410584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_204
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 65
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46135ec898b1210800000000000000
+      internalID: 1304787755287536867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_205
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 73
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacca5c33c15b5d10800000000000000
+      internalID: 2115374348953636013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_206
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e58f6a588f2b1110800000000000000
+      internalID: 1232631185695278561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_207
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b34f1f10557a3b0800000000000000
+      internalID: -5501334952967128226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_208
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782902ea713a10bf0800000000000000
+      internalID: -359827173111983481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_209
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 38
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a140aacdb0fec7e0800000000000000
+      internalID: -1743191307806817881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_210
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 31
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7390b5561a632f520800000000000000
+      internalID: 2734307990585411895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_211
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 52
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828634b8a503455d0800000000000000
+      internalID: -3074779480145565656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_212
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1a98e8d4c6c110800000000000000
+      internalID: 1280927579927879049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nebula_radiation_08f_213
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 29
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a066e11cd23a6c20800000000000000
+      internalID: 3200426405974663337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nebula_radiation_08f_0: 3187170288817231348
+      nebula_radiation_08f_1: 8273555472654337910
+      nebula_radiation_08f_10: -5875357604087347615
+      nebula_radiation_08f_100: 8104902959568767643
+      nebula_radiation_08f_101: 6664276482289746193
+      nebula_radiation_08f_102: 8833789895915644366
+      nebula_radiation_08f_103: -4457247870674991022
+      nebula_radiation_08f_104: -7406996885373073008
+      nebula_radiation_08f_105: 4095936270654271658
+      nebula_radiation_08f_106: -4840796422943727773
+      nebula_radiation_08f_107: 5111296641511216842
+      nebula_radiation_08f_108: 3452371882600153656
+      nebula_radiation_08f_109: 8636238339564747850
+      nebula_radiation_08f_11: -5281461575893936730
+      nebula_radiation_08f_110: 7775512040580039636
+      nebula_radiation_08f_111: -1410909823611047773
+      nebula_radiation_08f_112: 1172520915041412756
+      nebula_radiation_08f_113: 3281647834986501789
+      nebula_radiation_08f_114: 799052908213764442
+      nebula_radiation_08f_115: -1835438221992074347
+      nebula_radiation_08f_116: 6868601989580434608
+      nebula_radiation_08f_117: 2879465465786098637
+      nebula_radiation_08f_118: -632734569371071545
+      nebula_radiation_08f_119: -5598776608279119650
+      nebula_radiation_08f_12: -3144465191384865635
+      nebula_radiation_08f_120: 9019044906901185833
+      nebula_radiation_08f_121: 3150003606489285375
+      nebula_radiation_08f_122: -4336093642142553853
+      nebula_radiation_08f_123: -6728672898425385371
+      nebula_radiation_08f_124: -2874340392265460395
+      nebula_radiation_08f_125: -6160159459310998697
+      nebula_radiation_08f_126: -4564203301333306889
+      nebula_radiation_08f_127: 1756157976090344959
+      nebula_radiation_08f_128: -8962429433822467546
+      nebula_radiation_08f_129: -3132481366693208447
+      nebula_radiation_08f_13: 8191285657475204943
+      nebula_radiation_08f_130: 1639455339644277748
+      nebula_radiation_08f_131: 1732196487520966336
+      nebula_radiation_08f_132: 5951422392216920869
+      nebula_radiation_08f_133: 5706369071334948104
+      nebula_radiation_08f_134: 5452153043743170120
+      nebula_radiation_08f_135: 803134553985103481
+      nebula_radiation_08f_136: -5969418574785540352
+      nebula_radiation_08f_137: -6644137530346297145
+      nebula_radiation_08f_138: -3409024571135335808
+      nebula_radiation_08f_139: -6065922597774610314
+      nebula_radiation_08f_14: 8629694098319180141
+      nebula_radiation_08f_140: 1871242449998902617
+      nebula_radiation_08f_141: 5816412918237689086
+      nebula_radiation_08f_142: -2517828174021592055
+      nebula_radiation_08f_143: 1335667809519902399
+      nebula_radiation_08f_144: -4855893718777917717
+      nebula_radiation_08f_145: -1853940435862592557
+      nebula_radiation_08f_146: -8101536010325119362
+      nebula_radiation_08f_147: -4361495605851390784
+      nebula_radiation_08f_148: -3731439237692370075
+      nebula_radiation_08f_149: 8170894334661780247
+      nebula_radiation_08f_15: -6527188349643519368
+      nebula_radiation_08f_150: 5315741603750210331
+      nebula_radiation_08f_151: -6152379046558254245
+      nebula_radiation_08f_152: 3077914988692425370
+      nebula_radiation_08f_153: 4114353409077618668
+      nebula_radiation_08f_154: 178560254904865243
+      nebula_radiation_08f_155: 8079713435084340434
+      nebula_radiation_08f_156: 403604659801396295
+      nebula_radiation_08f_157: -4779127848568914269
+      nebula_radiation_08f_158: 4513732461652374174
+      nebula_radiation_08f_159: 7929118184424180206
+      nebula_radiation_08f_16: -6229967375158619034
+      nebula_radiation_08f_160: 3884147840656959165
+      nebula_radiation_08f_161: 3777982491010336447
+      nebula_radiation_08f_162: -8016522925729342551
+      nebula_radiation_08f_163: 3404770377976608397
+      nebula_radiation_08f_164: -5637940744355525017
+      nebula_radiation_08f_165: 3594927557880272248
+      nebula_radiation_08f_166: 7112784671515338319
+      nebula_radiation_08f_167: -2635930706060536261
+      nebula_radiation_08f_168: 1958570649776263436
+      nebula_radiation_08f_169: 5911051426424661866
+      nebula_radiation_08f_17: 1177509976682295256
+      nebula_radiation_08f_170: -8402694624386818240
+      nebula_radiation_08f_171: 7814570873950182413
+      nebula_radiation_08f_172: 7353007584257606119
+      nebula_radiation_08f_173: 5864773857508661478
+      nebula_radiation_08f_174: 2059526103357745595
+      nebula_radiation_08f_175: 8830159024486622232
+      nebula_radiation_08f_176: -8732147897714136282
+      nebula_radiation_08f_177: 6376908154152100487
+      nebula_radiation_08f_178: -2299123385254691013
+      nebula_radiation_08f_179: 483114473996795153
+      nebula_radiation_08f_18: -7274872746265139076
+      nebula_radiation_08f_180: 5361841341786399555
+      nebula_radiation_08f_181: 8451401202650353894
+      nebula_radiation_08f_182: -6039985502081980088
+      nebula_radiation_08f_183: 1391804079606223580
+      nebula_radiation_08f_184: -2680205967108245798
+      nebula_radiation_08f_185: 3181050529923961186
+      nebula_radiation_08f_186: -7082075636868692071
+      nebula_radiation_08f_187: 1800020396635886225
+      nebula_radiation_08f_188: 8738022452375381499
+      nebula_radiation_08f_189: 5565572259520573972
+      nebula_radiation_08f_19: 592677269927966886
+      nebula_radiation_08f_190: -5229811366242180608
+      nebula_radiation_08f_191: 1328356219155142760
+      nebula_radiation_08f_192: -5613530187840852139
+      nebula_radiation_08f_193: 4520314935864849953
+      nebula_radiation_08f_194: -4051381573513252838
+      nebula_radiation_08f_195: 257475817711087075
+      nebula_radiation_08f_196: -9145749388100153987
+      nebula_radiation_08f_197: -7629785374558529527
+      nebula_radiation_08f_198: -8339247118884645591
+      nebula_radiation_08f_199: 8573763709375145931
+      nebula_radiation_08f_2: 9222413758225661961
+      nebula_radiation_08f_20: -8380905083544157781
+      nebula_radiation_08f_200: -3842507030530790560
+      nebula_radiation_08f_201: 7683516702434102474
+      nebula_radiation_08f_202: -3473583495201276231
+      nebula_radiation_08f_203: 6911164234426410584
+      nebula_radiation_08f_204: 1304787755287536867
+      nebula_radiation_08f_205: 2115374348953636013
+      nebula_radiation_08f_206: 1232631185695278561
+      nebula_radiation_08f_207: -5501334952967128226
+      nebula_radiation_08f_208: -359827173111983481
+      nebula_radiation_08f_209: -1743191307806817881
+      nebula_radiation_08f_21: 6918308159795749157
+      nebula_radiation_08f_210: 2734307990585411895
+      nebula_radiation_08f_211: -3074779480145565656
+      nebula_radiation_08f_212: 1280927579927879049
+      nebula_radiation_08f_213: 3200426405974663337
+      nebula_radiation_08f_22: 7577250578244046971
+      nebula_radiation_08f_23: 6227788125957650989
+      nebula_radiation_08f_24: 3265705191269796872
+      nebula_radiation_08f_25: 509946652698821252
+      nebula_radiation_08f_26: 2263215122466960701
+      nebula_radiation_08f_27: -2182316684619716344
+      nebula_radiation_08f_28: 4280833246225795117
+      nebula_radiation_08f_29: -6512792805933612664
+      nebula_radiation_08f_3: 3150855207364194622
+      nebula_radiation_08f_30: -7705281443375599743
+      nebula_radiation_08f_31: -1884307297468809300
+      nebula_radiation_08f_32: 2775072257831339364
+      nebula_radiation_08f_33: -1154740379998561056
+      nebula_radiation_08f_34: -1126118045365725787
+      nebula_radiation_08f_35: -2250372447263076712
+      nebula_radiation_08f_36: 4719945263565786382
+      nebula_radiation_08f_37: 2037094951361447263
+      nebula_radiation_08f_38: -590686086760473159
+      nebula_radiation_08f_39: 682392541701198218
+      nebula_radiation_08f_4: -6657104531227747745
+      nebula_radiation_08f_40: 237988818194486193
+      nebula_radiation_08f_41: 6606374133619825141
+      nebula_radiation_08f_42: -7698207443459310035
+      nebula_radiation_08f_43: 143043926804234098
+      nebula_radiation_08f_44: -1646032910863829181
+      nebula_radiation_08f_45: -6221350557946583496
+      nebula_radiation_08f_46: 8107717281546234393
+      nebula_radiation_08f_47: 1512375939456453175
+      nebula_radiation_08f_48: -1459106413708411297
+      nebula_radiation_08f_49: -5026558886164699610
+      nebula_radiation_08f_5: -2345166016249534728
+      nebula_radiation_08f_50: -8552935729601085829
+      nebula_radiation_08f_51: -2464826512242953443
+      nebula_radiation_08f_52: 413665387222924556
+      nebula_radiation_08f_53: 5142879844135996352
+      nebula_radiation_08f_54: 3148067239824626020
+      nebula_radiation_08f_55: 3863093240551916553
+      nebula_radiation_08f_56: 3045660546130769714
+      nebula_radiation_08f_57: 2386099854767146649
+      nebula_radiation_08f_58: -6300404504525760982
+      nebula_radiation_08f_59: 3249589417606300792
+      nebula_radiation_08f_6: -8603658539767021098
+      nebula_radiation_08f_60: -8963208853452213405
+      nebula_radiation_08f_61: -8777501281556362661
+      nebula_radiation_08f_62: -7327475732260300034
+      nebula_radiation_08f_63: -714930075898191353
+      nebula_radiation_08f_64: 4694147757841660743
+      nebula_radiation_08f_65: 4857248980777351329
+      nebula_radiation_08f_66: -1583136643978730058
+      nebula_radiation_08f_67: 2000751257069249740
+      nebula_radiation_08f_68: -8718445510677520639
+      nebula_radiation_08f_69: -3601634600124151046
+      nebula_radiation_08f_7: -9047527646323199916
+      nebula_radiation_08f_70: 5077067026560752956
+      nebula_radiation_08f_71: -5661497618174928704
+      nebula_radiation_08f_72: 6606133552624280746
+      nebula_radiation_08f_73: -6029119035859936751
+      nebula_radiation_08f_74: -6480075319183227846
+      nebula_radiation_08f_75: -4503083416812199745
+      nebula_radiation_08f_76: 1381995359985735477
+      nebula_radiation_08f_77: 947064373445039311
+      nebula_radiation_08f_78: -4358620330840850069
+      nebula_radiation_08f_79: 7836948874409547106
+      nebula_radiation_08f_8: 2582027841559871084
+      nebula_radiation_08f_80: 2979978376960116271
+      nebula_radiation_08f_81: 2260382397440699566
+      nebula_radiation_08f_82: 1937399503005601464
+      nebula_radiation_08f_83: -64395404292067767
+      nebula_radiation_08f_84: 3612909470999915308
+      nebula_radiation_08f_85: -2458815964084623099
+      nebula_radiation_08f_86: 6533839010460344552
+      nebula_radiation_08f_87: 597378963579353799
+      nebula_radiation_08f_88: 6332609502604144753
+      nebula_radiation_08f_89: -4782723592671033803
+      nebula_radiation_08f_9: 2319867092504655097
+      nebula_radiation_08f_90: 8310644563297681613
+      nebula_radiation_08f_91: 8597774694922514302
+      nebula_radiation_08f_92: -1128429285020352612
+      nebula_radiation_08f_93: 2664226205087337121
+      nebula_radiation_08f_94: -1434556002880255820
+      nebula_radiation_08f_95: -7556063068227275617
+      nebula_radiation_08f_96: 6762452236051617518
+      nebula_radiation_08f_97: 1428931983190944518
+      nebula_radiation_08f_98: -3788708843053239275
+      nebula_radiation_08f_99: 6170677763023657067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

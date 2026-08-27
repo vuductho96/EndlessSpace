@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: befc0e2a4d1d1e344af10171ac66e77b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5515221812445662892
+    second: radar_sweep_12f_0
+  - first:
+      213: -2153316249081915150
+    second: radar_sweep_12f_1
+  - first:
+      213: 3975063804620667676
+    second: radar_sweep_12f_2
+  - first:
+      213: 8911478187176620786
+    second: radar_sweep_12f_3
+  - first:
+      213: -1575912261761314612
+    second: radar_sweep_12f_4
+  - first:
+      213: -6289663969447248356
+    second: radar_sweep_12f_5
+  - first:
+      213: 6479567932870037371
+    second: radar_sweep_12f_6
+  - first:
+      213: 9173319093175086683
+    second: radar_sweep_12f_7
+  - first:
+      213: -3941488503142320843
+    second: radar_sweep_12f_8
+  - first:
+      213: 7402427041365923195
+    second: radar_sweep_12f_9
+  - first:
+      213: -793666295073132681
+    second: radar_sweep_12f_10
+  - first:
+      213: -1334801117344860324
+    second: radar_sweep_12f_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: radar_sweep_12f_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 637
+        width: 125
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae4f4c74010a8c40800000000000000
+      internalID: 5515221812445662892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 577
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8556cb742ed12e0800000000000000
+      internalID: -2153316249081915150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 534
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7de138734a2730800000000000000
+      internalID: 3975063804620667676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 517
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2fd4a323eebab70800000000000000
+      internalID: 8911478187176620786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 262
+        width: 69
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d880c52c312ae0800000000000000
+      internalID: -1575912261761314612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef580a1ff96b8a0800000000000000
+      internalID: -6289663969447248356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 318
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f0bb864bc0ce950800000000000000
+      internalID: 6479567932870037371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 377
+        width: 125
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6208ec1d2e4f70800000000000000
+      internalID: 9173319093175086683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 125
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357aebd6150d49c0800000000000000
+      internalID: -3941488503142320843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 125
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b759c54ac24bab660800000000000000
+      internalID: 7402427041365923195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 125
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f27fba5b45cf4f0800000000000000
+      internalID: -793666295073132681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radar_sweep_12f_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 125
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c577dd2b475d97de0800000000000000
+      internalID: -1334801117344860324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      radar_sweep_12f_0: 5515221812445662892
+      radar_sweep_12f_1: -2153316249081915150
+      radar_sweep_12f_10: -793666295073132681
+      radar_sweep_12f_11: -1334801117344860324
+      radar_sweep_12f_2: 3975063804620667676
+      radar_sweep_12f_3: 8911478187176620786
+      radar_sweep_12f_4: -1575912261761314612
+      radar_sweep_12f_5: -6289663969447248356
+      radar_sweep_12f_6: 6479567932870037371
+      radar_sweep_12f_7: 9173319093175086683
+      radar_sweep_12f_8: -3941488503142320843
+      radar_sweep_12f_9: 7402427041365923195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

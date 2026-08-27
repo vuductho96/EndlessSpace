@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 25366522a214bbf44a5fbe4d34e1f254
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5171202846566295102
+    second: thruster_flame_idle_08f_0
+  - first:
+      213: 7123439503959145079
+    second: thruster_flame_idle_08f_1
+  - first:
+      213: -6265484161778268031
+    second: thruster_flame_idle_08f_2
+  - first:
+      213: 690654084776975388
+    second: thruster_flame_idle_08f_3
+  - first:
+      213: 7530224602475238292
+    second: thruster_flame_idle_08f_4
+  - first:
+      213: -3656636661008057660
+    second: thruster_flame_idle_08f_5
+  - first:
+      213: 7181373454715760579
+    second: thruster_flame_idle_08f_6
+  - first:
+      213: -8343496774598753810
+    second: thruster_flame_idle_08f_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 765
+        width: 75
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95de4c8623c38b0800000000000000
+      internalID: -5171202846566295102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_1
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 765
+        width: 75
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a387cbc7a8bd260800000000000000
+      internalID: 7123439503959145079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_2
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 763
+        width: 75
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ce5fc9578c09a0800000000000000
+      internalID: -6265484161778268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 765
+        width: 75
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cddc91b32b59900800000000000000
+      internalID: 690654084776975388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 251
+        width: 75
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493917d016bb08860800000000000000
+      internalID: 7530224602475238292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_5
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 251
+        width: 75
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab1fb9454014dc0800000000000000
+      internalID: -3656636661008057660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_6
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 253
+        width: 75
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa0c7cb1d59a360800000000000000
+      internalID: 7181373454715760579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thruster_flame_idle_08f_7
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 251
+        width: 75
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee18c65a3e1f53c80800000000000000
+      internalID: -8343496774598753810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thruster_flame_idle_08f_0: -5171202846566295102
+      thruster_flame_idle_08f_1: 7123439503959145079
+      thruster_flame_idle_08f_2: -6265484161778268031
+      thruster_flame_idle_08f_3: 690654084776975388
+      thruster_flame_idle_08f_4: 7530224602475238292
+      thruster_flame_idle_08f_5: -3656636661008057660
+      thruster_flame_idle_08f_6: 7181373454715760579
+      thruster_flame_idle_08f_7: -8343496774598753810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

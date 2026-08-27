@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 37a26bd99676f454ab87b170a9e1b555
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8419710787360876167
+    second: boss_death_energy_wave_12f_0
+  - first:
+      213: -1597520347342490138
+    second: boss_death_energy_wave_12f_1
+  - first:
+      213: -7839423190327618924
+    second: boss_death_energy_wave_12f_2
+  - first:
+      213: 7956273554876082092
+    second: boss_death_energy_wave_12f_3
+  - first:
+      213: 931127934648703881
+    second: boss_death_energy_wave_12f_4
+  - first:
+      213: 8151594012058220231
+    second: boss_death_energy_wave_12f_5
+  - first:
+      213: -8917372071365578064
+    second: boss_death_energy_wave_12f_6
+  - first:
+      213: -1747791160976449311
+    second: boss_death_energy_wave_12f_7
+  - first:
+      213: 3694270225936374499
+    second: boss_death_energy_wave_12f_8
+  - first:
+      213: 1154151832344192085
+    second: boss_death_energy_wave_12f_9
+  - first:
+      213: -2313860252340775855
+    second: boss_death_energy_wave_12f_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1228
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7866b200a52d8d470800000000000000
+      internalID: 8419710787360876167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1211
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5313745b774d9e0800000000000000
+      internalID: -1597520347342490138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1193
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4921098b426c43390800000000000000
+      internalID: -7839423190327618924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_3
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1175
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7293ed4ac5a6e60800000000000000
+      internalID: 7956273554876082092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 645
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bdd295ce70cec00800000000000000
+      internalID: 931127934648703881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 628
+        width: 279
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c67ee1a097402170800000000000000
+      internalID: 8151594012058220231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 609
+        width: 317
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f34ce8512f3480800000000000000
+      internalID: -8917372071365578064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_7
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 591
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06e6403399eb7e0800000000000000
+      internalID: -1747791160976449311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea5d39823fa44330800000000000000
+      internalID: 3694270225936374499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 45
+        width: 421
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554edbff9fe540010800000000000000
+      internalID: 1154151832344192085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_death_energy_wave_12f_10
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 32
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154155f1c5483efd0800000000000000
+      internalID: -2313860252340775855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_death_energy_wave_12f_0: 8419710787360876167
+      boss_death_energy_wave_12f_1: -1597520347342490138
+      boss_death_energy_wave_12f_10: -2313860252340775855
+      boss_death_energy_wave_12f_2: -7839423190327618924
+      boss_death_energy_wave_12f_3: 7956273554876082092
+      boss_death_energy_wave_12f_4: 931127934648703881
+      boss_death_energy_wave_12f_5: 8151594012058220231
+      boss_death_energy_wave_12f_6: -8917372071365578064
+      boss_death_energy_wave_12f_7: -1747791160976449311
+      boss_death_energy_wave_12f_8: 3694270225936374499
+      boss_death_energy_wave_12f_9: 1154151832344192085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 0373c6e9189533e43874e3485f760a26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6802820376295699582
+    second: damage_sparks_06f_0
+  - first:
+      213: -690704733862581799
+    second: damage_sparks_06f_1
+  - first:
+      213: -769034559776847766
+    second: damage_sparks_06f_2
+  - first:
+      213: -4369938671259758595
+    second: damage_sparks_06f_3
+  - first:
+      213: -4619909755756293408
+    second: damage_sparks_06f_4
+  - first:
+      213: 1804127376093427595
+    second: damage_sparks_06f_5
+  - first:
+      213: -572464392872288422
+    second: damage_sparks_06f_6
+  - first:
+      213: 3460240730701139928
+    second: damage_sparks_06f_7
+  - first:
+      213: -6649472384115635621
+    second: damage_sparks_06f_8
+  - first:
+      213: 7700885993044648910
+    second: damage_sparks_06f_9
+  - first:
+      213: 5625415784190861549
+    second: damage_sparks_06f_10
+  - first:
+      213: -6072553541701398859
+    second: damage_sparks_06f_11
+  - first:
+      213: 1584560527123746235
+    second: damage_sparks_06f_12
+  - first:
+      213: -919535411284731856
+    second: damage_sparks_06f_13
+  - first:
+      213: 7347251246101539671
+    second: damage_sparks_06f_14
+  - first:
+      213: 2866428365611741668
+    second: damage_sparks_06f_15
+  - first:
+      213: 4246342071515605974
+    second: damage_sparks_06f_16
+  - first:
+      213: 3651023737184422568
+    second: damage_sparks_06f_17
+  - first:
+      213: -3561591475530688754
+    second: damage_sparks_06f_18
+  - first:
+      213: -4841504866485972117
+    second: damage_sparks_06f_19
+  - first:
+      213: 2723921056487236535
+    second: damage_sparks_06f_20
+  - first:
+      213: 5593277033503981841
+    second: damage_sparks_06f_21
+  - first:
+      213: 7343735066234733070
+    second: damage_sparks_06f_22
+  - first:
+      213: -2016881219196839366
+    second: damage_sparks_06f_23
+  - first:
+      213: 2391489281453193159
+    second: damage_sparks_06f_24
+  - first:
+      213: 662829402768075154
+    second: damage_sparks_06f_25
+  - first:
+      213: 820215622069016769
+    second: damage_sparks_06f_26
+  - first:
+      213: 5997457868668827153
+    second: damage_sparks_06f_27
+  - first:
+      213: -9036618958613858332
+    second: damage_sparks_06f_28
+  - first:
+      213: -3861847747073528577
+    second: damage_sparks_06f_29
+  - first:
+      213: -1866486459539812975
+    second: damage_sparks_06f_30
+  - first:
+      213: -8589460279737049945
+    second: damage_sparks_06f_31
+  - first:
+      213: 2801669885674029106
+    second: damage_sparks_06f_32
+  - first:
+      213: -5354992242054040838
+    second: damage_sparks_06f_33
+  - first:
+      213: 5748291504970810030
+    second: damage_sparks_06f_34
+  - first:
+      213: 6412392015752215534
+    second: damage_sparks_06f_35
+  - first:
+      213: -8258139797647873120
+    second: damage_sparks_06f_36
+  - first:
+      213: 1202090568168865154
+    second: damage_sparks_06f_37
+  - first:
+      213: -5260483735091785245
+    second: damage_sparks_06f_38
+  - first:
+      213: 3817282893727987363
+    second: damage_sparks_06f_39
+  - first:
+      213: -3224346977043428829
+    second: damage_sparks_06f_40
+  - first:
+      213: 7837446431141290756
+    second: damage_sparks_06f_41
+  - first:
+      213: -6206720353214554777
+    second: damage_sparks_06f_42
+  - first:
+      213: -5662187994039219722
+    second: damage_sparks_06f_43
+  - first:
+      213: -2370857721209217658
+    second: damage_sparks_06f_44
+  - first:
+      213: 6515768310798769832
+    second: damage_sparks_06f_45
+  - first:
+      213: -4397003806922442836
+    second: damage_sparks_06f_46
+  - first:
+      213: -1564440063937774967
+    second: damage_sparks_06f_47
+  - first:
+      213: -2409127462488414782
+    second: damage_sparks_06f_48
+  - first:
+      213: -1432014914586971180
+    second: damage_sparks_06f_49
+  - first:
+      213: -6550635104585984866
+    second: damage_sparks_06f_50
+  - first:
+      213: 1168697383888203171
+    second: damage_sparks_06f_51
+  - first:
+      213: -7397167372383815431
+    second: damage_sparks_06f_52
+  - first:
+      213: 8483043255733637618
+    second: damage_sparks_06f_53
+  - first:
+      213: 4340219590552667629
+    second: damage_sparks_06f_54
+  - first:
+      213: -1644170699810268610
+    second: damage_sparks_06f_55
+  - first:
+      213: -7981749275394216259
+    second: damage_sparks_06f_56
+  - first:
+      213: -802817883843976909
+    second: damage_sparks_06f_57
+  - first:
+      213: 3601517077322365433
+    second: damage_sparks_06f_58
+  - first:
+      213: -8863345883021123217
+    second: damage_sparks_06f_59
+  - first:
+      213: 7422936911016834450
+    second: damage_sparks_06f_60
+  - first:
+      213: 6975329524753519430
+    second: damage_sparks_06f_61
+  - first:
+      213: 704913445133182751
+    second: damage_sparks_06f_62
+  - first:
+      213: 5655231961100124344
+    second: damage_sparks_06f_63
+  - first:
+      213: -3751231731264146444
+    second: damage_sparks_06f_64
+  - first:
+      213: -8781633479766404163
+    second: damage_sparks_06f_65
+  - first:
+      213: 8281451981016369521
+    second: damage_sparks_06f_66
+  - first:
+      213: -2334874504591217559
+    second: damage_sparks_06f_67
+  - first:
+      213: -8151824813484719990
+    second: damage_sparks_06f_68
+  - first:
+      213: 4806579253024309522
+    second: damage_sparks_06f_69
+  - first:
+      213: -2672027797517337103
+    second: damage_sparks_06f_70
+  - first:
+      213: 1413757195072500021
+    second: damage_sparks_06f_71
+  - first:
+      213: -7751580478472871686
+    second: damage_sparks_06f_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damage_sparks_06f_0
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 868
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f4efd619786e50800000000000000
+      internalID: 6802820376295699582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_1
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 857
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a07d34bf1a66f0800000000000000
+      internalID: -690704733862581799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_2
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 832
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6880847427d355f0800000000000000
+      internalID: -769034559776847766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_3
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 838
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc1517eebda53c0800000000000000
+      internalID: -4369938671259758595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_4
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 831
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d8c1fd88c2efb0800000000000000
+      internalID: -4619909755756293408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 804
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873b953a4c890910800000000000000
+      internalID: 1804127376093427595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 802
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f9940faa23e08f0800000000000000
+      internalID: -572464392872288422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 805
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df87c68c9e350030800000000000000
+      internalID: 3460240730701139928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_8
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 809
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a8409d81458b3a0800000000000000
+      internalID: -6649472384115635621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 775
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec32537720b0fda60800000000000000
+      internalID: 7700885993044648910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 787
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0629ad9dd711e40800000000000000
+      internalID: 5625415784190861549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 780
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be09534ab4f9bba0800000000000000
+      internalID: -6072553541701398859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 791
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd0150776d7df510800000000000000
+      internalID: 1584560527123746235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 796
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381bf35a672d33f0800000000000000
+      internalID: -919535411284731856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 793
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bad67b41ea6f560800000000000000
+      internalID: 7347251246101539671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_15
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 788
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1346a596997c720800000000000000
+      internalID: 2866428365611741668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 759
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbeb7fad990eea30800000000000000
+      internalID: 4246342071515605974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 778
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8569beba0ba230800000000000000
+      internalID: 3651023737184422568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 777
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071fe15c6fa29ec0800000000000000
+      internalID: -3561591475530688754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_19
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 767
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6357cea9f48fccb0800000000000000
+      internalID: -4841504866485972117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_20
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 779
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e028d4cf4dc520800000000000000
+      internalID: 2723921056487236535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 721
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110b58d3df4f9d40800000000000000
+      internalID: 5593277033503981841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 751
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02408b42203ae560800000000000000
+      internalID: 7343735066234733070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 755
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a9d9f87399204e0800000000000000
+      internalID: -2016881219196839366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_24
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 747
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7fb21b4d6403120800000000000000
+      internalID: 2391489281453193159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 737
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299ecaa74d7d23900800000000000000
+      internalID: 662829402768075154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_26
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 730
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c856a833cdf16b00800000000000000
+      internalID: 820215622069016769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_27
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 731
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1167069d7204b3350800000000000000
+      internalID: 5997457868668827153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_28
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 732
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b2496fea779280800000000000000
+      internalID: -9036618958613858332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 718
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc2a0b5fe5f76ac0800000000000000
+      internalID: -3861847747073528577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 712
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d8d014478e816e0800000000000000
+      internalID: -1866486459539812975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_31
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 718
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac12fd626b1cc880800000000000000
+      internalID: -8589460279737049945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_32
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 706
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2308289cae781e620800000000000000
+      internalID: 2801669885674029106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 688
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af275658dee3fa5b0800000000000000
+      internalID: -5354992242054040838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_34
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 688
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24e230ba806cf40800000000000000
+      internalID: 5748291504970810030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 691
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb367360946df850800000000000000
+      internalID: 6412392015752215534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_36
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 688
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abaea78b91356d80800000000000000
+      internalID: -8258139797647873120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_37
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 672
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d7d87b00faea010800000000000000
+      internalID: 1202090568168865154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_38
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 471
+        width: 69
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e152270ae10ff6b0800000000000000
+      internalID: -5260483735091785245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_39
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 653
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f4d72196b9f430800000000000000
+      internalID: 3817282893727987363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_40
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 648
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac8b8f181d043d0800000000000000
+      internalID: -3224346977043428829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_41
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 428
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403645a210434cc60800000000000000
+      internalID: 7837446431141290756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 389
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d957e29bc4dd9a0800000000000000
+      internalID: -6206720353214554777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_43
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 389
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f98fcbd40edb61b0800000000000000
+      internalID: -5662187994039219722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 369
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1552c675091fd0800000000000000
+      internalID: -2370857721209217658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_45
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 363
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae58e3b1c8ac6a50800000000000000
+      internalID: 6515768310798769832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 329
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f85c7554baf2c0800000000000000
+      internalID: -4397003806922442836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 326
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a7994fc0ef94ae0800000000000000
+      internalID: -1564440063937774967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 330
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c56db3465f019ed0800000000000000
+      internalID: -2409127462488414782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 301
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d37bf6b506702ce0800000000000000
+      internalID: -1432014914586971180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_50
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 302
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d2f144187715a0800000000000000
+      internalID: -6550635104585984866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_51
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ada590241c083010800000000000000
+      internalID: 1168697383888203171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_52
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 288
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8f3f8777bf75990800000000000000
+      internalID: -7397167372383815431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_53
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 246
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d64065e2d9b570800000000000000
+      internalID: 8483043255733637618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_54
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 236
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5451ed8be8b3c30800000000000000
+      internalID: 4340219590552667629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_55
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 108
+        width: 50
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a14bfa57bbe29e0800000000000000
+      internalID: -1644170699810268610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 197
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe65e9b2512b3190800000000000000
+      internalID: -7981749275394216259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331262e5361dbd4f0800000000000000
+      internalID: -802817883843976909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 184
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f97d4e33b82bf130800000000000000
+      internalID: 3601517077322365433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 175
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ea1121e11ff480800000000000000
+      internalID: -8863345883021123217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_60
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 177
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953b4bcac1930760800000000000000
+      internalID: 7422936911016834450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_61
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6435a32fe395dc060800000000000000
+      internalID: 6975329524753519430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_62
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176f862b0b58c900800000000000000
+      internalID: 704913445133182751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00fc3818b6b7e40800000000000000
+      internalID: 5655231961100124344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b3d38d92f0fbc0800000000000000
+      internalID: -3751231731264146444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 142
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db398d290ee512680800000000000000
+      internalID: -8781633479766404163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_66
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 135
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1798fe023b0ade270800000000000000
+      internalID: 8281451981016369521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_67
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c69be320cd89fd0800000000000000
+      internalID: -2334874504591217559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_68
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 145
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a804709b586eede80800000000000000
+      internalID: -8151824813484719990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_69
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 123
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211c6414d5664b240800000000000000
+      internalID: 4806579253024309522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_70
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 91
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd720b00ec0bead0800000000000000
+      internalID: -2672027797517337103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_71
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531f2f2bdacae9310800000000000000
+      internalID: 1413757195072500021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_sparks_06f_72
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a5ccdf9adc6490800000000000000
+      internalID: -7751580478472871686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      damage_sparks_06f_0: 6802820376295699582
+      damage_sparks_06f_1: -690704733862581799
+      damage_sparks_06f_10: 5625415784190861549
+      damage_sparks_06f_11: -6072553541701398859
+      damage_sparks_06f_12: 1584560527123746235
+      damage_sparks_06f_13: -919535411284731856
+      damage_sparks_06f_14: 7347251246101539671
+      damage_sparks_06f_15: 2866428365611741668
+      damage_sparks_06f_16: 4246342071515605974
+      damage_sparks_06f_17: 3651023737184422568
+      damage_sparks_06f_18: -3561591475530688754
+      damage_sparks_06f_19: -4841504866485972117
+      damage_sparks_06f_2: -769034559776847766
+      damage_sparks_06f_20: 2723921056487236535
+      damage_sparks_06f_21: 5593277033503981841
+      damage_sparks_06f_22: 7343735066234733070
+      damage_sparks_06f_23: -2016881219196839366
+      damage_sparks_06f_24: 2391489281453193159
+      damage_sparks_06f_25: 662829402768075154
+      damage_sparks_06f_26: 820215622069016769
+      damage_sparks_06f_27: 5997457868668827153
+      damage_sparks_06f_28: -9036618958613858332
+      damage_sparks_06f_29: -3861847747073528577
+      damage_sparks_06f_3: -4369938671259758595
+      damage_sparks_06f_30: -1866486459539812975
+      damage_sparks_06f_31: -8589460279737049945
+      damage_sparks_06f_32: 2801669885674029106
+      damage_sparks_06f_33: -5354992242054040838
+      damage_sparks_06f_34: 5748291504970810030
+      damage_sparks_06f_35: 6412392015752215534
+      damage_sparks_06f_36: -8258139797647873120
+      damage_sparks_06f_37: 1202090568168865154
+      damage_sparks_06f_38: -5260483735091785245
+      damage_sparks_06f_39: 3817282893727987363
+      damage_sparks_06f_4: -4619909755756293408
+      damage_sparks_06f_40: -3224346977043428829
+      damage_sparks_06f_41: 7837446431141290756
+      damage_sparks_06f_42: -6206720353214554777
+      damage_sparks_06f_43: -5662187994039219722
+      damage_sparks_06f_44: -2370857721209217658
+      damage_sparks_06f_45: 6515768310798769832
+      damage_sparks_06f_46: -4397003806922442836
+      damage_sparks_06f_47: -1564440063937774967
+      damage_sparks_06f_48: -2409127462488414782
+      damage_sparks_06f_49: -1432014914586971180
+      damage_sparks_06f_5: 1804127376093427595
+      damage_sparks_06f_50: -6550635104585984866
+      damage_sparks_06f_51: 1168697383888203171
+      damage_sparks_06f_52: -7397167372383815431
+      damage_sparks_06f_53: 8483043255733637618
+      damage_sparks_06f_54: 4340219590552667629
+      damage_sparks_06f_55: -1644170699810268610
+      damage_sparks_06f_56: -7981749275394216259
+      damage_sparks_06f_57: -802817883843976909
+      damage_sparks_06f_58: 3601517077322365433
+      damage_sparks_06f_59: -8863345883021123217
+      damage_sparks_06f_6: -572464392872288422
+      damage_sparks_06f_60: 7422936911016834450
+      damage_sparks_06f_61: 6975329524753519430
+      damage_sparks_06f_62: 704913445133182751
+      damage_sparks_06f_63: 5655231961100124344
+      damage_sparks_06f_64: -3751231731264146444
+      damage_sparks_06f_65: -8781633479766404163
+      damage_sparks_06f_66: 8281451981016369521
+      damage_sparks_06f_67: -2334874504591217559
+      damage_sparks_06f_68: -8151824813484719990
+      damage_sparks_06f_69: 4806579253024309522
+      damage_sparks_06f_7: 3460240730701139928
+      damage_sparks_06f_70: -2672027797517337103
+      damage_sparks_06f_71: 1413757195072500021
+      damage_sparks_06f_72: -7751580478472871686
+      damage_sparks_06f_8: -6649472384115635621
+      damage_sparks_06f_9: 7700885993044648910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

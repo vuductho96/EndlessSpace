@@ -1,0 +1,6721 @@
+fileFormatVersion: 2
+guid: 7e262c9b2ae50b04587d6d7e42d38376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4964815487214034848
+    second: anomaly_particles_08f_0
+  - first:
+      213: 4804304928327928308
+    second: anomaly_particles_08f_1
+  - first:
+      213: -4038741045357538566
+    second: anomaly_particles_08f_2
+  - first:
+      213: -5493971015741937195
+    second: anomaly_particles_08f_3
+  - first:
+      213: -8763886491135836643
+    second: anomaly_particles_08f_4
+  - first:
+      213: 7264205080493926472
+    second: anomaly_particles_08f_5
+  - first:
+      213: 3460337842576940621
+    second: anomaly_particles_08f_6
+  - first:
+      213: 8087226831980528344
+    second: anomaly_particles_08f_7
+  - first:
+      213: -2599292509282792394
+    second: anomaly_particles_08f_8
+  - first:
+      213: 244912569745837398
+    second: anomaly_particles_08f_9
+  - first:
+      213: -8231218421319692218
+    second: anomaly_particles_08f_10
+  - first:
+      213: -3256446670213930357
+    second: anomaly_particles_08f_11
+  - first:
+      213: -2838461418598798295
+    second: anomaly_particles_08f_12
+  - first:
+      213: 8791667382882144950
+    second: anomaly_particles_08f_13
+  - first:
+      213: 4777065773761794939
+    second: anomaly_particles_08f_14
+  - first:
+      213: 8065346524589676762
+    second: anomaly_particles_08f_15
+  - first:
+      213: 8490859830175040723
+    second: anomaly_particles_08f_16
+  - first:
+      213: -1982650822520034980
+    second: anomaly_particles_08f_17
+  - first:
+      213: -7193132368977140331
+    second: anomaly_particles_08f_18
+  - first:
+      213: -1298363752176425853
+    second: anomaly_particles_08f_19
+  - first:
+      213: 206094982070608494
+    second: anomaly_particles_08f_20
+  - first:
+      213: -706586466621456815
+    second: anomaly_particles_08f_21
+  - first:
+      213: 3649606559677685194
+    second: anomaly_particles_08f_22
+  - first:
+      213: -2882570940759492631
+    second: anomaly_particles_08f_23
+  - first:
+      213: 2083421702225317449
+    second: anomaly_particles_08f_24
+  - first:
+      213: 7624406258377316555
+    second: anomaly_particles_08f_25
+  - first:
+      213: 2865931419815039950
+    second: anomaly_particles_08f_26
+  - first:
+      213: -5132840251174161661
+    second: anomaly_particles_08f_27
+  - first:
+      213: -8714626125309458709
+    second: anomaly_particles_08f_28
+  - first:
+      213: 4318259316209279261
+    second: anomaly_particles_08f_29
+  - first:
+      213: 3617641556582135308
+    second: anomaly_particles_08f_30
+  - first:
+      213: 7824474439359886958
+    second: anomaly_particles_08f_31
+  - first:
+      213: -4694101956262548319
+    second: anomaly_particles_08f_32
+  - first:
+      213: 4199283794676565272
+    second: anomaly_particles_08f_33
+  - first:
+      213: 6846773416150704280
+    second: anomaly_particles_08f_34
+  - first:
+      213: -2784044343373212796
+    second: anomaly_particles_08f_35
+  - first:
+      213: -3714872564634136422
+    second: anomaly_particles_08f_36
+  - first:
+      213: 891866961973753441
+    second: anomaly_particles_08f_37
+  - first:
+      213: -7379080212847357749
+    second: anomaly_particles_08f_38
+  - first:
+      213: 3467367426398538469
+    second: anomaly_particles_08f_39
+  - first:
+      213: -4654309975162266151
+    second: anomaly_particles_08f_40
+  - first:
+      213: 2903606055304879138
+    second: anomaly_particles_08f_41
+  - first:
+      213: -9134751862036593465
+    second: anomaly_particles_08f_42
+  - first:
+      213: 7611590348844901297
+    second: anomaly_particles_08f_43
+  - first:
+      213: -1099973449796188694
+    second: anomaly_particles_08f_44
+  - first:
+      213: -1894941793902180527
+    second: anomaly_particles_08f_45
+  - first:
+      213: -5824146060706340567
+    second: anomaly_particles_08f_46
+  - first:
+      213: 4467689648238643448
+    second: anomaly_particles_08f_47
+  - first:
+      213: 8857733829325540596
+    second: anomaly_particles_08f_48
+  - first:
+      213: 4007299712361524667
+    second: anomaly_particles_08f_49
+  - first:
+      213: -415467886194390329
+    second: anomaly_particles_08f_50
+  - first:
+      213: 4051650007512343164
+    second: anomaly_particles_08f_51
+  - first:
+      213: -5239281904017264545
+    second: anomaly_particles_08f_52
+  - first:
+      213: 8433889113314342799
+    second: anomaly_particles_08f_53
+  - first:
+      213: -7413045938995785101
+    second: anomaly_particles_08f_54
+  - first:
+      213: -5684372137904488894
+    second: anomaly_particles_08f_55
+  - first:
+      213: 2049391119352860195
+    second: anomaly_particles_08f_56
+  - first:
+      213: 8177789913803111047
+    second: anomaly_particles_08f_57
+  - first:
+      213: -956986038230600993
+    second: anomaly_particles_08f_58
+  - first:
+      213: -2414422308260081306
+    second: anomaly_particles_08f_59
+  - first:
+      213: -601007164721816797
+    second: anomaly_particles_08f_60
+  - first:
+      213: 6942442327288142834
+    second: anomaly_particles_08f_61
+  - first:
+      213: -5743425267170299796
+    second: anomaly_particles_08f_62
+  - first:
+      213: -2683131663221693017
+    second: anomaly_particles_08f_63
+  - first:
+      213: 5611063957675983029
+    second: anomaly_particles_08f_64
+  - first:
+      213: 5916174688207737159
+    second: anomaly_particles_08f_65
+  - first:
+      213: -1484350314621403319
+    second: anomaly_particles_08f_66
+  - first:
+      213: 600901444606568383
+    second: anomaly_particles_08f_67
+  - first:
+      213: 7251667931914673641
+    second: anomaly_particles_08f_68
+  - first:
+      213: -954318563002026453
+    second: anomaly_particles_08f_69
+  - first:
+      213: 2704873487149806142
+    second: anomaly_particles_08f_70
+  - first:
+      213: -3314892422985354754
+    second: anomaly_particles_08f_71
+  - first:
+      213: 8663812137335929633
+    second: anomaly_particles_08f_72
+  - first:
+      213: -7238536060233733749
+    second: anomaly_particles_08f_73
+  - first:
+      213: -6635754881344449885
+    second: anomaly_particles_08f_74
+  - first:
+      213: -5595460225276542290
+    second: anomaly_particles_08f_75
+  - first:
+      213: 1877578843664476285
+    second: anomaly_particles_08f_76
+  - first:
+      213: 850460366248972064
+    second: anomaly_particles_08f_77
+  - first:
+      213: 8425614510586334043
+    second: anomaly_particles_08f_78
+  - first:
+      213: 1662706724988760410
+    second: anomaly_particles_08f_79
+  - first:
+      213: -41713838988546805
+    second: anomaly_particles_08f_80
+  - first:
+      213: -377556583418872054
+    second: anomaly_particles_08f_81
+  - first:
+      213: -3824319455523218176
+    second: anomaly_particles_08f_82
+  - first:
+      213: -6530628841307410540
+    second: anomaly_particles_08f_83
+  - first:
+      213: 6741755681925685709
+    second: anomaly_particles_08f_84
+  - first:
+      213: 6661620721606085709
+    second: anomaly_particles_08f_85
+  - first:
+      213: -2002216175036671263
+    second: anomaly_particles_08f_86
+  - first:
+      213: -7170240737787511086
+    second: anomaly_particles_08f_87
+  - first:
+      213: -2345401358143664358
+    second: anomaly_particles_08f_88
+  - first:
+      213: -5722981736405180935
+    second: anomaly_particles_08f_89
+  - first:
+      213: -7067590918167085613
+    second: anomaly_particles_08f_90
+  - first:
+      213: -9205914080568192332
+    second: anomaly_particles_08f_91
+  - first:
+      213: 7551776688898759926
+    second: anomaly_particles_08f_92
+  - first:
+      213: 5965239271681753179
+    second: anomaly_particles_08f_93
+  - first:
+      213: 8545810771895946031
+    second: anomaly_particles_08f_94
+  - first:
+      213: -5126896733911515784
+    second: anomaly_particles_08f_95
+  - first:
+      213: -2610153012277212163
+    second: anomaly_particles_08f_96
+  - first:
+      213: 3233305246567367371
+    second: anomaly_particles_08f_97
+  - first:
+      213: 6532793440940080951
+    second: anomaly_particles_08f_98
+  - first:
+      213: -7572594270633456228
+    second: anomaly_particles_08f_99
+  - first:
+      213: 9003715944687870054
+    second: anomaly_particles_08f_100
+  - first:
+      213: 6755723782449910128
+    second: anomaly_particles_08f_101
+  - first:
+      213: 7125071223147166679
+    second: anomaly_particles_08f_102
+  - first:
+      213: -7189261872417091856
+    second: anomaly_particles_08f_103
+  - first:
+      213: -4734322996118863871
+    second: anomaly_particles_08f_104
+  - first:
+      213: 4038011752577332654
+    second: anomaly_particles_08f_105
+  - first:
+      213: -2110129986385971214
+    second: anomaly_particles_08f_106
+  - first:
+      213: 7607071407783062188
+    second: anomaly_particles_08f_107
+  - first:
+      213: 9081582229140084483
+    second: anomaly_particles_08f_108
+  - first:
+      213: -5564174717242630371
+    second: anomaly_particles_08f_109
+  - first:
+      213: 2163952452550653763
+    second: anomaly_particles_08f_110
+  - first:
+      213: 3806028216248022081
+    second: anomaly_particles_08f_111
+  - first:
+      213: 7538140340076723588
+    second: anomaly_particles_08f_112
+  - first:
+      213: 3229440410196578329
+    second: anomaly_particles_08f_113
+  - first:
+      213: -3210966406312707814
+    second: anomaly_particles_08f_114
+  - first:
+      213: -2798501096883639164
+    second: anomaly_particles_08f_115
+  - first:
+      213: 7106802242509450717
+    second: anomaly_particles_08f_116
+  - first:
+      213: 2128713648980057479
+    second: anomaly_particles_08f_117
+  - first:
+      213: -6352156945278424124
+    second: anomaly_particles_08f_118
+  - first:
+      213: -4326482615318985305
+    second: anomaly_particles_08f_119
+  - first:
+      213: 5611504662426002220
+    second: anomaly_particles_08f_120
+  - first:
+      213: 713186580733697440
+    second: anomaly_particles_08f_121
+  - first:
+      213: 693098072324852306
+    second: anomaly_particles_08f_122
+  - first:
+      213: -4956018812364768402
+    second: anomaly_particles_08f_123
+  - first:
+      213: -1191780119594218477
+    second: anomaly_particles_08f_124
+  - first:
+      213: -6502514882115469792
+    second: anomaly_particles_08f_125
+  - first:
+      213: 6034260056490526877
+    second: anomaly_particles_08f_126
+  - first:
+      213: -43223077724390024
+    second: anomaly_particles_08f_127
+  - first:
+      213: 2167528798355312697
+    second: anomaly_particles_08f_128
+  - first:
+      213: 6386803371027971297
+    second: anomaly_particles_08f_129
+  - first:
+      213: 2402515725029300185
+    second: anomaly_particles_08f_130
+  - first:
+      213: 718805853688679472
+    second: anomaly_particles_08f_131
+  - first:
+      213: -5664191657937207597
+    second: anomaly_particles_08f_132
+  - first:
+      213: 7559162618967733920
+    second: anomaly_particles_08f_133
+  - first:
+      213: 8192182373396244602
+    second: anomaly_particles_08f_134
+  - first:
+      213: 8717636511741216213
+    second: anomaly_particles_08f_135
+  - first:
+      213: 4197781070778125376
+    second: anomaly_particles_08f_136
+  - first:
+      213: -6602580059948929138
+    second: anomaly_particles_08f_137
+  - first:
+      213: 8360799948932104511
+    second: anomaly_particles_08f_138
+  - first:
+      213: -5118400358040356442
+    second: anomaly_particles_08f_139
+  - first:
+      213: -481661307377507865
+    second: anomaly_particles_08f_140
+  - first:
+      213: 9156636676919174386
+    second: anomaly_particles_08f_141
+  - first:
+      213: 8723396367166210273
+    second: anomaly_particles_08f_142
+  - first:
+      213: -5990088028127095704
+    second: anomaly_particles_08f_143
+  - first:
+      213: -3006291913541290118
+    second: anomaly_particles_08f_144
+  - first:
+      213: 6698387666230311933
+    second: anomaly_particles_08f_145
+  - first:
+      213: -206509317199957470
+    second: anomaly_particles_08f_146
+  - first:
+      213: 4514654598898609015
+    second: anomaly_particles_08f_147
+  - first:
+      213: -6451140210884567254
+    second: anomaly_particles_08f_148
+  - first:
+      213: 2356663241869619393
+    second: anomaly_particles_08f_149
+  - first:
+      213: 9016384756550625738
+    second: anomaly_particles_08f_150
+  - first:
+      213: 8578332885161581092
+    second: anomaly_particles_08f_151
+  - first:
+      213: 6900638016642928329
+    second: anomaly_particles_08f_152
+  - first:
+      213: -3134504674099774103
+    second: anomaly_particles_08f_153
+  - first:
+      213: 7813443043612730986
+    second: anomaly_particles_08f_154
+  - first:
+      213: -6257922624581618081
+    second: anomaly_particles_08f_155
+  - first:
+      213: -8158297235545045787
+    second: anomaly_particles_08f_156
+  - first:
+      213: -5298345942948317285
+    second: anomaly_particles_08f_157
+  - first:
+      213: 5618734695740636208
+    second: anomaly_particles_08f_158
+  - first:
+      213: -5585889432977547553
+    second: anomaly_particles_08f_159
+  - first:
+      213: -239906030731757241
+    second: anomaly_particles_08f_160
+  - first:
+      213: 8477292539994659355
+    second: anomaly_particles_08f_161
+  - first:
+      213: -8261413463050816022
+    second: anomaly_particles_08f_162
+  - first:
+      213: 8012574104523805758
+    second: anomaly_particles_08f_163
+  - first:
+      213: -9146939432122227049
+    second: anomaly_particles_08f_164
+  - first:
+      213: 8803112802185630576
+    second: anomaly_particles_08f_165
+  - first:
+      213: 6599448604679727853
+    second: anomaly_particles_08f_166
+  - first:
+      213: -7402495887072208543
+    second: anomaly_particles_08f_167
+  - first:
+      213: 6418816662862561419
+    second: anomaly_particles_08f_168
+  - first:
+      213: -249094774614916153
+    second: anomaly_particles_08f_169
+  - first:
+      213: -887080908093352527
+    second: anomaly_particles_08f_170
+  - first:
+      213: -2569081648250210170
+    second: anomaly_particles_08f_171
+  - first:
+      213: 5116327500504671093
+    second: anomaly_particles_08f_172
+  - first:
+      213: 2449173283424790350
+    second: anomaly_particles_08f_173
+  - first:
+      213: -6757983872945527173
+    second: anomaly_particles_08f_174
+  - first:
+      213: 8702517377996419997
+    second: anomaly_particles_08f_175
+  - first:
+      213: 285164474901788490
+    second: anomaly_particles_08f_176
+  - first:
+      213: 8260984739151743452
+    second: anomaly_particles_08f_177
+  - first:
+      213: -7718646766540416629
+    second: anomaly_particles_08f_178
+  - first:
+      213: 343897548831319207
+    second: anomaly_particles_08f_179
+  - first:
+      213: -3184636177991787221
+    second: anomaly_particles_08f_180
+  - first:
+      213: -7701874202187726575
+    second: anomaly_particles_08f_181
+  - first:
+      213: 1319557279667343785
+    second: anomaly_particles_08f_182
+  - first:
+      213: -4942533797206819324
+    second: anomaly_particles_08f_183
+  - first:
+      213: -8625550394633749538
+    second: anomaly_particles_08f_184
+  - first:
+      213: 701413092578607563
+    second: anomaly_particles_08f_185
+  - first:
+      213: 2049394713922357307
+    second: anomaly_particles_08f_186
+  - first:
+      213: 4742396791205711051
+    second: anomaly_particles_08f_187
+  - first:
+      213: -2013340675149639932
+    second: anomaly_particles_08f_188
+  - first:
+      213: 5261764110817537409
+    second: anomaly_particles_08f_189
+  - first:
+      213: -2216380024785003202
+    second: anomaly_particles_08f_190
+  - first:
+      213: 7600715770389565295
+    second: anomaly_particles_08f_191
+  - first:
+      213: -941360410311011983
+    second: anomaly_particles_08f_192
+  - first:
+      213: -1464901329266820310
+    second: anomaly_particles_08f_193
+  - first:
+      213: 2909661190730956882
+    second: anomaly_particles_08f_194
+  - first:
+      213: 2723145020479955360
+    second: anomaly_particles_08f_195
+  - first:
+      213: -3918044525844107529
+    second: anomaly_particles_08f_196
+  - first:
+      213: -7951592447354301264
+    second: anomaly_particles_08f_197
+  - first:
+      213: 380177327008815518
+    second: anomaly_particles_08f_198
+  - first:
+      213: -6621371976023153007
+    second: anomaly_particles_08f_199
+  - first:
+      213: -4029987843664064684
+    second: anomaly_particles_08f_200
+  - first:
+      213: -6556427874497835506
+    second: anomaly_particles_08f_201
+  - first:
+      213: -4663126342835277363
+    second: anomaly_particles_08f_202
+  - first:
+      213: 6113492874243650052
+    second: anomaly_particles_08f_203
+  - first:
+      213: -6818029253919019110
+    second: anomaly_particles_08f_204
+  - first:
+      213: 1716716337206892587
+    second: anomaly_particles_08f_205
+  - first:
+      213: 798910550644072785
+    second: anomaly_particles_08f_206
+  - first:
+      213: 5018380152439722926
+    second: anomaly_particles_08f_207
+  - first:
+      213: 3078375311651159127
+    second: anomaly_particles_08f_208
+  - first:
+      213: 3742084985788732312
+    second: anomaly_particles_08f_209
+  - first:
+      213: 2571092016689164806
+    second: anomaly_particles_08f_210
+  - first:
+      213: -6413986164615646608
+    second: anomaly_particles_08f_211
+  - first:
+      213: 7731879963144490604
+    second: anomaly_particles_08f_212
+  - first:
+      213: 5240102531773111371
+    second: anomaly_particles_08f_213
+  - first:
+      213: 401987775415596223
+    second: anomaly_particles_08f_214
+  - first:
+      213: -5411768809692325246
+    second: anomaly_particles_08f_215
+  - first:
+      213: 163042669713881437
+    second: anomaly_particles_08f_216
+  - first:
+      213: -8891962911303062697
+    second: anomaly_particles_08f_217
+  - first:
+      213: 4300131254756410956
+    second: anomaly_particles_08f_218
+  - first:
+      213: 4087947891924111860
+    second: anomaly_particles_08f_219
+  - first:
+      213: -5996966525533745032
+    second: anomaly_particles_08f_220
+  - first:
+      213: -4941820009481614961
+    second: anomaly_particles_08f_221
+  - first:
+      213: -400499316249928735
+    second: anomaly_particles_08f_222
+  - first:
+      213: -6933212357838521943
+    second: anomaly_particles_08f_223
+  - first:
+      213: 4515865212271091962
+    second: anomaly_particles_08f_224
+  - first:
+      213: -2912545708488082748
+    second: anomaly_particles_08f_225
+  - first:
+      213: 8100980923010557585
+    second: anomaly_particles_08f_226
+  - first:
+      213: -8976008348558211289
+    second: anomaly_particles_08f_227
+  - first:
+      213: 4719303826258548483
+    second: anomaly_particles_08f_228
+  - first:
+      213: 4093270367345598881
+    second: anomaly_particles_08f_229
+  - first:
+      213: -4112976251130951224
+    second: anomaly_particles_08f_230
+  - first:
+      213: 7831933874143718486
+    second: anomaly_particles_08f_231
+  - first:
+      213: -4700248407522487380
+    second: anomaly_particles_08f_232
+  - first:
+      213: -7554722599285570773
+    second: anomaly_particles_08f_233
+  - first:
+      213: -8488384394859180702
+    second: anomaly_particles_08f_234
+  - first:
+      213: -2426128891969693471
+    second: anomaly_particles_08f_235
+  - first:
+      213: -9004621030194313926
+    second: anomaly_particles_08f_236
+  - first:
+      213: 5734661169796175932
+    second: anomaly_particles_08f_237
+  - first:
+      213: -2014422210307709833
+    second: anomaly_particles_08f_238
+  - first:
+      213: 1407449750405646732
+    second: anomaly_particles_08f_239
+  - first:
+      213: -4877299158445826821
+    second: anomaly_particles_08f_240
+  - first:
+      213: -4015161561308209933
+    second: anomaly_particles_08f_241
+  - first:
+      213: -6551238289920749021
+    second: anomaly_particles_08f_242
+  - first:
+      213: 3731707161825379268
+    second: anomaly_particles_08f_243
+  - first:
+      213: 8802731241240382160
+    second: anomaly_particles_08f_244
+  - first:
+      213: -7554697918517144449
+    second: anomaly_particles_08f_245
+  - first:
+      213: 7678692229243026490
+    second: anomaly_particles_08f_246
+  - first:
+      213: -3006874083540269629
+    second: anomaly_particles_08f_247
+  - first:
+      213: 2633861376688123667
+    second: anomaly_particles_08f_248
+  - first:
+      213: 2196242295626483521
+    second: anomaly_particles_08f_249
+  - first:
+      213: -283536609742753975
+    second: anomaly_particles_08f_250
+  - first:
+      213: -6118931229353147012
+    second: anomaly_particles_08f_251
+  - first:
+      213: 3261014363319777962
+    second: anomaly_particles_08f_252
+  - first:
+      213: -1002638364237275889
+    second: anomaly_particles_08f_253
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anomaly_particles_08f_0
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 945
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af10c2816196e440800000000000000
+      internalID: 4964815487214034848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_1
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 954
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f905a5c0e15ca240800000000000000
+      internalID: 4804304928327928308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 927
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29cabda6283f7c0800000000000000
+      internalID: -4038741045357538566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_3
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 936
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e860387e71c3b0800000000000000
+      internalID: -5493971015741937195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_4
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 924
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef00c5bab606680800000000000000
+      internalID: -8763886491135836643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_5
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 910
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ad668804afc460800000000000000
+      internalID: 7264205080493926472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_6
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 917
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed3a52fe6950030800000000000000
+      internalID: 3460337842576940621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_7
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 906
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2053aa4f99b3070800000000000000
+      internalID: 8087226831980528344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 903
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c8dd40c357debd0800000000000000
+      internalID: -2599292509282792394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 898
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d8ab04faa166300800000000000000
+      internalID: 244912569745837398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 888
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6409698e476d4cd80800000000000000
+      internalID: -8231218421319692218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 886
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8225efb107cec2d0800000000000000
+      internalID: -3256446670213930357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_12
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 879
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c64cbe062cb98d0800000000000000
+      internalID: -2838461418598798295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2141c87e6420a70800000000000000
+      internalID: 8791667382882144950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 860
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739fb1e20c8b4240800000000000000
+      internalID: 4777065773761794939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_15
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 866
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8599c9eedddef60800000000000000
+      internalID: 8065346524589676762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_16
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 855
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4873f670895d570800000000000000
+      internalID: 8490859830175040723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 866
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ae0ad4953c74e0800000000000000
+      internalID: -1982650822520034980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_18
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 854
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e0c4a83cdc2c90800000000000000
+      internalID: -7193132368977140331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 842
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e742eb094bfde0800000000000000
+      internalID: -1298363752176425853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 835
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e622f445b423cd200800000000000000
+      internalID: 206094982070608494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 843
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15efded2a53b136f0800000000000000
+      internalID: -706586466621456815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 832
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd168f54d106a230800000000000000
+      internalID: 3649606559677685194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 832
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ba2c700d0ff7d0800000000000000
+      internalID: -2882570940759492631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 831
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eca7eeffcc9ec10800000000000000
+      internalID: 2083421702225317449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_25
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 832
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc858dd98155fc960800000000000000
+      internalID: 7624406258377316555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_26
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 836
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3d4b42175d5c720800000000000000
+      internalID: 2865931419815039950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_27
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 835
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ffeb8cfc74c8b0800000000000000
+      internalID: -5132840251174161661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_28
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 830
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6479a06bd6f0780800000000000000
+      internalID: -8714626125309458709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 820
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11ecae08f98deb30800000000000000
+      internalID: 4318259316209279261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 829
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06f4c024d1743230800000000000000
+      internalID: 3617641556582135308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 816
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e667b28fb0e169c60800000000000000
+      internalID: 7824474439359886958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 816
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac218524233bdeb0800000000000000
+      internalID: -4694101956262548319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 821
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81540cccc5ad64a30800000000000000
+      internalID: 4199283794676565272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_34
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 820
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890204f6520a40f50800000000000000
+      internalID: 6846773416150704280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_35
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 817
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483dd429b661d59d0800000000000000
+      internalID: -2784044343373212796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_36
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 815
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90532fa51f127cc0800000000000000
+      internalID: -3714872564634136422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_37
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 823
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663a5fc64c806c00800000000000000
+      internalID: 891866961973753441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 793
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc09e1874ad389990800000000000000
+      internalID: -7379080212847357749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_39
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 790
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eace3cad409e1030800000000000000
+      internalID: 3467367426398538469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_40
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 799
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd55e7bcb1986fb0800000000000000
+      internalID: -4654309975162266151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_41
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 792
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cde16c25eab4820800000000000000
+      internalID: 2903606055304879138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_42
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 797
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c488f75497da3180800000000000000
+      internalID: -9134751862036593465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_43
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 801
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b321b6281dc1a960800000000000000
+      internalID: 7611590348844901297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_44
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 799
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5898ea9fb1cb0f0800000000000000
+      internalID: -1099973449796188694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_45
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 803
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1574b607a70d3b5e0800000000000000
+      internalID: -1894941793902180527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_46
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 788
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ab93f30a7c2fa0800000000000000
+      internalID: -5824146060706340567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_47
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 779
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f844f1701c600e30800000000000000
+      internalID: 4467689648238643448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_48
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 780
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcc8ebccfdfcea70800000000000000
+      internalID: 8857733829325540596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_49
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 783
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd65d75bd9cc9730800000000000000
+      internalID: 4007299712361524667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_50
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 785
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca0dc3a826fb3af0800000000000000
+      internalID: -415467886194390329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 764
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c726bfb173a5a3830800000000000000
+      internalID: 4051650007512343164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 773
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f503be00ed45a47b0800000000000000
+      internalID: -5239281904017264545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 771
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87b222c6713b0570800000000000000
+      internalID: 8433889113314342799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 762
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37211869ef19f1990800000000000000
+      internalID: -7413045938995785101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_55
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 767
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e331d58ad0d11b0800000000000000
+      internalID: -5684372137904488894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_56
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 768
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0eda6d56e07c10800000000000000
+      internalID: 2049391119352860195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_57
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 771
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab10c49985d7170800000000000000
+      internalID: 8177789913803111047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_58
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 761
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2b140c44a18b2f0800000000000000
+      internalID: -956986038230600993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_59
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 768
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661116ae3bf3e7ed0800000000000000
+      internalID: -2414422308260081306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 755
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b9a4ffa2bc8a7f0800000000000000
+      internalID: -601007164721816797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 747
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb55a79382885060800000000000000
+      internalID: 6942442327288142834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_62
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 744
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60bf4446214b40b0800000000000000
+      internalID: -5743425267170299796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_63
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 756
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56118d7f993cad0800000000000000
+      internalID: -2683131663221693017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_64
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 746
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b04649d0f08edd40800000000000000
+      internalID: 5611063957675983029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_65
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 732
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74197cf98897a1250800000000000000
+      internalID: 5916174688207737159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_66
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 741
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f70c6d047866be0800000000000000
+      internalID: -1484350314621403319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_67
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 730
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb72bce1ea4d65800800000000000000
+      internalID: 600901444606568383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 734
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9dd6209913a460800000000000000
+      internalID: 7251667931914673641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_69
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 730
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26f3b9b25491c2f0800000000000000
+      internalID: -954318563002026453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_70
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 733
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32bfe30b14a98520800000000000000
+      internalID: 2704873487149806142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_71
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 733
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1f25387e22ff1d0800000000000000
+      internalID: -3314892422985354754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_72
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 733
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b30ae6c3b0c3870800000000000000
+      internalID: 8663812137335929633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_73
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 742
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a9ebfdcd8b8b90800000000000000
+      internalID: -7238536060233733749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_74
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 713
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a256e8d71019e3a0800000000000000
+      internalID: -6635754881344449885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_75
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 724
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea28095329ee852b0800000000000000
+      internalID: -5595460225276542290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_76
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 715
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e86ea2008e0a10800000000000000
+      internalID: 1877578843664476285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_77
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 722
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f81d972317dcb00800000000000000
+      internalID: 850460366248972064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_78
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 722
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b00eda1cbcde470800000000000000
+      internalID: 8425614510586334043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_79
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 716
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51bb9cf4fe131710800000000000000
+      internalID: 1662706724988760410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_80
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 721
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0daed40c7dcb6ff0800000000000000
+      internalID: -41713838988546805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_81
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 723
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f35baa946a2caf0800000000000000
+      internalID: -377556583418872054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_82
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 707
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d5ce1a7b94deac0800000000000000
+      internalID: -3824319455523218176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_83
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 701
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f63f96bab8e55a0800000000000000
+      internalID: -6530628841307410540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_84
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 704
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1e6a7c2178f8d50800000000000000
+      internalID: 6741755681925685709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_85
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 701
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c46b360c4d27c50800000000000000
+      internalID: 6661620721606085709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_86
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 702
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead56b3ff2b634e0800000000000000
+      internalID: -2002216175036671263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_87
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 702
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def32ed9003e7c90800000000000000
+      internalID: -7170240737787511086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_88
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 708
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc02824e5737fd0800000000000000
+      internalID: -2345401358143664358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_89
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 710
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd5581be62e390b0800000000000000
+      internalID: -5722981736405180935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_90
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 701
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddbfd0718fdaed90800000000000000
+      internalID: -7067590918167085613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 689
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b257f23be50e3080800000000000000
+      internalID: -9205914080568192332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 683
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd2e433ec4dc860800000000000000
+      internalID: 7551776688898759926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_93
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 690
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b500dcc2389c8c250800000000000000
+      internalID: 5965239271681753179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_94
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 696
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b80909e91d89670800000000000000
+      internalID: 8545810771895946031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 677
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87df71f759a99d8b0800000000000000
+      internalID: -5126896733911515784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_96
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 675
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0dcd1aafd6cbd0800000000000000
+      internalID: -2610153012277212163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_97
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 676
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20e00bdf10fdc20800000000000000
+      internalID: 3233305246567367371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_98
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 682
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f3c36b50529aa50800000000000000
+      internalID: 6532793440940080951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_99
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 682
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d0cb6d1adb8e690800000000000000
+      internalID: -7572594270633456228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_100
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 669
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66024ada2ff93fc70800000000000000
+      internalID: 9003715944687870054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 656
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071d59d9cf621cd50800000000000000
+      internalID: 6755723782449910128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_102
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 667
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db7b07f68651e260800000000000000
+      internalID: 7125071223147166679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_103
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 668
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fec159da6c9a3c90800000000000000
+      internalID: -7189261872417091856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_104
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 666
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004f5c815e4c4eb0800000000000000
+      internalID: -4734322996118863871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_105
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 655
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5793f6b46e90830800000000000000
+      internalID: 4038011752577332654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_106
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 668
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7709315ff47b2e0800000000000000
+      internalID: -2110129986385971214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 651
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaa0f1342fb19960800000000000000
+      internalID: 7607071407783062188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 648
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307156ecbe2480e70800000000000000
+      internalID: 9081582229140084483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_109
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 644
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f1b8e239418c2b0800000000000000
+      internalID: -5564174717242630371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_110
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 631
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347fd1d5a47e70e10800000000000000
+      internalID: 2163952452550653763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_111
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 625
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144b39a5f7ab1d430800000000000000
+      internalID: 3806028216248022081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_112
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 636
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db05553badc9860800000000000000
+      internalID: 7538140340076723588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_113
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 627
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101f0951f641dc20800000000000000
+      internalID: 3229440410196578329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_114
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 619
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b40ed01b5073d0800000000000000
+      internalID: -3210966406312707814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_115
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 609
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ca5b8541ab929d0800000000000000
+      internalID: -2798501096883639164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_116
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 607
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddda9b17cfe60a260800000000000000
+      internalID: 7106802242509450717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_117
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 618
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5bfb09c5ba8d10800000000000000
+      internalID: 2128713648980057479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_118
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 596
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb2627d9ea98d7a0800000000000000
+      internalID: -6352156945278424124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_119
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 589
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5420bebfe35f3c0800000000000000
+      internalID: -4326482615318985305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_120
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 602
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23a95b62c110ed40800000000000000
+      internalID: 5611504662426002220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_121
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 597
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1533aa6fb5e900800000000000000
+      internalID: 713186580733697440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_122
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 595
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4e6b46016e9900800000000000000
+      internalID: 693098072324852306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_123
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 585
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b38d4f52fa83bb0800000000000000
+      internalID: -4956018812364768402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_124
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 587
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc639ab42f57fe0800000000000000
+      internalID: -1191780119594218477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_125
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 572
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef0d0aa2d62c5a0800000000000000
+      internalID: -6502514882115469792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98427dec8ffdb350800000000000000
+      internalID: 6034260056490526877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_127
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 562
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d732ef6d0766ff0800000000000000
+      internalID: -43223077724390024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 450
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d56245fb941e10800000000000000
+      internalID: 2167528798355312697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_129
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 435
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecb364c3db72a850800000000000000
+      internalID: 6386803371027971297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_130
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 450
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d759a5a253775120800000000000000
+      internalID: 2402515725029300185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_131
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 447
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cc5939d16b9f900800000000000000
+      internalID: 718805853688679472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_132
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 444
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3defbe082bfb461b0800000000000000
+      internalID: -5664191657937207597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_133
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 429
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6bbfe0a5a87e860800000000000000
+      internalID: 7559162618967733920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_134
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 432
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78ef7de67a70b170800000000000000
+      internalID: 8192182373396244602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_135
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 422
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58f4b28344bf870800000000000000
+      internalID: 8717636511741216213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_136
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc690a4a3814a30800000000000000
+      internalID: 4197781070778125376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_137
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8faaadda6cee54a0800000000000000
+      internalID: -6602580059948929138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_138
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 398
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c3329147870470800000000000000
+      internalID: 8360799948932104511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_139
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 401
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b5c82ef9c7f8b0800000000000000
+      internalID: -5118400358040356442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 377
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a6b7c79bc059f0800000000000000
+      internalID: -481661307377507865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_141
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 372
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a4113b88e21f70800000000000000
+      internalID: 9156636676919174386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 351
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e000e307cabf0970800000000000000
+      internalID: 8723396367166210273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_143
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 362
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8641a2edcaeeedca0800000000000000
+      internalID: -5990088028127095704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_144
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 359
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77fd32ce618746d0800000000000000
+      internalID: -3006291913541290118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_145
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 352
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbf385c71475fc50800000000000000
+      internalID: 6698387666230311933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_146
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 354
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222fc71ced4522df0800000000000000
+      internalID: -206509317199957470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_147
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 351
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b6fe2207647ae30800000000000000
+      internalID: 4514654598898609015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_148
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9cf56822f876a0800000000000000
+      internalID: -6451140210884567254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_149
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 344
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0fbda7bbc84b020800000000000000
+      internalID: 2356663241869619393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_150
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 340
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9627c4a22a02d70800000000000000
+      internalID: 9016384756550625738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_151
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 346
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a9b112f4c5c0770800000000000000
+      internalID: 8578332885161581092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_152
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 345
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cece8907bdf3cf50800000000000000
+      internalID: 6900638016642928329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_153
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 342
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3b713b900084d0800000000000000
+      internalID: -3134504674099774103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_154
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 346
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66a84ffc0dee6c60800000000000000
+      internalID: 7813443043612730986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_155
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 331
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56bee167846729a0800000000000000
+      internalID: -6257922624581618081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_156
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 321
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4494783e7e7ce80800000000000000
+      internalID: -8158297235545045787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_157
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 331
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fe6dcf6e7876b0800000000000000
+      internalID: -5298345942948317285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_158
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 332
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c78cabf61c9fd40800000000000000
+      internalID: 5618734695740636208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_159
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 325
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded3c0f72fea72b0800000000000000
+      internalID: -5585889432977547553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_160
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 312
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74972c27cbeabacf0800000000000000
+      internalID: -239906030731757241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_161
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 316
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a537786a465a570800000000000000
+      internalID: 8477292539994659355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_162
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 313
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f938e930995d80800000000000000
+      internalID: -8261413463050816022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_163
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 318
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3492a412b1623f60800000000000000
+      internalID: 8012574104523805758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_164
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 310
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796675e8c0b8f0180800000000000000
+      internalID: -9146939432122227049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_165
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 307
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073d7f3e370fa2a70800000000000000
+      internalID: 8803112802185630576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_166
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 302
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae1636a83f59b50800000000000000
+      internalID: 6599448604679727853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_167
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 291
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16955c7f53d054990800000000000000
+      internalID: -7402495887072208543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_168
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 290
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80084c1fb7341950800000000000000
+      internalID: 6418816662862561419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_169
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 290
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c30cab4f990b8cf0800000000000000
+      internalID: -249094774614916153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_170
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 298
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b590123d9470b3f0800000000000000
+      internalID: -887080908093352527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_171
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 295
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688321d3ad9c85cd0800000000000000
+      internalID: -2569081648250210170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_172
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 296
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573a42611c8d00740800000000000000
+      internalID: 5116327500504671093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_173
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 284
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4769efff163df120800000000000000
+      internalID: 2449173283424790350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_174
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 275
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76634f0971d632a0800000000000000
+      internalID: -6757983872945527173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_175
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 284
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f327827d85c870800000000000000
+      internalID: 8702517377996419997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_176
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 279
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47f41d349b15f300800000000000000
+      internalID: 285164474901788490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_177
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 273
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd900180ad9e4a270800000000000000
+      internalID: 8260984739151743452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_178
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 285
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8914a539abd1e490800000000000000
+      internalID: -7718646766540416629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_179
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 281
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e735aff4c5c400800000000000000
+      internalID: 343897548831319207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_180
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 285
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d11ffd446edc3d0800000000000000
+      internalID: -3184636177991787221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_181
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 285
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110bd928327d1590800000000000000
+      internalID: -7701874202187726575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_182
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 285
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15a53ca52005210800000000000000
+      internalID: 1319557279667343785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_183
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 274
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eff17b2b7986bb0800000000000000
+      internalID: -4942533797206819324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_184
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 268
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbff9fbd93eb4880800000000000000
+      internalID: -8625550394633749538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_185
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 259
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c4ffcd7bebb900800000000000000
+      internalID: 701413092578607563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_186
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 269
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c7e752a9e07c10800000000000000
+      internalID: 2049394713922357307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_187
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 261
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc4cb51c060d140800000000000000
+      internalID: 4742396791205711051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_188
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 263
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4cd5b25d2f04e0800000000000000
+      internalID: -2013340675149639932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_189
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 231
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dad2da49a850940800000000000000
+      internalID: 5261764110817537409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d1b6f3c16dd31e0800000000000000
+      internalID: -2216380024785003202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_191
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 237
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f87cc09ba2b7960800000000000000
+      internalID: 7600715770389565295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_192
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 246
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171dbc1c1bd9fe2f0800000000000000
+      internalID: -941360410311011983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_193
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 246
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bbd0e9000ababe0800000000000000
+      internalID: -1464901329266820310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_194
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 247
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250424adf61316820800000000000000
+      internalID: 2909661190730956882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_195
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 238
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e491e7fd8ac520800000000000000
+      internalID: 2723145020479955360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_196
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 219
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee5ee234f40a9c0800000000000000
+      internalID: -3918044525844107529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_197
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 221
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b494c86cc446a190800000000000000
+      internalID: -7951592447354301264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e999400c349a64500800000000000000
+      internalID: 380177327008815518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_199
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 226
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196e963f4492c14a0800000000000000
+      internalID: -6621371976023153007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_200
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 221
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fc241786b9218c0800000000000000
+      internalID: -4029987843664064684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_201
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 223
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e4619e593e205a0800000000000000
+      internalID: -6556427874497835506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_202
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc179882c4f394fb0800000000000000
+      internalID: -4663126342835277363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_203
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 214
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402bc22e06d77d450800000000000000
+      internalID: 6113492874243650052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_204
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6feb548e7161a0800000000000000
+      internalID: -6818029253919019110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_205
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b289353c96003d710800000000000000
+      internalID: 1716716337206892587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_206
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a37ab9ec461b00800000000000000
+      internalID: 798910550644072785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_207
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 215
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea35a0ef82ed4a540800000000000000
+      internalID: 5018380152439722926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_208
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 197
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbc48390698ba20800000000000000
+      internalID: 3078375311651159127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_209
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 212
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939249d77e8ee330800000000000000
+      internalID: 3742084985788732312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_210
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 211
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602b993219a5ea320800000000000000
+      internalID: 2571092016689164806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_211
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 195
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07270d7e091fcf6a0800000000000000
+      internalID: -6413986164615646608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_212
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e00397cd72d4b60800000000000000
+      internalID: 7731879963144490604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_213
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c16f84d7598b840800000000000000
+      internalID: 5240102531773111371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_214
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb432bd70c5249500800000000000000
+      internalID: 401987775415596223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_215
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 199
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a10cbb0f885e4b0800000000000000
+      internalID: -5411768809692325246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_216
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f68bb17e334200800000000000000
+      internalID: 163042669713881437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_217
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 182
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b25d308d6699480800000000000000
+      internalID: -8891962911303062697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_218
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c468f47d7922dab30800000000000000
+      internalID: 4300131254756410956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_219
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 172
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19176e2fe4bb830800000000000000
+      internalID: 4087947891924111860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_220
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 180
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87017a3e7be76cca0800000000000000
+      internalID: -5996966525533745032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_221
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 172
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f894eee52e02b6bb0800000000000000
+      internalID: -4941820009481614961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_222
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 175
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebd22a6ef3217af0800000000000000
+      internalID: -400499316249928735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_223
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 183
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9bfa2281848cf90800000000000000
+      internalID: -6933212357838521943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_224
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 171
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af066f60c739bae30800000000000000
+      internalID: 4515865212271091962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_225
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caba750c1f8497d0800000000000000
+      internalID: -2912545708488082748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_226
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 159
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a2488a377c6070800000000000000
+      internalID: 8100980923010557585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_227
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7274f33c6ffce6380800000000000000
+      internalID: -8976008348558211289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_228
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 159
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307584773d55e7140800000000000000
+      internalID: 4719303826258548483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_229
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1644746b73ec830800000000000000
+      internalID: 4093270367345598881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_230
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c8bd14e5cbe6c0800000000000000
+      internalID: -4112976251130951224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_231
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 157
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c6fa8fc5e90bc60800000000000000
+      internalID: 7831933874143718486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_232
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d681f9fc55ceb0800000000000000
+      internalID: -4700248407522487380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_233
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c7f492db382790800000000000000
+      internalID: -7554722599285570773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_234
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 152
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d0373cd53333a80800000000000000
+      internalID: -8488384394859180702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_235
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e895de70a8a45ed0800000000000000
+      internalID: -2426128891969693471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_236
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 146
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35814ea1e8290380800000000000000
+      internalID: -9004621030194313926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_237
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385dec43fb959f40800000000000000
+      internalID: 5734661169796175932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_238
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a3fe2ca55b04e0800000000000000
+      internalID: -2014422210307709833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_239
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 147
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89042c4714488310800000000000000
+      internalID: 1407449750405646732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_240
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc5685a14a505cb0800000000000000
+      internalID: -4877299158445826821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_241
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 146
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcdb6e45d74748c0800000000000000
+      internalID: -4015161561308209933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_242
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 139
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322165a3c735515a0800000000000000
+      internalID: -6551238289920749021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_243
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3026a64efa9c330800000000000000
+      internalID: 3731707161825379268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_244
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dacd5fcc65992a70800000000000000
+      internalID: 8802731241240382160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_245
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 137
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7417650542582790800000000000000
+      internalID: -7554697918517144449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_246
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 136
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c359726e1309a60800000000000000
+      internalID: 7678692229243026490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_247
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5014eb3ff6546d0800000000000000
+      internalID: -3006874083540269629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_248
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 119
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fed11a7fa5d8420800000000000000
+      internalID: 2633861376688123667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_249
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 104
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147418f4bbe9a7e10800000000000000
+      internalID: 2196242295626483521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_250
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe677a4fca01cf0800000000000000
+      internalID: -283536609742753975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_251
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 104
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758c556770351ba0800000000000000
+      internalID: -6118931229353147012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_252
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3f1d2943714d20800000000000000
+      internalID: 3261014363319777962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_particles_08f_253
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d557d48b9e512f0800000000000000
+      internalID: -1002638364237275889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anomaly_particles_08f_0: 4964815487214034848
+      anomaly_particles_08f_1: 4804304928327928308
+      anomaly_particles_08f_10: -8231218421319692218
+      anomaly_particles_08f_100: 9003715944687870054
+      anomaly_particles_08f_101: 6755723782449910128
+      anomaly_particles_08f_102: 7125071223147166679
+      anomaly_particles_08f_103: -7189261872417091856
+      anomaly_particles_08f_104: -4734322996118863871
+      anomaly_particles_08f_105: 4038011752577332654
+      anomaly_particles_08f_106: -2110129986385971214
+      anomaly_particles_08f_107: 7607071407783062188
+      anomaly_particles_08f_108: 9081582229140084483
+      anomaly_particles_08f_109: -5564174717242630371
+      anomaly_particles_08f_11: -3256446670213930357
+      anomaly_particles_08f_110: 2163952452550653763
+      anomaly_particles_08f_111: 3806028216248022081
+      anomaly_particles_08f_112: 7538140340076723588
+      anomaly_particles_08f_113: 3229440410196578329
+      anomaly_particles_08f_114: -3210966406312707814
+      anomaly_particles_08f_115: -2798501096883639164
+      anomaly_particles_08f_116: 7106802242509450717
+      anomaly_particles_08f_117: 2128713648980057479
+      anomaly_particles_08f_118: -6352156945278424124
+      anomaly_particles_08f_119: -4326482615318985305
+      anomaly_particles_08f_12: -2838461418598798295
+      anomaly_particles_08f_120: 5611504662426002220
+      anomaly_particles_08f_121: 713186580733697440
+      anomaly_particles_08f_122: 693098072324852306
+      anomaly_particles_08f_123: -4956018812364768402
+      anomaly_particles_08f_124: -1191780119594218477
+      anomaly_particles_08f_125: -6502514882115469792
+      anomaly_particles_08f_126: 6034260056490526877
+      anomaly_particles_08f_127: -43223077724390024
+      anomaly_particles_08f_128: 2167528798355312697
+      anomaly_particles_08f_129: 6386803371027971297
+      anomaly_particles_08f_13: 8791667382882144950
+      anomaly_particles_08f_130: 2402515725029300185
+      anomaly_particles_08f_131: 718805853688679472
+      anomaly_particles_08f_132: -5664191657937207597
+      anomaly_particles_08f_133: 7559162618967733920
+      anomaly_particles_08f_134: 8192182373396244602
+      anomaly_particles_08f_135: 8717636511741216213
+      anomaly_particles_08f_136: 4197781070778125376
+      anomaly_particles_08f_137: -6602580059948929138
+      anomaly_particles_08f_138: 8360799948932104511
+      anomaly_particles_08f_139: -5118400358040356442
+      anomaly_particles_08f_14: 4777065773761794939
+      anomaly_particles_08f_140: -481661307377507865
+      anomaly_particles_08f_141: 9156636676919174386
+      anomaly_particles_08f_142: 8723396367166210273
+      anomaly_particles_08f_143: -5990088028127095704
+      anomaly_particles_08f_144: -3006291913541290118
+      anomaly_particles_08f_145: 6698387666230311933
+      anomaly_particles_08f_146: -206509317199957470
+      anomaly_particles_08f_147: 4514654598898609015
+      anomaly_particles_08f_148: -6451140210884567254
+      anomaly_particles_08f_149: 2356663241869619393
+      anomaly_particles_08f_15: 8065346524589676762
+      anomaly_particles_08f_150: 9016384756550625738
+      anomaly_particles_08f_151: 8578332885161581092
+      anomaly_particles_08f_152: 6900638016642928329
+      anomaly_particles_08f_153: -3134504674099774103
+      anomaly_particles_08f_154: 7813443043612730986
+      anomaly_particles_08f_155: -6257922624581618081
+      anomaly_particles_08f_156: -8158297235545045787
+      anomaly_particles_08f_157: -5298345942948317285
+      anomaly_particles_08f_158: 5618734695740636208
+      anomaly_particles_08f_159: -5585889432977547553
+      anomaly_particles_08f_16: 8490859830175040723
+      anomaly_particles_08f_160: -239906030731757241
+      anomaly_particles_08f_161: 8477292539994659355
+      anomaly_particles_08f_162: -8261413463050816022
+      anomaly_particles_08f_163: 8012574104523805758
+      anomaly_particles_08f_164: -9146939432122227049
+      anomaly_particles_08f_165: 8803112802185630576
+      anomaly_particles_08f_166: 6599448604679727853
+      anomaly_particles_08f_167: -7402495887072208543
+      anomaly_particles_08f_168: 6418816662862561419
+      anomaly_particles_08f_169: -249094774614916153
+      anomaly_particles_08f_17: -1982650822520034980
+      anomaly_particles_08f_170: -887080908093352527
+      anomaly_particles_08f_171: -2569081648250210170
+      anomaly_particles_08f_172: 5116327500504671093
+      anomaly_particles_08f_173: 2449173283424790350
+      anomaly_particles_08f_174: -6757983872945527173
+      anomaly_particles_08f_175: 8702517377996419997
+      anomaly_particles_08f_176: 285164474901788490
+      anomaly_particles_08f_177: 8260984739151743452
+      anomaly_particles_08f_178: -7718646766540416629
+      anomaly_particles_08f_179: 343897548831319207
+      anomaly_particles_08f_18: -7193132368977140331
+      anomaly_particles_08f_180: -3184636177991787221
+      anomaly_particles_08f_181: -7701874202187726575
+      anomaly_particles_08f_182: 1319557279667343785
+      anomaly_particles_08f_183: -4942533797206819324
+      anomaly_particles_08f_184: -8625550394633749538
+      anomaly_particles_08f_185: 701413092578607563
+      anomaly_particles_08f_186: 2049394713922357307
+      anomaly_particles_08f_187: 4742396791205711051
+      anomaly_particles_08f_188: -2013340675149639932
+      anomaly_particles_08f_189: 5261764110817537409
+      anomaly_particles_08f_19: -1298363752176425853
+      anomaly_particles_08f_190: -2216380024785003202
+      anomaly_particles_08f_191: 7600715770389565295
+      anomaly_particles_08f_192: -941360410311011983
+      anomaly_particles_08f_193: -1464901329266820310
+      anomaly_particles_08f_194: 2909661190730956882
+      anomaly_particles_08f_195: 2723145020479955360
+      anomaly_particles_08f_196: -3918044525844107529
+      anomaly_particles_08f_197: -7951592447354301264
+      anomaly_particles_08f_198: 380177327008815518
+      anomaly_particles_08f_199: -6621371976023153007
+      anomaly_particles_08f_2: -4038741045357538566
+      anomaly_particles_08f_20: 206094982070608494
+      anomaly_particles_08f_200: -4029987843664064684
+      anomaly_particles_08f_201: -6556427874497835506
+      anomaly_particles_08f_202: -4663126342835277363
+      anomaly_particles_08f_203: 6113492874243650052
+      anomaly_particles_08f_204: -6818029253919019110
+      anomaly_particles_08f_205: 1716716337206892587
+      anomaly_particles_08f_206: 798910550644072785
+      anomaly_particles_08f_207: 5018380152439722926
+      anomaly_particles_08f_208: 3078375311651159127
+      anomaly_particles_08f_209: 3742084985788732312
+      anomaly_particles_08f_21: -706586466621456815
+      anomaly_particles_08f_210: 2571092016689164806
+      anomaly_particles_08f_211: -6413986164615646608
+      anomaly_particles_08f_212: 7731879963144490604
+      anomaly_particles_08f_213: 5240102531773111371
+      anomaly_particles_08f_214: 401987775415596223
+      anomaly_particles_08f_215: -5411768809692325246
+      anomaly_particles_08f_216: 163042669713881437
+      anomaly_particles_08f_217: -8891962911303062697
+      anomaly_particles_08f_218: 4300131254756410956
+      anomaly_particles_08f_219: 4087947891924111860
+      anomaly_particles_08f_22: 3649606559677685194
+      anomaly_particles_08f_220: -5996966525533745032
+      anomaly_particles_08f_221: -4941820009481614961
+      anomaly_particles_08f_222: -400499316249928735
+      anomaly_particles_08f_223: -6933212357838521943
+      anomaly_particles_08f_224: 4515865212271091962
+      anomaly_particles_08f_225: -2912545708488082748
+      anomaly_particles_08f_226: 8100980923010557585
+      anomaly_particles_08f_227: -8976008348558211289
+      anomaly_particles_08f_228: 4719303826258548483
+      anomaly_particles_08f_229: 4093270367345598881
+      anomaly_particles_08f_23: -2882570940759492631
+      anomaly_particles_08f_230: -4112976251130951224
+      anomaly_particles_08f_231: 7831933874143718486
+      anomaly_particles_08f_232: -4700248407522487380
+      anomaly_particles_08f_233: -7554722599285570773
+      anomaly_particles_08f_234: -8488384394859180702
+      anomaly_particles_08f_235: -2426128891969693471
+      anomaly_particles_08f_236: -9004621030194313926
+      anomaly_particles_08f_237: 5734661169796175932
+      anomaly_particles_08f_238: -2014422210307709833
+      anomaly_particles_08f_239: 1407449750405646732
+      anomaly_particles_08f_24: 2083421702225317449
+      anomaly_particles_08f_240: -4877299158445826821
+      anomaly_particles_08f_241: -4015161561308209933
+      anomaly_particles_08f_242: -6551238289920749021
+      anomaly_particles_08f_243: 3731707161825379268
+      anomaly_particles_08f_244: 8802731241240382160
+      anomaly_particles_08f_245: -7554697918517144449
+      anomaly_particles_08f_246: 7678692229243026490
+      anomaly_particles_08f_247: -3006874083540269629
+      anomaly_particles_08f_248: 2633861376688123667
+      anomaly_particles_08f_249: 2196242295626483521
+      anomaly_particles_08f_25: 7624406258377316555
+      anomaly_particles_08f_250: -283536609742753975
+      anomaly_particles_08f_251: -6118931229353147012
+      anomaly_particles_08f_252: 3261014363319777962
+      anomaly_particles_08f_253: -1002638364237275889
+      anomaly_particles_08f_26: 2865931419815039950
+      anomaly_particles_08f_27: -5132840251174161661
+      anomaly_particles_08f_28: -8714626125309458709
+      anomaly_particles_08f_29: 4318259316209279261
+      anomaly_particles_08f_3: -5493971015741937195
+      anomaly_particles_08f_30: 3617641556582135308
+      anomaly_particles_08f_31: 7824474439359886958
+      anomaly_particles_08f_32: -4694101956262548319
+      anomaly_particles_08f_33: 4199283794676565272
+      anomaly_particles_08f_34: 6846773416150704280
+      anomaly_particles_08f_35: -2784044343373212796
+      anomaly_particles_08f_36: -3714872564634136422
+      anomaly_particles_08f_37: 891866961973753441
+      anomaly_particles_08f_38: -7379080212847357749
+      anomaly_particles_08f_39: 3467367426398538469
+      anomaly_particles_08f_4: -8763886491135836643
+      anomaly_particles_08f_40: -4654309975162266151
+      anomaly_particles_08f_41: 2903606055304879138
+      anomaly_particles_08f_42: -9134751862036593465
+      anomaly_particles_08f_43: 7611590348844901297
+      anomaly_particles_08f_44: -1099973449796188694
+      anomaly_particles_08f_45: -1894941793902180527
+      anomaly_particles_08f_46: -5824146060706340567
+      anomaly_particles_08f_47: 4467689648238643448
+      anomaly_particles_08f_48: 8857733829325540596
+      anomaly_particles_08f_49: 4007299712361524667
+      anomaly_particles_08f_5: 7264205080493926472
+      anomaly_particles_08f_50: -415467886194390329
+      anomaly_particles_08f_51: 4051650007512343164
+      anomaly_particles_08f_52: -5239281904017264545
+      anomaly_particles_08f_53: 8433889113314342799
+      anomaly_particles_08f_54: -7413045938995785101
+      anomaly_particles_08f_55: -5684372137904488894
+      anomaly_particles_08f_56: 2049391119352860195
+      anomaly_particles_08f_57: 8177789913803111047
+      anomaly_particles_08f_58: -956986038230600993
+      anomaly_particles_08f_59: -2414422308260081306
+      anomaly_particles_08f_6: 3460337842576940621
+      anomaly_particles_08f_60: -601007164721816797
+      anomaly_particles_08f_61: 6942442327288142834
+      anomaly_particles_08f_62: -5743425267170299796
+      anomaly_particles_08f_63: -2683131663221693017
+      anomaly_particles_08f_64: 5611063957675983029
+      anomaly_particles_08f_65: 5916174688207737159
+      anomaly_particles_08f_66: -1484350314621403319
+      anomaly_particles_08f_67: 600901444606568383
+      anomaly_particles_08f_68: 7251667931914673641
+      anomaly_particles_08f_69: -954318563002026453
+      anomaly_particles_08f_7: 8087226831980528344
+      anomaly_particles_08f_70: 2704873487149806142
+      anomaly_particles_08f_71: -3314892422985354754
+      anomaly_particles_08f_72: 8663812137335929633
+      anomaly_particles_08f_73: -7238536060233733749
+      anomaly_particles_08f_74: -6635754881344449885
+      anomaly_particles_08f_75: -5595460225276542290
+      anomaly_particles_08f_76: 1877578843664476285
+      anomaly_particles_08f_77: 850460366248972064
+      anomaly_particles_08f_78: 8425614510586334043
+      anomaly_particles_08f_79: 1662706724988760410
+      anomaly_particles_08f_8: -2599292509282792394
+      anomaly_particles_08f_80: -41713838988546805
+      anomaly_particles_08f_81: -377556583418872054
+      anomaly_particles_08f_82: -3824319455523218176
+      anomaly_particles_08f_83: -6530628841307410540
+      anomaly_particles_08f_84: 6741755681925685709
+      anomaly_particles_08f_85: 6661620721606085709
+      anomaly_particles_08f_86: -2002216175036671263
+      anomaly_particles_08f_87: -7170240737787511086
+      anomaly_particles_08f_88: -2345401358143664358
+      anomaly_particles_08f_89: -5722981736405180935
+      anomaly_particles_08f_9: 244912569745837398
+      anomaly_particles_08f_90: -7067590918167085613
+      anomaly_particles_08f_91: -9205914080568192332
+      anomaly_particles_08f_92: 7551776688898759926
+      anomaly_particles_08f_93: 5965239271681753179
+      anomaly_particles_08f_94: 8545810771895946031
+      anomaly_particles_08f_95: -5126896733911515784
+      anomaly_particles_08f_96: -2610153012277212163
+      anomaly_particles_08f_97: 3233305246567367371
+      anomaly_particles_08f_98: 6532793440940080951
+      anomaly_particles_08f_99: -7572594270633456228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

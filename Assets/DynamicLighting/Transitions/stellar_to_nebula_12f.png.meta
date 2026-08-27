@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 255eb9b692d44ad40a1654744306ecbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4627071491314900345
+    second: stellar_to_nebula_12f_0
+  - first:
+      213: 861036414814263768
+    second: stellar_to_nebula_12f_1
+  - first:
+      213: 6649742088838038866
+    second: stellar_to_nebula_12f_2
+  - first:
+      213: 3020652056723598485
+    second: stellar_to_nebula_12f_3
+  - first:
+      213: 6960296713830668529
+    second: stellar_to_nebula_12f_4
+  - first:
+      213: 5387220176700305886
+    second: stellar_to_nebula_12f_5
+  - first:
+      213: -2896484197266629134
+    second: stellar_to_nebula_12f_6
+  - first:
+      213: 5629727426834652018
+    second: stellar_to_nebula_12f_7
+  - first:
+      213: -8031718884898618551
+    second: stellar_to_nebula_12f_8
+  - first:
+      213: -1376416838268142257
+    second: stellar_to_nebula_12f_9
+  - first:
+      213: 353547412352528200
+    second: stellar_to_nebula_12f_10
+  - first:
+      213: -8782937185199875689
+    second: stellar_to_nebula_12f_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1031
+        width: 497
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d592e8109a63040800000000000000
+      internalID: 4627071491314900345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1030
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d91eabae0403fb00800000000000000
+      internalID: 861036414814263768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1030
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c72da231a84c50800000000000000
+      internalID: 6649742088838038866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1029
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c201f9a038be920800000000000000
+      internalID: 3020652056723598485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81237ebf0f79060800000000000000
+      internalID: 6960296713830668529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f90f353043ca40800000000000000
+      internalID: 5387220176700305886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_6
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdd36408fe9dc7d0800000000000000
+      internalID: -2896484197266629134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 517
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd0c2644fc02e40800000000000000
+      internalID: 5629727426834652018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94342d16a3a998090800000000000000
+      internalID: -8031718884898618551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d392c9d2cf5ece0800000000000000
+      internalID: -1376416838268142257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_10
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 6
+        width: 499
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fe7849f7d08e400800000000000000
+      internalID: 353547412352528200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stellar_to_nebula_12f_11
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 7
+        width: 497
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799979ff92dbc1680800000000000000
+      internalID: -8782937185199875689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stellar_to_nebula_12f_0: 4627071491314900345
+      stellar_to_nebula_12f_1: 861036414814263768
+      stellar_to_nebula_12f_10: 353547412352528200
+      stellar_to_nebula_12f_11: -8782937185199875689
+      stellar_to_nebula_12f_2: 6649742088838038866
+      stellar_to_nebula_12f_3: 3020652056723598485
+      stellar_to_nebula_12f_4: 6960296713830668529
+      stellar_to_nebula_12f_5: 5387220176700305886
+      stellar_to_nebula_12f_6: -2896484197266629134
+      stellar_to_nebula_12f_7: 5629727426834652018
+      stellar_to_nebula_12f_8: -8031718884898618551
+      stellar_to_nebula_12f_9: -1376416838268142257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

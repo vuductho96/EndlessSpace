@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: eff2ccc585679474bab788b399d5ad1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -59950473422576088
+    second: eclipse_transition_12f_0
+  - first:
+      213: 3617347075515704979
+    second: eclipse_transition_12f_1
+  - first:
+      213: 5048685841297499238
+    second: eclipse_transition_12f_2
+  - first:
+      213: 8700923632372669709
+    second: eclipse_transition_12f_3
+  - first:
+      213: -1456912739570717213
+    second: eclipse_transition_12f_4
+  - first:
+      213: -6955470089567012088
+    second: eclipse_transition_12f_5
+  - first:
+      213: 959504336605848484
+    second: eclipse_transition_12f_6
+  - first:
+      213: 5843846781744858480
+    second: eclipse_transition_12f_7
+  - first:
+      213: -8029418144373970024
+    second: eclipse_transition_12f_8
+  - first:
+      213: 8296679452914730291
+    second: eclipse_transition_12f_9
+  - first:
+      213: 133210455574885404
+    second: eclipse_transition_12f_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eclipse_transition_12f_0
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1261
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e78fac530b2ff0800000000000000
+      internalID: -59950473422576088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_1
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1236
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3966969eff5633230800000000000000
+      internalID: 3617347075515704979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_2
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1215
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664e4190609801640800000000000000
+      internalID: 5048685841297499238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 681
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ddf55b1f3efb870800000000000000
+      internalID: 8700923632372669709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 660
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6529159108cbe0800000000000000
+      internalID: -1456912739570717213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_5
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 640
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf0812ec4397f90800000000000000
+      internalID: -6955470089567012088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_6
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 553
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3a6d74c18d05d00800000000000000
+      internalID: 959504336605848484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07546bb9fa3891150800000000000000
+      internalID: 5843846781744858480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 34
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b63874db6c19090800000000000000
+      internalID: -8029418144373970024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 33
+        width: 445
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335c346310ab32370800000000000000
+      internalID: 8296679452914730291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclipse_transition_12f_10
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 25
+        width: 461
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b8ec143249d100800000000000000
+      internalID: 133210455574885404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eclipse_transition_12f_0: -59950473422576088
+      eclipse_transition_12f_1: 3617347075515704979
+      eclipse_transition_12f_10: 133210455574885404
+      eclipse_transition_12f_2: 5048685841297499238
+      eclipse_transition_12f_3: 8700923632372669709
+      eclipse_transition_12f_4: -1456912739570717213
+      eclipse_transition_12f_5: -6955470089567012088
+      eclipse_transition_12f_6: 959504336605848484
+      eclipse_transition_12f_7: 5843846781744858480
+      eclipse_transition_12f_8: -8029418144373970024
+      eclipse_transition_12f_9: 8296679452914730291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

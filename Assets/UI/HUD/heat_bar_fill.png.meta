@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: db81de00781a61e40b4dbe04f4a2609f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3132569004052051193
+    second: heat_bar_fill_0
+  - first:
+      213: -3905668259907458826
+    second: heat_bar_fill_1
+  - first:
+      213: -4947222718544551811
+    second: heat_bar_fill_2
+  - first:
+      213: 2053425005187032777
+    second: heat_bar_fill_3
+  - first:
+      213: -2971948015913118989
+    second: heat_bar_fill_4
+  - first:
+      213: -5183969246118217645
+    second: heat_bar_fill_5
+  - first:
+      213: -9067575811165529408
+    second: heat_bar_fill_6
+  - first:
+      213: -5175858912704253465
+    second: heat_bar_fill_7
+  - first:
+      213: 5260089612048261346
+    second: heat_bar_fill_8
+  - first:
+      213: 2160695185045065267
+    second: heat_bar_fill_9
+  - first:
+      213: -8222812487815434969
+    second: heat_bar_fill_10
+  - first:
+      213: -8045844084295766762
+    second: heat_bar_fill_11
+  - first:
+      213: -357948662710107122
+    second: heat_bar_fill_12
+  - first:
+      213: 7224175803302067688
+    second: heat_bar_fill_13
+  - first:
+      213: 3779157144605651330
+    second: heat_bar_fill_14
+  - first:
+      213: -6251012609857434703
+    second: heat_bar_fill_15
+  - first:
+      213: 4227408095530261279
+    second: heat_bar_fill_16
+  - first:
+      213: -263147342469345262
+    second: heat_bar_fill_17
+  - first:
+      213: -3872759737964006790
+    second: heat_bar_fill_18
+  - first:
+      213: 5739970196555371604
+    second: heat_bar_fill_19
+  - first:
+      213: 5244283311940356805
+    second: heat_bar_fill_20
+  - first:
+      213: 1644777846188126980
+    second: heat_bar_fill_21
+  - first:
+      213: 5460137857891599444
+    second: heat_bar_fill_22
+  - first:
+      213: 7451658305254599182
+    second: heat_bar_fill_23
+  - first:
+      213: -8393535879236306470
+    second: heat_bar_fill_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heat_bar_fill_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4fbe089ee197b20800000000000000
+      internalID: 3132569004052051193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8a2b529674cc9c0800000000000000
+      internalID: -3905668259907458826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70e864262fe75bb0800000000000000
+      internalID: -4947222718544551811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6e317a92b3f7c10800000000000000
+      internalID: 2053425005187032777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2529c860581c6d0800000000000000
+      internalID: -2971948015913118989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f29ebf67de08b0800000000000000
+      internalID: -5183969246118217645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cadd8187df792280800000000000000
+      internalID: -9067575811165529408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e139b4edb7ab28b0800000000000000
+      internalID: -5175858912704253465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0ebdc02a79ff840800000000000000
+      internalID: 5260089612048261346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e028ca2d45cfd10800000000000000
+      internalID: 2160695185045065267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6d11db93b2ed80800000000000000
+      internalID: -8222812487815434969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d6f5d1f6b675090800000000000000
+      internalID: -8045844084295766762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048657769f480bf0800000000000000
+      internalID: -357948662710107122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edbac62e9d614460800000000000000
+      internalID: 7224175803302067688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28179927663427430800000000000000
+      internalID: 3779157144605651330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc5fe8621ff39a0800000000000000
+      internalID: -6251012609857434703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b11bed345caaa30800000000000000
+      internalID: 4227408095530261279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d680e2ec195cf0800000000000000
+      internalID: -263147342469345262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72783e7981314ac0800000000000000
+      internalID: -3872759737964006790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454130b6b7878af40800000000000000
+      internalID: 5739970196555371604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac6b503ef67c840800000000000000
+      internalID: 5244283311940356805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403b9789cbc63d610800000000000000
+      internalID: 1644777846188126980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548a44e37e46cb40800000000000000
+      internalID: 5460137857891599444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a2a408fbb996760800000000000000
+      internalID: 7451658305254599182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heat_bar_fill_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9bf94b69b248b80800000000000000
+      internalID: -8393535879236306470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heat_bar_fill_0: 3132569004052051193
+      heat_bar_fill_1: -3905668259907458826
+      heat_bar_fill_10: -8222812487815434969
+      heat_bar_fill_11: -8045844084295766762
+      heat_bar_fill_12: -357948662710107122
+      heat_bar_fill_13: 7224175803302067688
+      heat_bar_fill_14: 3779157144605651330
+      heat_bar_fill_15: -6251012609857434703
+      heat_bar_fill_16: 4227408095530261279
+      heat_bar_fill_17: -263147342469345262
+      heat_bar_fill_18: -3872759737964006790
+      heat_bar_fill_19: 5739970196555371604
+      heat_bar_fill_2: -4947222718544551811
+      heat_bar_fill_20: 5244283311940356805
+      heat_bar_fill_21: 1644777846188126980
+      heat_bar_fill_22: 5460137857891599444
+      heat_bar_fill_23: 7451658305254599182
+      heat_bar_fill_24: -8393535879236306470
+      heat_bar_fill_3: 2053425005187032777
+      heat_bar_fill_4: -2971948015913118989
+      heat_bar_fill_5: -5183969246118217645
+      heat_bar_fill_6: -9067575811165529408
+      heat_bar_fill_7: -5175858912704253465
+      heat_bar_fill_8: 5260089612048261346
+      heat_bar_fill_9: 2160695185045065267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

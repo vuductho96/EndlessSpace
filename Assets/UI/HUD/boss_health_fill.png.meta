@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 051d55672b2b1e44a90d9d4e61c35490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6137011804326122239
+    second: boss_health_fill_0
+  - first:
+      213: 6738665331155263687
+    second: boss_health_fill_1
+  - first:
+      213: 3838569411238723356
+    second: boss_health_fill_2
+  - first:
+      213: -5529817227397360636
+    second: boss_health_fill_3
+  - first:
+      213: -6194048674318368692
+    second: boss_health_fill_4
+  - first:
+      213: -8569300867045085121
+    second: boss_health_fill_5
+  - first:
+      213: -4157163062683908533
+    second: boss_health_fill_6
+  - first:
+      213: 6388369029452826476
+    second: boss_health_fill_7
+  - first:
+      213: -1677227225390848104
+    second: boss_health_fill_8
+  - first:
+      213: 7809477713424498941
+    second: boss_health_fill_9
+  - first:
+      213: -2031347196017129112
+    second: boss_health_fill_10
+  - first:
+      213: -3134136323966283327
+    second: boss_health_fill_11
+  - first:
+      213: 8480248421537048080
+    second: boss_health_fill_12
+  - first:
+      213: -7716145233061929803
+    second: boss_health_fill_13
+  - first:
+      213: 7137409458004254163
+    second: boss_health_fill_14
+  - first:
+      213: -4570238917448981843
+    second: boss_health_fill_15
+  - first:
+      213: 1489099182643706427
+    second: boss_health_fill_16
+  - first:
+      213: 5059262537321598410
+    second: boss_health_fill_17
+  - first:
+      213: -4177959925044013803
+    second: boss_health_fill_18
+  - first:
+      213: 4596895809883517966
+    second: boss_health_fill_19
+  - first:
+      213: 5653813478159545322
+    second: boss_health_fill_20
+  - first:
+      213: -256023911418875423
+    second: boss_health_fill_21
+  - first:
+      213: 4372337491573638925
+    second: boss_health_fill_22
+  - first:
+      213: -4641595777424907816
+    second: boss_health_fill_23
+  - first:
+      213: 4523243688952521164
+    second: boss_health_fill_24
+  - first:
+      213: 1044384095274974998
+    second: boss_health_fill_25
+  - first:
+      213: 2625847755087217271
+    second: boss_health_fill_26
+  - first:
+      213: 5347585572114529368
+    second: boss_health_fill_27
+  - first:
+      213: -2556850205559877172
+    second: boss_health_fill_28
+  - first:
+      213: 7853417486387685930
+    second: boss_health_fill_29
+  - first:
+      213: -612516141335040949
+    second: boss_health_fill_30
+  - first:
+      213: -4549801625607501460
+    second: boss_health_fill_31
+  - first:
+      213: -6656555052400093027
+    second: boss_health_fill_32
+  - first:
+      213: 244044140354633578
+    second: boss_health_fill_33
+  - first:
+      213: 1741284388394868370
+    second: boss_health_fill_34
+  - first:
+      213: 1637860949605242662
+    second: boss_health_fill_35
+  - first:
+      213: 7462470854764212047
+    second: boss_health_fill_36
+  - first:
+      213: -5845301640039109408
+    second: boss_health_fill_37
+  - first:
+      213: 378571813318018769
+    second: boss_health_fill_38
+  - first:
+      213: 8205783316220517200
+    second: boss_health_fill_39
+  - first:
+      213: 902923072172435060
+    second: boss_health_fill_40
+  - first:
+      213: 7367466081336191335
+    second: boss_health_fill_41
+  - first:
+      213: -8235146405558870184
+    second: boss_health_fill_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_health_fill_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2dc3388bb0b2550800000000000000
+      internalID: 6137011804326122239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0efbb6a6c848d50800000000000000
+      internalID: 6738665331155263687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f709aba86554530800000000000000
+      internalID: 3838569411238723356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041528a7842243b0800000000000000
+      internalID: -5529817227397360636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4046c55c815a0aa0800000000000000
+      internalID: -6194048674318368692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30b456734ab31980800000000000000
+      internalID: -8569300867045085121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46c957583ace46c0800000000000000
+      internalID: -4157163062683908533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6784a609cb08a850800000000000000
+      internalID: 6388369029452826476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897e6fe89ba49b8e0800000000000000
+      internalID: -1677227225390848104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df04ffd9a96d06c60800000000000000
+      internalID: 7809477713424498941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869c9eddc743fc3e0800000000000000
+      internalID: -2031347196017129112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c157546e9f4184d0800000000000000
+      internalID: -3134136323966283327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01668c45205efa570800000000000000
+      internalID: 8480248421537048080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc150cdacebae490800000000000000
+      internalID: -7716145233061929803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd5bd0261c2d0360800000000000000
+      internalID: 7137409458004254163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a9c23bef3390c0800000000000000
+      internalID: -4570238917448981843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7dc821d75aa410800000000000000
+      internalID: 1489099182643706427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdce7af87c163640800000000000000
+      internalID: 5059262537321598410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151fed7597e406c0800000000000000
+      internalID: -4177959925044013803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b69932647bcf30800000000000000
+      internalID: 4596895809883517966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f3083761667e40800000000000000
+      internalID: 5653813478159545322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13fd9eb9b627cf0800000000000000
+      internalID: -256023911418875423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078e5f68c9adac30800000000000000
+      internalID: 4372337491573638925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a2af8b3db59fb0800000000000000
+      internalID: -4641595777424907816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1ea808b2ac5ce30800000000000000
+      internalID: 4523243688952521164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fbeef1dc56e7e00800000000000000
+      internalID: 1044384095274974998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7720b34fe92e07420800000000000000
+      internalID: 2625847755087217271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf3efbeb0763a40800000000000000
+      internalID: 5347585572114529368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc118b9e84e348cd0800000000000000
+      internalID: -2556850205559877172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aaafc3891fcfc60800000000000000
+      internalID: 7853417486387685930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c288090d7ef77f0800000000000000
+      internalID: -612516141335040949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698b23078bdbd0c0800000000000000
+      internalID: -4549801625607501460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_32
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d985cd1a27a2f93a0800000000000000
+      internalID: -6656555052400093027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_33
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f7a574ad4036300800000000000000
+      internalID: 244044140354633578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_34
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e953fece84a2810800000000000000
+      internalID: 1741284388394868370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_35
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62754bc1bd9dab610800000000000000
+      internalID: 1637860949605242662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_36
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f2dec54b5009760800000000000000
+      internalID: 7462470854764212047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece57cc02151eea0800000000000000
+      internalID: -5845301640039109408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_38
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6cbc6fe05f04500800000000000000
+      internalID: 378571813318018769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_39
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9623337cc0e170800000000000000
+      internalID: 8205783316220517200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_40
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476a75010c3d78c00800000000000000
+      internalID: 902923072172435060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_41
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76968c0dd5f7e3660800000000000000
+      internalID: 7367466081336191335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_health_fill_42
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f145fc9f1e6bd80800000000000000
+      internalID: -8235146405558870184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_health_fill_0: 6137011804326122239
+      boss_health_fill_1: 6738665331155263687
+      boss_health_fill_10: -2031347196017129112
+      boss_health_fill_11: -3134136323966283327
+      boss_health_fill_12: 8480248421537048080
+      boss_health_fill_13: -7716145233061929803
+      boss_health_fill_14: 7137409458004254163
+      boss_health_fill_15: -4570238917448981843
+      boss_health_fill_16: 1489099182643706427
+      boss_health_fill_17: 5059262537321598410
+      boss_health_fill_18: -4177959925044013803
+      boss_health_fill_19: 4596895809883517966
+      boss_health_fill_2: 3838569411238723356
+      boss_health_fill_20: 5653813478159545322
+      boss_health_fill_21: -256023911418875423
+      boss_health_fill_22: 4372337491573638925
+      boss_health_fill_23: -4641595777424907816
+      boss_health_fill_24: 4523243688952521164
+      boss_health_fill_25: 1044384095274974998
+      boss_health_fill_26: 2625847755087217271
+      boss_health_fill_27: 5347585572114529368
+      boss_health_fill_28: -2556850205559877172
+      boss_health_fill_29: 7853417486387685930
+      boss_health_fill_3: -5529817227397360636
+      boss_health_fill_30: -612516141335040949
+      boss_health_fill_31: -4549801625607501460
+      boss_health_fill_32: -6656555052400093027
+      boss_health_fill_33: 244044140354633578
+      boss_health_fill_34: 1741284388394868370
+      boss_health_fill_35: 1637860949605242662
+      boss_health_fill_36: 7462470854764212047
+      boss_health_fill_37: -5845301640039109408
+      boss_health_fill_38: 378571813318018769
+      boss_health_fill_39: 8205783316220517200
+      boss_health_fill_4: -6194048674318368692
+      boss_health_fill_40: 902923072172435060
+      boss_health_fill_41: 7367466081336191335
+      boss_health_fill_42: -8235146405558870184
+      boss_health_fill_5: -8569300867045085121
+      boss_health_fill_6: -4157163062683908533
+      boss_health_fill_7: 6388369029452826476
+      boss_health_fill_8: -1677227225390848104
+      boss_health_fill_9: 7809477713424498941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

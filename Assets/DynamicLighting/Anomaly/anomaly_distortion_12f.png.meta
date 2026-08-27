@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 4cfec1a111ca32048a2e5dd0f80049a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6999584520354385737
+    second: anomaly_distortion_12f_0
+  - first:
+      213: 4792192055600046399
+    second: anomaly_distortion_12f_1
+  - first:
+      213: -4592074230547010762
+    second: anomaly_distortion_12f_2
+  - first:
+      213: -1493490074966253987
+    second: anomaly_distortion_12f_3
+  - first:
+      213: 4770136790458471621
+    second: anomaly_distortion_12f_4
+  - first:
+      213: 2917169398473816614
+    second: anomaly_distortion_12f_5
+  - first:
+      213: 7617545216397274921
+    second: anomaly_distortion_12f_6
+  - first:
+      213: 2849855026093168319
+    second: anomaly_distortion_12f_7
+  - first:
+      213: -465404843540664420
+    second: anomaly_distortion_12f_8
+  - first:
+      213: -3109859086943912825
+    second: anomaly_distortion_12f_9
+  - first:
+      213: -8814445012542449289
+    second: anomaly_distortion_12f_10
+  - first:
+      213: 6698543082308331819
+    second: anomaly_distortion_12f_11
+  - first:
+      213: 3338347635737246598
+    second: anomaly_distortion_12f_12
+  - first:
+      213: -2473499315998536681
+    second: anomaly_distortion_12f_13
+  - first:
+      213: 1740275552087639866
+    second: anomaly_distortion_12f_14
+  - first:
+      213: 1300369061788723342
+    second: anomaly_distortion_12f_15
+  - first:
+      213: 2987507391092004389
+    second: anomaly_distortion_12f_16
+  - first:
+      213: 6820188238962469142
+    second: anomaly_distortion_12f_17
+  - first:
+      213: 8002532786310727023
+    second: anomaly_distortion_12f_18
+  - first:
+      213: 2894957168528967053
+    second: anomaly_distortion_12f_19
+  - first:
+      213: -4845171594038953650
+    second: anomaly_distortion_12f_20
+  - first:
+      213: -3805016777066126559
+    second: anomaly_distortion_12f_21
+  - first:
+      213: -1415472701242579543
+    second: anomaly_distortion_12f_22
+  - first:
+      213: -4528701704613509987
+    second: anomaly_distortion_12f_23
+  - first:
+      213: 1084229402348128900
+    second: anomaly_distortion_12f_24
+  - first:
+      213: 5394635721762743679
+    second: anomaly_distortion_12f_25
+  - first:
+      213: -128235520058199996
+    second: anomaly_distortion_12f_26
+  - first:
+      213: 2311310475978824105
+    second: anomaly_distortion_12f_27
+  - first:
+      213: -7449924155903621821
+    second: anomaly_distortion_12f_28
+  - first:
+      213: 2053002650034902182
+    second: anomaly_distortion_12f_29
+  - first:
+      213: -4185286902519551228
+    second: anomaly_distortion_12f_30
+  - first:
+      213: -467894980258208063
+    second: anomaly_distortion_12f_31
+  - first:
+      213: 7982820516681352640
+    second: anomaly_distortion_12f_32
+  - first:
+      213: 3282637992269987938
+    second: anomaly_distortion_12f_33
+  - first:
+      213: -4223200758638241122
+    second: anomaly_distortion_12f_34
+  - first:
+      213: 118587717716183781
+    second: anomaly_distortion_12f_35
+  - first:
+      213: -8150700430591993974
+    second: anomaly_distortion_12f_36
+  - first:
+      213: 709091625643635728
+    second: anomaly_distortion_12f_37
+  - first:
+      213: -903603420286691169
+    second: anomaly_distortion_12f_38
+  - first:
+      213: -2680717706011289715
+    second: anomaly_distortion_12f_39
+  - first:
+      213: -2237314812565043016
+    second: anomaly_distortion_12f_40
+  - first:
+      213: 6785969000457612358
+    second: anomaly_distortion_12f_41
+  - first:
+      213: -8471914647243254975
+    second: anomaly_distortion_12f_42
+  - first:
+      213: -8978231099528809707
+    second: anomaly_distortion_12f_43
+  - first:
+      213: -6313464317899520949
+    second: anomaly_distortion_12f_44
+  - first:
+      213: -723936566857379926
+    second: anomaly_distortion_12f_45
+  - first:
+      213: 290398761505005733
+    second: anomaly_distortion_12f_46
+  - first:
+      213: 3255234351828045876
+    second: anomaly_distortion_12f_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1111
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b034f0d6fa7cde90800000000000000
+      internalID: -6999584520354385737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1162
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f316d71d849418240800000000000000
+      internalID: 4792192055600046399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1210
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b250231dca540c0800000000000000
+      internalID: -4592074230547010762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1062
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e901e80be064be0800000000000000
+      internalID: -1493490074966253987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1128
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c49c4d332ee23240800000000000000
+      internalID: 4770136790458471621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1178
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62afba1bc1edb7820800000000000000
+      internalID: 2917169398473816614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1076
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe5dbc305f6b960800000000000000
+      internalID: 7617545216397274921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1165
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb615ab0c08bc8720800000000000000
+      internalID: 2849855026093168319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_8
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1093
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2308b2cc8a89f0800000000000000
+      internalID: -465404843540664420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1144
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cff2d13af87d4d0800000000000000
+      internalID: -3109859086943912825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_10
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1194
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779913746fccca580800000000000000
+      internalID: -8814445012542449289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_11
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1089
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2963a5617106fc50800000000000000
+      internalID: 6698543082308331819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_12
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1111
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b32e4cc71345e20800000000000000
+      internalID: 3338347635737246598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_13
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1162
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c4cbd2a7d5cadd0800000000000000
+      internalID: -2473499315998536681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_14
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1210
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a370b7de463b62810800000000000000
+      internalID: 1740275552087639866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_15
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1062
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8823d4a5c6db0210800000000000000
+      internalID: 1300369061788723342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 616
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52694e9c422c57920800000000000000
+      internalID: 2987507391092004389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 666
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619a7a4811d26ae50800000000000000
+      internalID: 6820188238962469142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 564
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c77f7b25be0f60800000000000000
+      internalID: 8002532786310727023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 653
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c326e434fc2820800000000000000
+      internalID: 2894957168528967053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 581
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49be752b1e72ccb0800000000000000
+      internalID: -4845171594038953650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 632
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123629ea66dd13bc0800000000000000
+      internalID: -3805016777066126559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_22
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 682
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a56c25e31b3b5ce0800000000000000
+      internalID: -1415472701242579543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_23
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 577
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d944ec23bc1d621c0800000000000000
+      internalID: -4528701704613509987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_24
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 599
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8efd95e4fb0f00800000000000000
+      internalID: 1084229402348128900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_25
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 650
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f752d406b989dda40800000000000000
+      internalID: 5394635721762743679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_26
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 698
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440f753597a683ef0800000000000000
+      internalID: -128235520058199996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_27
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 550
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a95b5ec1ac631020800000000000000
+      internalID: 2311310475978824105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_28
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 616
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34543cb937d8c9890800000000000000
+      internalID: -7449924155903621821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_29
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 666
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4144e680bbd7c10800000000000000
+      internalID: 2053002650034902182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_30
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 564
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b2a3c9cbfdae5c0800000000000000
+      internalID: -4185286902519551228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_31
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 653
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c665859ef3b189f0800000000000000
+      internalID: -467894980258208063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 69
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c50e7217fca8ce60800000000000000
+      internalID: 7982820516681352640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260447f9cd54e8d20800000000000000
+      internalID: 3282637992269987938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a1536194d2465c0800000000000000
+      internalID: -4223200758638241122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 65
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8235a6ee45a100800000000000000
+      internalID: 118587717716183781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_36
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 87
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d0f38425e2ee80800000000000000
+      internalID: -8150700430591993974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_37
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 138
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01471bb931337d900800000000000000
+      internalID: 709091625643635728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 186
+        width: 336
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dbfb0a71c573f0800000000000000
+      internalID: -903603420286691169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_39
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 38
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d81e037d2ccad0800000000000000
+      internalID: -2680717706011289715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_40
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 104
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84752280673f0e0800000000000000
+      internalID: -2237314812565043016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_41
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 154
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ca6113ada9c2e50800000000000000
+      internalID: 6785969000457612358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_42
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 52
+        width: 268
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14313a3b386bd6a80800000000000000
+      internalID: -8471914647243254975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_43
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 141
+        width: 306
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137839326ae66380800000000000000
+      internalID: -8978231099528809707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_44
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 69
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ce7d27a11268a0800000000000000
+      internalID: -6313464317899520949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_45
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 120
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafcc8c278f04f5f0800000000000000
+      internalID: -723936566857379926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_46
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 170
+        width: 327
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a028be8224b70400800000000000000
+      internalID: 290398761505005733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anomaly_distortion_12f_47
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 65
+        width: 273
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301c51656aec2d20800000000000000
+      internalID: 3255234351828045876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anomaly_distortion_12f_0: -6999584520354385737
+      anomaly_distortion_12f_1: 4792192055600046399
+      anomaly_distortion_12f_10: -8814445012542449289
+      anomaly_distortion_12f_11: 6698543082308331819
+      anomaly_distortion_12f_12: 3338347635737246598
+      anomaly_distortion_12f_13: -2473499315998536681
+      anomaly_distortion_12f_14: 1740275552087639866
+      anomaly_distortion_12f_15: 1300369061788723342
+      anomaly_distortion_12f_16: 2987507391092004389
+      anomaly_distortion_12f_17: 6820188238962469142
+      anomaly_distortion_12f_18: 8002532786310727023
+      anomaly_distortion_12f_19: 2894957168528967053
+      anomaly_distortion_12f_2: -4592074230547010762
+      anomaly_distortion_12f_20: -4845171594038953650
+      anomaly_distortion_12f_21: -3805016777066126559
+      anomaly_distortion_12f_22: -1415472701242579543
+      anomaly_distortion_12f_23: -4528701704613509987
+      anomaly_distortion_12f_24: 1084229402348128900
+      anomaly_distortion_12f_25: 5394635721762743679
+      anomaly_distortion_12f_26: -128235520058199996
+      anomaly_distortion_12f_27: 2311310475978824105
+      anomaly_distortion_12f_28: -7449924155903621821
+      anomaly_distortion_12f_29: 2053002650034902182
+      anomaly_distortion_12f_3: -1493490074966253987
+      anomaly_distortion_12f_30: -4185286902519551228
+      anomaly_distortion_12f_31: -467894980258208063
+      anomaly_distortion_12f_32: 7982820516681352640
+      anomaly_distortion_12f_33: 3282637992269987938
+      anomaly_distortion_12f_34: -4223200758638241122
+      anomaly_distortion_12f_35: 118587717716183781
+      anomaly_distortion_12f_36: -8150700430591993974
+      anomaly_distortion_12f_37: 709091625643635728
+      anomaly_distortion_12f_38: -903603420286691169
+      anomaly_distortion_12f_39: -2680717706011289715
+      anomaly_distortion_12f_4: 4770136790458471621
+      anomaly_distortion_12f_40: -2237314812565043016
+      anomaly_distortion_12f_41: 6785969000457612358
+      anomaly_distortion_12f_42: -8471914647243254975
+      anomaly_distortion_12f_43: -8978231099528809707
+      anomaly_distortion_12f_44: -6313464317899520949
+      anomaly_distortion_12f_45: -723936566857379926
+      anomaly_distortion_12f_46: 290398761505005733
+      anomaly_distortion_12f_47: 3255234351828045876
+      anomaly_distortion_12f_5: 2917169398473816614
+      anomaly_distortion_12f_6: 7617545216397274921
+      anomaly_distortion_12f_7: 2849855026093168319
+      anomaly_distortion_12f_8: -465404843540664420
+      anomaly_distortion_12f_9: -3109859086943912825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
